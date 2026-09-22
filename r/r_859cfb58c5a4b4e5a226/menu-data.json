@@ -1,0 +1,840 @@
+{
+  "title": "Munch Coffee",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "bocadillos",
+      "name_original": "Franchu",
+      "names": {
+        "es": "Franchu",
+        "en": "Franchu",
+        "fr": "Franchu"
+      },
+      "printed_names": {
+        "es": "Franchu",
+        "en": "Franchu"
+      },
+      "descriptions": {
+        "es": "Tortilla francesa, pavo o jamón cocido, queso fundido, tomate destrozado y mayonesa.",
+        "en": "French omelette, turkey or cooked ham, melted cheese, crushed tomato and mayonnaise.",
+        "fr": "Omelette, dinde ou jambon cuit, fromage fondu, tomate écrasée et mayonnaise."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 350
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 490
+        }
+      ],
+      "price_minor": 490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "bocadillos",
+      "name_original": "Vegetal",
+      "names": {
+        "es": "Vegetal",
+        "en": "Vegetable",
+        "fr": "Vegetal"
+      },
+      "printed_names": {
+        "es": "Vegetal",
+        "en": "Vegetable"
+      },
+      "descriptions": {
+        "es": "Lechuga, tomate, mayonesa y a elegir: jamón cocido y queso, bacon o atún.",
+        "en": "Lettuce, tomato, mayonnaise and a choice of cooked ham and cheese, bacon or tuna.",
+        "fr": "Laitue, tomate, mayonnaise et au choix : jambon cuit et fromage, bacon ou thon."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 470
+        }
+      ],
+      "price_minor": 470,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "bocadillos",
+      "name_original": "Bestiano",
+      "names": {
+        "es": "Bestiano",
+        "en": "Bestiano",
+        "fr": "Bestiano"
+      },
+      "printed_names": {
+        "es": "Bestiano",
+        "en": "Bestiano"
+      },
+      "descriptions": {
+        "es": "Pechuga de pollo o lomo de cerdo, jamón cocido o pavo, queso fundido, huevo a la plancha, tomate y mayonesa.",
+        "en": "Chicken breast or pork loin, cooked ham or turkey, melted cheese, fried egg, tomato and mayonnaise.",
+        "fr": "Blanc de poulet ou longe de porc, jambon cuit ou dinde, fromage fondu, œuf au plat, tomate et mayonnaise."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 390
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 590
+        }
+      ],
+      "price_minor": 590,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "bocadillos",
+      "name_original": "Don José",
+      "names": {
+        "es": "Don José",
+        "en": "Don José",
+        "fr": "Don José"
+      },
+      "printed_names": {
+        "es": "Don José",
+        "en": "Don José"
+      },
+      "descriptions": {
+        "es": "Pechuga de pollo o lomo de cerdo, tomate, lechuga y mayonesa.",
+        "en": "Chicken breast or pork loin, tomato, lettuce and mayonnaise.",
+        "fr": "Blanc de poulet ou longe de porc, tomate, laitue et mayonnaise."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 340
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 490
+        }
+      ],
+      "price_minor": 490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "bocadillos",
+      "name_original": "Nobrum",
+      "names": {
+        "es": "Nobrum",
+        "en": "Nobrum",
+        "fr": "Nobrum"
+      },
+      "printed_names": {
+        "es": "Nobrum",
+        "en": "Nobrum"
+      },
+      "descriptions": {
+        "es": "Pechuga de pollo o lomo de cerdo, bacon, queso fundido y mayonesa.",
+        "en": "Chicken breast or pork loin, bacon, melted cheese and mayonnaise.",
+        "fr": "Blanc de poulet ou longe de porc, bacon, fromage fondu et mayonnaise."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 350
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 500
+        }
+      ],
+      "price_minor": 500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "bocadillos",
+      "name_original": "Serranito",
+      "names": {
+        "es": "Serranito",
+        "en": "Serranito",
+        "fr": "Serranito"
+      },
+      "printed_names": {
+        "es": "Serranito",
+        "en": "Serranito"
+      },
+      "descriptions": {
+        "es": "Pechuga de pollo o lomo de cerdo, jamón serrano, pimiento y nuestro alioli casero.",
+        "en": "Chicken breast or pork loin, Serrano ham, pepper and homemade aioli.",
+        "fr": "Blanc de poulet ou longe de porc, jambon serrano, poivron et aïoli maison."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 340
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 490
+        }
+      ],
+      "price_minor": 490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "bocadillos",
+      "name_original": "Pavero",
+      "names": {
+        "es": "Pavero",
+        "en": "Pavero",
+        "fr": "Pavero"
+      },
+      "printed_names": {
+        "es": "Pavero",
+        "en": "Pavero"
+      },
+      "descriptions": {
+        "es": "Pavo, queso fresco, tomate destrozado, aguacate y rúcula.",
+        "en": "Turkey, fresh cheese, crushed tomato, avocado and rocket.",
+        "fr": "Dinde, fromage frais, tomate écrasée, avocat et roquette."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 330
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 470
+        }
+      ],
+      "price_minor": 470,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "bocadillos",
+      "name_original": "Bocagua",
+      "names": {
+        "es": "Bocagua",
+        "en": "Bocagua",
+        "fr": "Bocagua"
+      },
+      "printed_names": {
+        "es": "Bocagua",
+        "en": "Bocagua"
+      },
+      "descriptions": {
+        "es": "Tomate en rodajas, aguacate y chía.",
+        "en": "Sliced tomato, avocado and chia seeds.",
+        "fr": "Tomate en tranches, avocat et graines de chia."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 280
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 390
+        }
+      ],
+      "price_minor": 390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "bocadillos",
+      "name_original": "Torcate",
+      "names": {
+        "es": "Torcate",
+        "en": "Torcate",
+        "fr": "Torcate"
+      },
+      "printed_names": {
+        "es": "Torcate",
+        "en": "Torcate"
+      },
+      "descriptions": {
+        "es": "Tortilla francesa, aguacate, queso fresco y rúcula.",
+        "en": "French omelette, avocado, fresh cheese and rocket.",
+        "fr": "Omelette, avocat, fromage frais et roquette."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 350
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 490
+        }
+      ],
+      "price_minor": 490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "bocadillos",
+      "name_original": "Salmonete",
+      "names": {
+        "es": "Salmonete",
+        "en": "Salmonete",
+        "fr": "Salmonete"
+      },
+      "printed_names": {
+        "es": "Salmonete",
+        "en": "Salmonete"
+      },
+      "descriptions": {
+        "es": "Salmón ahumado, queso de untar, rúcula y eneldo.",
+        "en": "Smoked salmon, cream cheese, rocket and dill.",
+        "fr": "Saumon fumé, fromage à tartiner, roquette et aneth."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 380
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 550
+        }
+      ],
+      "price_minor": 550,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "bocadillos",
+      "name_original": "Campestre",
+      "names": {
+        "es": "Campestre",
+        "en": "Countryside",
+        "fr": "Campestre"
+      },
+      "printed_names": {
+        "es": "Campestre",
+        "en": "Countryside"
+      },
+      "descriptions": {
+        "es": "Jamón serrano, queso manchego, aceite y tomate destrozado.",
+        "en": "Serrano ham, Manchego cheese, oil and crushed tomato.",
+        "fr": "Jambon serrano, manchego, huile et tomate écrasée."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 290
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 420
+        }
+      ],
+      "price_minor": 420,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "bocadillos",
+      "name_original": "Torti",
+      "names": {
+        "es": "Torti",
+        "en": "Omelet",
+        "fr": "Torti"
+      },
+      "printed_names": {
+        "es": "Torti",
+        "en": "Omelet"
+      },
+      "descriptions": {
+        "es": "Tortilla francesa o de patata y tomate.",
+        "en": "French omelette or potato omelette and tomato.",
+        "fr": "Omelette nature ou aux pommes de terre et tomate."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 280
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 400
+        }
+      ],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "bocadillos",
+      "name_original": "Tradicional",
+      "names": {
+        "es": "Tradicional",
+        "en": "Traditional",
+        "fr": "Tradicional"
+      },
+      "printed_names": {
+        "es": "Tradicional",
+        "en": "Traditional"
+      },
+      "descriptions": {
+        "es": "Mixto, Catalán, bacon o zurrapa casera.",
+        "en": "Mixed, Catalan, bacon or homemade zurrapa.",
+        "fr": "Mixto, Catalán, bacon ou zurrapa maison."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 240
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 380
+        }
+      ],
+      "price_minor": 380,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "bocadillos",
+      "name_original": "Tostada clásica",
+      "names": {
+        "es": "Tostada clásica",
+        "en": "Classic toast",
+        "fr": "Tartine classique"
+      },
+      "printed_names": {
+        "es": "Tostada clásica",
+        "en": "Classic toast"
+      },
+      "descriptions": {
+        "es": "Tomate, aceite o mantequilla.",
+        "en": "Tomato, oil or butter.",
+        "fr": "Tomate, huile ou beurre."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 190
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 290
+        }
+      ],
+      "price_minor": 290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "bocadillos",
+      "name_original": "Embutido",
+      "names": {
+        "es": "Embutido",
+        "en": "Cold cuts or cheese",
+        "fr": "Charcuterie ou fromage"
+      },
+      "printed_names": {
+        "es": "Embutido",
+        "en": "CONTAINED"
+      },
+      "descriptions": {
+        "es": "A elegir: jamón cocido, pavo, salchichón o queso edam.",
+        "en": "Choice of cooked ham, turkey, salchichón or Edam cheese.",
+        "fr": "Au choix : jambon cuit, dinde, salchichón ou edam."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo",
+            "en": "Pitufo",
+            "fr": "Pitufo"
+          },
+          "price_minor": 220
+        },
+        {
+          "labels": {
+            "es": "Viena / mollete",
+            "en": "Viena / mollete",
+            "fr": "Viena / mollete"
+          },
+          "price_minor": 340
+        }
+      ],
+      "price_minor": 340,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "huevos",
+      "name_original": "Fortachona",
+      "names": {
+        "es": "Fortachona",
+        "en": "Fortachona",
+        "fr": "Fortachona"
+      },
+      "printed_names": {
+        "es": "Fortachona",
+        "en": "Fortachona"
+      },
+      "descriptions": {
+        "es": "Suave tortilla con pavo, queso, cebollita, zanahoria y espinaca fresca acompañada de ensalada de cherry.",
+        "en": "Soft omelette with turkey, cheese, spring onion, carrot and fresh spinach, served with cherry tomato salad.",
+        "fr": "Omelette moelleuse à la dinde, fromage, oignon nouveau, carotte et épinards frais, accompagnée d’une salade de tomates cerises."
+      },
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "huevos",
+      "name_original": "Huevos Munedict",
+      "names": {
+        "es": "Huevos Munedict",
+        "en": "Munedict eggs",
+        "fr": "Œufs Munedict"
+      },
+      "printed_names": {
+        "es": "Huevos Munedict",
+        "en": "Munedict eggs"
+      },
+      "descriptions": {
+        "es": "Dos huevos poché con bacon o salmón ahumado, salsa holandesa a nuestro estilo, base de pan y rúcula.",
+        "en": "Two poached eggs with bacon or smoked salmon, our hollandaise sauce, bread and rocket.",
+        "fr": "Deux œufs pochés avec bacon ou saumon fumé, sauce hollandaise maison, pain et roquette."
+      },
+      "price_variants": [],
+      "price_minor": 790,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "huevos",
+      "name_original": "Inglé",
+      "names": {
+        "es": "Inglé",
+        "en": "Inglé",
+        "fr": "Inglé"
+      },
+      "printed_names": {
+        "es": "Inglé",
+        "en": "EINGLÉ"
+      },
+      "descriptions": {
+        "es": "Dos huevos plancha, bacon o pavo, tomate y tostada de pan blanco o multicereales.",
+        "en": "Two fried eggs, bacon or turkey, tomato and white or multigrain toast.",
+        "fr": "Deux œufs au plat, bacon ou dinde, tomate et pain grillé blanc ou multicéréales."
+      },
+      "price_variants": [],
+      "price_minor": 690,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "huevos",
+      "name_original": "Aguator",
+      "names": {
+        "es": "Aguator",
+        "en": "Aguator",
+        "fr": "Aguator"
+      },
+      "printed_names": {
+        "es": "Aguator",
+        "en": "Aguator"
+      },
+      "descriptions": {
+        "es": "Suave tortilla de huevos, aguacate, mini ensalada con aove y tostitas de pan multicereales.",
+        "en": "Soft omelette, avocado, small salad with extra virgin olive oil and multigrain toast.",
+        "fr": "Omelette moelleuse, avocat, petite salade à l’huile d’olive vierge extra et pain multicéréales grillé."
+      },
+      "price_variants": [],
+      "price_minor": 590,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "bocadillos",
+      "names": {
+        "es": "Bocadillos",
+        "en": "Filled bread rolls",
+        "fr": "Sandwichs"
+      }
+    },
+    {
+      "category_id": "huevos",
+      "names": {
+        "es": "De huevos",
+        "en": "Egg dishes",
+        "fr": "Les œufs"
+      }
+    }
+  ],
+  "category_notes": {
+    "bocadillos": {
+      "es": "Pitufo: blanco, integral o multicereales. Viena: blanco o mollete. Sin gluten +1 €. Ingrediente extra +1 €. Opción carne vegana +1,50 €. Serranito o Campestre con jamón ibérico de bellota: +1,50 €.",
+      "en": "Pitufo: white, wholemeal or multigrain. Viena: white or mollete. Gluten-free bread +€1. Extra ingredient +€1. Vegan meat option +€1.50. Serranito or Campestre with acorn-fed Iberian ham: +€1.50.",
+      "fr": "Pitufo : blanc, complet ou multicéréales. Viena : blanc ou mollete. Pain sans gluten +1 €. Ingrédient supplémentaire +1 €. Viande végétale +1,50 €. Serranito ou Campestre au jambon ibérique bellota : +1,50 €."
+    },
+    "huevos": {
+      "es": "Ingrediente extra +1 €. Desayunos hasta las 13:00; meriendas de 17:00 a 20:00.",
+      "en": "Extra ingredient +€1. Breakfast until 13:00; afternoon menu 17:00–20:00.",
+      "fr": "Ingrédient supplémentaire +1 €. Petit-déjeuner jusqu’à 13 h ; goûter de 17 h à 20 h."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/embedded-p2-1-v1.webp",
+      "asset_id": "06c4cd9154d93165e080cbf38ea779b2cd9dae486831b6b01c4bb3dff597b91e",
+      "kind": "source",
+      "dimensions": [
+        942,
+        942
+      ],
+      "crop": null,
+      "after_category": "bocadillos",
+      "alt": "Plato de la carta original · Munch Coffee"
+    },
+    {
+      "path": "assets/embedded-p2-0-v1.webp",
+      "asset_id": "e42e955a817f0819f74423c5a3452e967ed917d1ae5a44bf070383e8c2d1a2e7",
+      "kind": "source",
+      "dimensions": [
+        820,
+        650
+      ],
+      "crop": null,
+      "after_category": "huevos",
+      "alt": "Plato de la carta original · Munch Coffee"
+    }
+  ],
+  "restoID": "r_859cfb58c5a4b4e5a226",
+  "menuID": "m_e82916bdef9c1382cecb",
+  "version": 1,
+  "build": "265.10"
+}

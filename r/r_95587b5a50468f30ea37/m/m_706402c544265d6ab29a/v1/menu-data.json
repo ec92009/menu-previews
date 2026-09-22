@@ -1,0 +1,404 @@
+{
+  "title": "Restaurante Ramos",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Ramos",
+      "names": {
+        "es": "Ensalada Ramos",
+        "en": "Ramos salad",
+        "fr": "Salade Ramos"
+      },
+      "printed_names": {
+        "es": "Ensalada Ramos",
+        "en": "Ramos salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 740,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "ensaladas",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian salad",
+        "fr": "Salade russe"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de pimientos caseros",
+      "names": {
+        "es": "Ensalada de pimientos caseros",
+        "en": "Roasted peppers salad",
+        "fr": "Salade de poivrons maison"
+      },
+      "printed_names": {
+        "es": "Ensalada de pimientos caseros",
+        "en": "Roasted peppers salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 790,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de brotes verdes, salmón y pipas de calabaza",
+      "names": {
+        "es": "Ensalada de brotes verdes, salmón y pipas de calabaza",
+        "en": "Salad with green sprouts, salmon and pumpkin seeds",
+        "fr": "Salade de jeunes pousses, saumon et graines de courge"
+      },
+      "printed_names": {
+        "es": "Ensalada de brotes verdes, salmón y pipas de calabaza",
+        "en": "Salad with green sprouts, salmon and pumpkin seeds"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada César",
+      "names": {
+        "es": "Ensalada César",
+        "en": "Caesar salad",
+        "fr": "Salade César"
+      },
+      "printed_names": {
+        "es": "Ensalada César",
+        "en": "Caesar salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 840,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de aguacates con gambas",
+      "names": {
+        "es": "Ensalada de aguacates con gambas",
+        "en": "Avocado salad with prawns",
+        "fr": "Salade d’avocats aux crevettes"
+      },
+      "printed_names": {
+        "es": "Ensalada de aguacates con gambas",
+        "en": "Avocado salad with prawns"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 960,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "ensaladas",
+      "name_original": "Tomate con ventresca",
+      "names": {
+        "es": "Tomate con ventresca",
+        "en": "Tomato salad with tuna belly",
+        "fr": "Tomates à la ventrèche de thon"
+      },
+      "printed_names": {
+        "es": "Tomate con ventresca",
+        "en": "Tomato salad with tuna belly"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 970,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "ensaladas",
+      "name_original": "Salpicón de marisco",
+      "names": {
+        "es": "Salpicón de marisco",
+        "en": "Seafood mix salad",
+        "fr": "Salade de fruits de mer"
+      },
+      "printed_names": {
+        "es": "Salpicón de marisco",
+        "en": "Seafood mix salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "ensaladas",
+      "name_original": "Tomate picado",
+      "names": {
+        "es": "Tomate picado",
+        "en": "Tomato salad",
+        "fr": "Tomates coupées"
+      },
+      "printed_names": {
+        "es": "Tomate picado",
+        "en": "Tomato salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada frutos secos y queso de cabra",
+      "names": {
+        "es": "Ensalada frutos secos y queso de cabra",
+        "en": "Nut and goat cheese salad",
+        "fr": "Salade de fruits à coque et chèvre"
+      },
+      "printed_names": {
+        "es": "Ensalada frutos secos y queso de cabra",
+        "en": "Nut and goat cheese salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "aperitivos",
+      "name_original": "Tortillas de camarón",
+      "names": {
+        "es": "Tortillas de camarón",
+        "en": "Shrimp fritters",
+        "fr": "Galettes de petites crevettes"
+      },
+      "printed_names": {
+        "es": "Tortillas de camarón",
+        "en": "Shrimp Omelettes"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 310,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "aperitivos",
+      "name_original": "Croquetas caseras",
+      "names": {
+        "es": "Croquetas caseras",
+        "en": "Homemade croquettes",
+        "fr": "Croquettes maison"
+      },
+      "printed_names": {
+        "es": "Croquetas caseras",
+        "en": "Homemade croquettes"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 740,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "aperitivos",
+      "name_original": "Berenjenas con miel",
+      "names": {
+        "es": "Berenjenas con miel",
+        "en": "Fried aubergines with honey",
+        "fr": "Aubergines au miel"
+      },
+      "printed_names": {
+        "es": "Berenjenas con miel",
+        "en": "Fried aubergines with honey"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 780,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "aperitivos",
+      "name_original": "Boquerones en vinagre",
+      "names": {
+        "es": "Boquerones en vinagre",
+        "en": "Anchovies in vinegar",
+        "fr": "Anchois au vinaigre"
+      },
+      "printed_names": {
+        "es": "Boquerones en vinagre",
+        "en": "Anchovies in vinegar"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1210,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    },
+    {
+      "category_id": "aperitivos",
+      "names": {
+        "es": "Aperitivos",
+        "en": "Appetizers",
+        "fr": "Entrées"
+      }
+    }
+  ],
+  "category_notes": {
+    "ensaladas": {
+      "es": "Pan +1,20 €. Suplemento sin gluten por ración +1,10 €.",
+      "en": "Bread +€1.20. Gluten-free supplement per portion +€1.10.",
+      "fr": "Pain +1,20 €. Supplément sans gluten par portion +1,10 €."
+    },
+    "aperitivos": {
+      "es": "Pan +1,20 €. Suplemento sin gluten por ración +1,10 €.",
+      "en": "Bread +€1.20. Gluten-free supplement per portion +€1.10.",
+      "fr": "Pain +1,20 €. Supplément sans gluten par portion +1,10 €."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/embedded-p1-oriented-v1.webp",
+      "asset_id": "a35fba1e0a576fbdd652de81fc5c28525585045bf6e2c9013f495859a20eb838",
+      "kind": "source",
+      "dimensions": [
+        2048,
+        1489
+      ],
+      "crop": [
+        32,
+        30,
+        630,
+        135
+      ],
+      "after_category": "ensaladas",
+      "alt": "Plato de la carta original · Restaurante Ramos"
+    },
+    {
+      "path": "assets/embedded-p1-oriented-v1.webp",
+      "asset_id": "a35fba1e0a576fbdd652de81fc5c28525585045bf6e2c9013f495859a20eb838",
+      "kind": "source",
+      "dimensions": [
+        2048,
+        1489
+      ],
+      "crop": [
+        32,
+        646,
+        630,
+        130
+      ],
+      "after_category": "aperitivos",
+      "alt": "Plato de la carta original · Restaurante Ramos"
+    }
+  ],
+  "restoID": "r_95587b5a50468f30ea37",
+  "menuID": "m_706402c544265d6ab29a",
+  "version": 1,
+  "build": "265.6"
+}

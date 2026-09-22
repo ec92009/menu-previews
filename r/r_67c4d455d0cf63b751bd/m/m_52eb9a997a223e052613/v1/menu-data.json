@@ -1,0 +1,1107 @@
+{
+  "title": "Terra Celta",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr",
+    "de"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Croquetas de Jamón Serrano",
+      "names": {
+        "es": "Croquetas de Jamón Serrano",
+        "en": "Serrano ham croquettes",
+        "fr": "Croquettes de jambon serrano",
+        "de": "Serrano-Schinken-Kroketten"
+      },
+      "printed_names": {
+        "es": "Croquetas de Jamón Serrano",
+        "en": "Serrano ham croquettes",
+        "fr": "Croquettes de jambon serrano",
+        "de": "Serrano-Schinken-Kroketten"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media · 4",
+            "en": "Half portion · 4",
+            "fr": "Demi-portion · 4",
+            "de": "Halbe Portion · 4"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración · 8",
+            "en": "Full portion · 8",
+            "fr": "Portion · 8",
+            "de": "Portion · 8"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Croquetas de Cecina y Cabrales",
+      "names": {
+        "es": "Croquetas de Cecina y Cabrales",
+        "en": "Dried beef and Cabrales blue cheese croquettes",
+        "fr": "Croquettes de viande séchée et de fromage bleu de Cabrales",
+        "de": "Trockenfleisch- und Cabrales-Blauschimmelkäse-Kroketten"
+      },
+      "printed_names": {
+        "es": "Croquetas de Cecina y Cabrales",
+        "en": "Dried beef and Cabrales blue cheese croquettes",
+        "fr": "Croquettes de viande séchée et de fromage bleu de Cabrales",
+        "de": "Trockenfleisch- und Cabrales-Blauschimmelkäse-Kroketten"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media · 4",
+            "en": "Half portion · 4",
+            "fr": "Demi-portion · 4",
+            "de": "Halbe Portion · 4"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración · 8",
+            "en": "Full portion · 8",
+            "fr": "Portion · 8",
+            "de": "Portion · 8"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Croquetas “Terra Celta”",
+      "names": {
+        "es": "Croquetas “Terra Celta”",
+        "en": "Terra Celta croquettes",
+        "fr": "Croquettes Terra Celta",
+        "de": "Terra-Celta-Kroketten"
+      },
+      "printed_names": {
+        "es": "Croquetas “Terra Celta”",
+        "en": "Terra Celta croquettes",
+        "fr": "Croquettes Terra Celta",
+        "de": "Terra-Celta-Kroketten"
+      },
+      "descriptions": {
+        "es": "Queso rulo de cabra, cebolla caramelizada y nueces.",
+        "en": "Goat cheese, caramelised onion and walnuts.",
+        "fr": "Fromage de chèvre, oignons caramélisés et noix.",
+        "de": "Ziegenkäse, karamellisierte Zwiebeln und Walnüsse."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media · 4",
+            "en": "Half portion · 4",
+            "fr": "Demi-portion · 4",
+            "de": "Halbe Portion · 4"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración · 8",
+            "en": "Full portion · 8",
+            "fr": "Portion · 8",
+            "de": "Portion · 8"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Croquetas de Chipirón",
+      "names": {
+        "es": "Croquetas de Chipirón",
+        "en": "Squid croquettes in their ink",
+        "fr": "Croquettes de calamar à l’encre",
+        "de": "Tintenfischkroketten in eigener Tinte"
+      },
+      "printed_names": {
+        "es": "Croquetas de Chipirón",
+        "en": "Squid croquettes in their ink",
+        "fr": "Croquettes de fruits de mer",
+        "de": "Meeresfrüchtekroketten"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media · 4",
+            "en": "Half portion · 4",
+            "fr": "Demi-portion · 4",
+            "de": "Halbe Portion · 4"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración · 8",
+            "en": "Full portion · 8",
+            "fr": "Portion · 8",
+            "de": "Portion · 8"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Mixto de croquetas",
+      "names": {
+        "es": "Mixto de croquetas",
+        "en": "Mixed croquettes",
+        "fr": "Croquettes mixtes",
+        "de": "Gemischte Kroketten"
+      },
+      "printed_names": {
+        "es": "Mixto de croquetas",
+        "en": "Mixed croquettes",
+        "fr": "Croquettes mixtes",
+        "de": "Gemischte Kroketten"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media · 4",
+            "en": "Half portion · 4",
+            "fr": "Demi-portion · 4",
+            "de": "Halbe Portion · 4"
+          },
+          "price_minor": 800
+        },
+        {
+          "labels": {
+            "es": "Ración · 8",
+            "en": "Full portion · 8",
+            "fr": "Portion · 8",
+            "de": "Portion · 8"
+          },
+          "price_minor": 1500
+        }
+      ],
+      "price_minor": 1500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Ensaladilla Rusa",
+      "names": {
+        "es": "Ensaladilla Rusa",
+        "en": "Russian salad",
+        "fr": "Salade russe",
+        "de": "Russischer Salat"
+      },
+      "printed_names": {
+        "es": "Ensaladilla Rusa",
+        "en": "Russian salad",
+        "fr": "Salade russe",
+        "de": "Russischer Salat"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 600
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 900
+        }
+      ],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Ensaladilla Celta",
+      "names": {
+        "es": "Ensaladilla Celta",
+        "en": "Celtic salad",
+        "fr": "Salade Celta",
+        "de": "Celta-Salat"
+      },
+      "printed_names": {
+        "es": "Ensaladilla Celta",
+        "en": "Celtic salad",
+        "fr": "Salade Celta",
+        "de": "Celta-Salat"
+      },
+      "descriptions": {
+        "es": "Base de ensaladilla rusa con aguacate, salmón ahumado y gambas.",
+        "en": "Russian salad base with avocado, smoked salmon and shrimp.",
+        "fr": "Base de salade russe avec avocat, saumon fumé et crevettes.",
+        "de": "Russischer Salat mit Avocado, Räucherlachs und Garnelen."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Pastel de Cabracho",
+      "names": {
+        "es": "Pastel de Cabracho",
+        "en": "Homemade fish pâté",
+        "fr": "Pâté de poisson",
+        "de": "Fischpastete"
+      },
+      "printed_names": {
+        "es": "Pastel de Cabracho",
+        "en": "Homemade fish pâté",
+        "fr": "Pâté de poisson",
+        "de": "Fischpastete"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Tabla de quesos Asturianos",
+      "names": {
+        "es": "Tabla de quesos Asturianos",
+        "en": "Assortment of Asturian cheeses",
+        "fr": "Assortiment de fromages asturiens",
+        "de": "Sortiment asturischer Käsesorten"
+      },
+      "printed_names": {
+        "es": "Tabla de quesos Asturianos",
+        "en": "Assortment of Asturian cheeses",
+        "fr": "Assortiment de fromages asturiens",
+        "de": "Sortiment asturischer Käsesorten"
+      },
+      "descriptions": {
+        "es": "220 g. Para compartir entre dos o más. Cabrales, La Peral, Vidiago, Pría y Naranjo de Bulnes.",
+        "en": "220 g. For two or more to share. Cabrales, La Peral, Vidiago, Pría and Naranjo de Bulnes.",
+        "fr": "220 g. À partager à deux ou plus. Cabrales, La Peral, Vidiago, Pría et Naranjo de Bulnes.",
+        "de": "220 g. Zum Teilen ab zwei Personen. Cabrales, La Peral, Vidiago, Pría und Naranjo de Bulnes."
+      },
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Choricitos a la sidra",
+      "names": {
+        "es": "Choricitos a la sidra",
+        "en": "Cider chorizo",
+        "fr": "Chorizo au cidre",
+        "de": "Apfelwein-Chorizo"
+      },
+      "printed_names": {
+        "es": "Choricitos a la sidra",
+        "en": "Cider chorizo",
+        "fr": "Chorizo au cidre",
+        "de": "Apfelwein-Chorizo"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Champiñones al ajillo",
+      "names": {
+        "es": "Champiñones al ajillo",
+        "en": "Garlic mushrooms",
+        "fr": "Champignons à l’ail",
+        "de": "Knoblauchpilze"
+      },
+      "printed_names": {
+        "es": "Champiñones al ajillo",
+        "en": "Garlic mushrooms",
+        "fr": "Champignons à l’ail",
+        "de": "Knoblauchpilze"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 600
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "entrantes",
+      "name_original": "Patatas Ali Oli",
+      "names": {
+        "es": "Patatas Ali Oli",
+        "en": "Aioli potatoes",
+        "fr": "Pommes de terre aïoli",
+        "de": "Aioli-Kartoffeln"
+      },
+      "printed_names": {
+        "es": "Patatas Ali Oli",
+        "en": "Aioli potatoes",
+        "fr": "Pommes de terre aïoli",
+        "de": "Aioli-Kartoffeln"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 550
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 900
+        }
+      ],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "entrantes",
+      "name_original": "Patatas Bravas",
+      "names": {
+        "es": "Patatas Bravas",
+        "en": "Bravas potatoes",
+        "fr": "Pommes de terre bravas",
+        "de": "Bravas-Kartoffeln"
+      },
+      "printed_names": {
+        "es": "Patatas Bravas",
+        "en": "Bravas potatoes",
+        "fr": "Pommes de terre bravas",
+        "de": "Bravas-Kartoffeln"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 600
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 950
+        }
+      ],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "entrantes",
+      "name_original": "Patatas al Cabrales",
+      "names": {
+        "es": "Patatas al Cabrales",
+        "en": "Cabrales blue cheese potatoes",
+        "fr": "Pommes de terre au fromage bleu de Cabrales",
+        "de": "Cabrales-Blauschimmelkäse-Kartoffeln"
+      },
+      "printed_names": {
+        "es": "Patatas al Cabrales",
+        "en": "Cabrales blue cheese potatoes",
+        "fr": "Pommes de terre au fromage bleu de Cabrales",
+        "de": "Cabrales-Blauschimmelkäse-Kartoffeln"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion",
+            "de": "Halbe Portion"
+          },
+          "price_minor": 650
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion",
+            "de": "Portion"
+          },
+          "price_minor": 990
+        }
+      ],
+      "price_minor": 990,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "entrantes",
+      "name_original": "Pimientos del Padrón S/T",
+      "names": {
+        "es": "Pimientos del Padrón S/T",
+        "en": "Padrón peppers, seasonal",
+        "fr": "Poivrons de Padrón, selon saison",
+        "de": "Padrón-Paprika, saisonal"
+      },
+      "printed_names": {
+        "es": "Pimientos del Padrón S/T",
+        "en": "Padrón peppers, seasonal",
+        "fr": "Poivrons de Padrón, selon saison",
+        "de": "Padrón-Paprika, saisonal"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "entrantes",
+      "name_original": "Fabada Asturiana",
+      "names": {
+        "es": "Fabada Asturiana",
+        "en": "Asturian fabada",
+        "fr": "Fabada asturienne",
+        "de": "Asturische Fabada"
+      },
+      "printed_names": {
+        "es": "Fabada Asturiana",
+        "en": "Asturian fabada",
+        "fr": "Fabada asturienne",
+        "de": "Asturische Fabada"
+      },
+      "descriptions": {
+        "es": "Fabada: alubias con chorizo, morcilla y panceta.",
+        "en": "Beans with chorizo, black pudding and bacon.",
+        "fr": "Haricots au chorizo, boudin noir et lard.",
+        "de": "Bohnen mit Chorizo, Blutwurst und Speck."
+      },
+      "price_variants": [],
+      "price_minor": 1490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "entrantes",
+      "name_original": "Langostinos al Ajillo",
+      "names": {
+        "es": "Langostinos al Ajillo",
+        "en": "Garlic prawns",
+        "fr": "Crevettes à l’ail",
+        "de": "Knoblauchgarnelen"
+      },
+      "printed_names": {
+        "es": "Langostinos al Ajillo",
+        "en": "Garlic prawns",
+        "fr": "Crevettes à l’ail",
+        "de": "Knoblauchgarnelen"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "entrantes",
+      "name_original": "Cazuela de Langostinos y Pulpo al ajillo",
+      "names": {
+        "es": "Cazuela de Langostinos y Pulpo al ajillo",
+        "en": "Garlic prawn and octopus casserole",
+        "fr": "Casserole de crevettes et de poulpe à l’ail",
+        "de": "Knoblauchgarnelen- und Oktopus-Auflauf"
+      },
+      "printed_names": {
+        "es": "Cazuela de Langostinos y Pulpo al ajillo",
+        "en": "Garlic prawn and octopus casserole",
+        "fr": "Casserole de crevettes et de poulpe à l’ail",
+        "de": "Knoblauchgarnelen- und Oktopus-Auflauf"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "entrantes",
+      "name_original": "Chipirones a la Plancha",
+      "names": {
+        "es": "Chipirones a la Plancha",
+        "en": "Grilled squid",
+        "fr": "Calamars grillés",
+        "de": "Gegrillte Tintenfische"
+      },
+      "printed_names": {
+        "es": "Chipirones a la Plancha",
+        "en": "Grilled squid",
+        "fr": "Calamars grillés",
+        "de": "Gegrillte Tintenfische"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i020",
+      "category_id": "entrantes",
+      "name_original": "Zamburiñas a la Plancha",
+      "names": {
+        "es": "Zamburiñas a la Plancha",
+        "en": "Grilled scallops",
+        "fr": "Pétoncles grillés",
+        "de": "Gegrillte Kammmuscheln"
+      },
+      "printed_names": {
+        "es": "Zamburiñas a la Plancha",
+        "en": "Grilled scallops",
+        "fr": "Coquilles Saint-Jacques grillées",
+        "de": "Gegrillte Jakobsmuscheln"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i021",
+      "category_id": "entrantes",
+      "name_original": "Pulpo a la Gallega",
+      "names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Galician-style octopus",
+        "fr": "Poulpe à la galicienne",
+        "de": "Oktopus nach galizischer Art"
+      },
+      "printed_names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Galician-style octopus",
+        "fr": "Poulpe à la galicienne",
+        "de": "Oktopus nach galizischer Art"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i022",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada simple",
+      "names": {
+        "es": "Ensalada simple",
+        "en": "Simple salad",
+        "fr": "Salade simple",
+        "de": "Einfacher Salat"
+      },
+      "printed_names": {
+        "es": "Ensalada simple",
+        "en": "Simple salad",
+        "fr": "Salade simple",
+        "de": "Einfacher Salat"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechugas, tomate y cebolla.",
+        "en": "Mixed lettuce, tomato and onion.",
+        "fr": "Laitues mélangées, tomate et oignon.",
+        "de": "Gemischter Blattsalat, Tomate und Zwiebel."
+      },
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i023",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada mixta clásica",
+      "names": {
+        "es": "Ensalada mixta clásica",
+        "en": "Classic mixed salad",
+        "fr": "Salade mixte classique",
+        "de": "Klassischer gemischter Salat"
+      },
+      "printed_names": {
+        "es": "Ensalada mixta clásica",
+        "en": "Classic mixed salad",
+        "fr": "Salade mixte classique",
+        "de": "Klassischer gemischter Salat"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechugas, tomate, cebolla, espárragos, atún y huevo cocido.",
+        "en": "Mixed lettuce, tomato, onion, asparagus, tuna and boiled egg.",
+        "fr": "Laitues mélangées, tomate, oignon, asperges, thon et œuf dur.",
+        "de": "Blattsalat, Tomate, Zwiebel, Spargel, Thunfisch und gekochtes Ei."
+      },
+      "price_variants": [],
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i024",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Terra Celta",
+      "names": {
+        "es": "Ensalada Terra Celta",
+        "en": "Terra Celta salad",
+        "fr": "Salade Terra Celta",
+        "de": "Terra-Celta-Salat"
+      },
+      "printed_names": {
+        "es": "Ensalada Terra Celta",
+        "en": "Terra Celta salad",
+        "fr": "Salade Terra Celta",
+        "de": "Terra-Celta-Salat"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechugas, tomate, aguacate, cherry, salmón ahumado, pasas, nueces y queso fresco.",
+        "en": "Mixed lettuce, tomato, avocado, cherry tomato, smoked salmon, raisins, walnuts and fresh cheese.",
+        "fr": "Laitues mélangées, tomate, avocat, tomates cerises, saumon fumé, raisins secs, noix et fromage frais.",
+        "de": "Blattsalat, Tomate, Avocado, Kirschtomate, Räucherlachs, Rosinen, Walnüsse und Frischkäse."
+      },
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i025",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de Burrata",
+      "names": {
+        "es": "Ensalada de Burrata",
+        "en": "Burrata salad with pesto",
+        "fr": "Salade de burrata au pesto",
+        "de": "Burrata-Salat mit Pesto"
+      },
+      "printed_names": {
+        "es": "Ensalada de Burrata",
+        "en": "Burrata salad with pesto",
+        "fr": "Salade de burrata au pesto",
+        "de": "Burrata-Salat mit Pesto"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechuga, albahaca, burrata, tomate cherry y salsa al pesto.",
+        "en": "Mixed lettuce, basil, burrata, cherry tomato and pesto sauce.",
+        "fr": "Laitues mélangées, basilic, burrata, tomates cerises et sauce pesto.",
+        "de": "Blattsalat, Basilikum, Burrata, Kirschtomaten und Pesto."
+      },
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i026",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de Gulas al Ajillo",
+      "names": {
+        "es": "Ensalada de Gulas al Ajillo",
+        "en": "Garlic gulas salad",
+        "fr": "Salade de gulas à l’ail",
+        "de": "Knoblauch-Gulas-Salat"
+      },
+      "printed_names": {
+        "es": "Ensalada de Gulas al Ajillo",
+        "en": "Garlic Eels Salad",
+        "fr": "Salade d’anguilles à l’ail",
+        "de": "Knoblauch-Aal-Salat"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechugas, tomate cherry, queso fresco y gulas al ajillo.",
+        "en": "Mixed lettuce, cherry tomato, fresh cheese and garlic gulas.",
+        "fr": "Laitues mélangées, tomates cerises, fromage frais et gulas à l’ail.",
+        "de": "Blattsalat, Kirschtomaten, Frischkäse und Knoblauch-Gulas."
+      },
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i027",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de Pollo Crujiente",
+      "names": {
+        "es": "Ensalada de Pollo Crujiente",
+        "en": "Crispy chicken salad",
+        "fr": "Salade de poulet croustillant",
+        "de": "Knuspriger Hühnersalat"
+      },
+      "printed_names": {
+        "es": "Ensalada de Pollo Crujiente",
+        "en": "Crispy chicken salad",
+        "fr": "Salade de poulet croustillant",
+        "de": "Knuspriger Hühnersalat"
+      },
+      "descriptions": {
+        "es": "Pollo crujiente, mezcla de lechugas, tomate, aguacate, parmesano, nueces y salsa mostaza-miel o César.",
+        "en": "Crispy chicken, mixed lettuce, tomato, avocado, parmesan, walnuts and honey-mustard sauce or Caesar dressing.",
+        "fr": "Poulet croustillant, laitues mélangées, tomate, avocat, parmesan, noix et sauce miel-moutarde ou César.",
+        "de": "Knuspriges Hähnchen, Blattsalat, Tomate, Avocado, Parmesan, Walnüsse und Honig-Senf- oder Caesar-Dressing."
+      },
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i028",
+      "category_id": "ensaladas",
+      "name_original": "Alcachofas Confitadas a la Plancha con virutas de Jamón",
+      "names": {
+        "es": "Alcachofas Confitadas a la Plancha con virutas de Jamón",
+        "en": "Grilled confit artichokes with ham shavings",
+        "fr": "Artichauts confits grillés aux copeaux de jambon",
+        "de": "Konfierte Artischocken vom Grill mit Schinkenspänen"
+      },
+      "printed_names": {
+        "es": "Alcachofas Confitadas a la Plancha con virutas de Jamón",
+        "en": "Grilled confit artichokes with ham shavings",
+        "fr": "Artichauts confits grillés aux copeaux de jambon",
+        "de": "Konfierte Artischocken vom Grill mit Schinkenspänen"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i029",
+      "category_id": "ensaladas",
+      "name_original": "Carpaccio de Remolacha",
+      "names": {
+        "es": "Carpaccio de Remolacha",
+        "en": "Beetroot carpaccio",
+        "fr": "Carpaccio de betterave",
+        "de": "Rote-Bete-Carpaccio"
+      },
+      "printed_names": {
+        "es": "Carpaccio de Remolacha",
+        "en": "Beetroot carpaccio",
+        "fr": "Carpaccio de betterave",
+        "de": "Rote-Bete-Carpaccio"
+      },
+      "descriptions": {
+        "es": "Remolacha, rúcula, parmesano, manzana, nueces, pesto de albahaca y pistacho o salsa mostaza-miel.",
+        "en": "Beetroot, rocket, parmesan, apple, walnuts, basil-pistachio pesto or honey-mustard sauce.",
+        "fr": "Betterave, roquette, parmesan, pomme, noix, pesto basilic-pistache ou sauce miel-moutarde.",
+        "de": "Rote Bete, Rucola, Parmesan, Apfel, Walnüsse, Basilikum-Pistazien-Pesto oder Honig-Senf-Sauce."
+      },
+      "price_variants": [],
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes para compartir",
+        "en": "Starters to share",
+        "fr": "Entrées à partager",
+        "de": "Vorspeisen zum Teilen"
+      }
+    },
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas y verduras",
+        "en": "Salads and vegetables",
+        "fr": "Salades et légumes",
+        "de": "Salate und Gemüse"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "db75da37961892451fd7eeae42d9c4976a290209ad6c9fa5afa3e5b67b4de02b",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "alt": "Ilustración gastronómica · Terra Celta"
+    }
+  ],
+  "restoID": "r_67c4d455d0cf63b751bd",
+  "menuID": "m_52eb9a997a223e052613",
+  "version": 1,
+  "build": "265.6"
+}

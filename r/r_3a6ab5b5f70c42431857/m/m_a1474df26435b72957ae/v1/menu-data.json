@@ -1,0 +1,721 @@
+{
+  "title": "José Cerdán",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Gazpacho",
+      "names": {
+        "es": "Gazpacho",
+        "en": "Gazpacho",
+        "fr": "Gaspacho"
+      },
+      "printed_names": {
+        "es": "Gazpacho",
+        "en": "Gazpacho"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Sopa de marisco",
+      "names": {
+        "es": "Sopa de marisco",
+        "en": "Seafood soup",
+        "fr": "Soupe de fruits de mer"
+      },
+      "printed_names": {
+        "es": "Sopa de marisco",
+        "en": "Seafood soup"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Sopa de tomate",
+      "names": {
+        "es": "Sopa de tomate",
+        "en": "Tomato soup",
+        "fr": "Soupe de tomates"
+      },
+      "printed_names": {
+        "es": "Sopa de tomate",
+        "en": "Tomato soup"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Ensalada mixta",
+      "names": {
+        "es": "Ensalada mixta",
+        "en": "Mixed salad",
+        "fr": "Salade composée"
+      },
+      "printed_names": {
+        "es": "Ensalada mixta",
+        "en": "Mixed salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Pipirrana de pulpo",
+      "names": {
+        "es": "Pipirrana de pulpo",
+        "en": "Octopus salad",
+        "fr": "Salade de poulpe"
+      },
+      "printed_names": {
+        "es": "Pipirrana de pulpo",
+        "en": "Octopus salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Ensalada de langostinos",
+      "names": {
+        "es": "Ensalada de langostinos",
+        "en": "Prawn salad",
+        "fr": "Salade de crevettes"
+      },
+      "printed_names": {
+        "es": "Ensalada de langostinos",
+        "en": "Prawns and Crabstick salad"
+      },
+      "descriptions": {
+        "es": "Con salsa rosa tropical.",
+        "en": "With tropical cocktail sauce.",
+        "fr": "Avec sauce cocktail tropicale."
+      },
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Ensalada Cerdán",
+      "names": {
+        "es": "Ensalada Cerdán",
+        "en": "Cerdán salad",
+        "fr": "Salade Cerdán"
+      },
+      "printed_names": {
+        "es": "Ensalada Cerdán",
+        "en": "Cerdán salad"
+      },
+      "descriptions": {
+        "es": "Mezcla de lechugas, pasas, nueces, tomate cherry, queso de cabra caramelizado y salsa de miel y mostaza.",
+        "en": "Mixed lettuce, raisins, walnuts, cherry tomato, caramelised goat cheese and honey-mustard dressing.",
+        "fr": "Salades mélangées, raisins secs, noix, tomates cerises, chèvre caramélisé et sauce miel-moutarde."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian salad",
+        "fr": "Salade russe"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian salad"
+      },
+      "descriptions": {
+        "es": "Con atún.",
+        "en": "With tuna.",
+        "fr": "Au thon."
+      },
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Ensaladilla rusa a la gallega",
+      "names": {
+        "es": "Ensaladilla rusa a la gallega",
+        "en": "Galician-style Russian salad",
+        "fr": "Salade russe à la galicienne"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa a la gallega",
+        "en": "Galician-style Russian salad"
+      },
+      "descriptions": {
+        "es": "Con pulpo a la gallega.",
+        "en": "With Galician-style octopus.",
+        "fr": "Au poulpe à la galicienne."
+      },
+      "price_variants": [],
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Ensalada de tomates",
+      "names": {
+        "es": "Ensalada de tomates",
+        "en": "Tomato salad",
+        "fr": "Salade de tomates"
+      },
+      "printed_names": {
+        "es": "Ensalada de tomates",
+        "en": "Tomato salad"
+      },
+      "descriptions": {
+        "es": "Tomate castellano con ventresca.",
+        "en": "Castilian tomato with tuna belly.",
+        "fr": "Tomates castillanes à la ventrèche de thon."
+      },
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Ensalada de pimientos",
+      "names": {
+        "es": "Ensalada de pimientos",
+        "en": "Pepper salad",
+        "fr": "Salade de poivrons"
+      },
+      "printed_names": {
+        "es": "Ensalada de pimientos",
+        "en": "Pepper salad"
+      },
+      "descriptions": {
+        "es": "Pimientos asados a la leña.",
+        "en": "Wood-roasted peppers.",
+        "fr": "Poivrons grillés au feu de bois."
+      },
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "mariscos",
+      "name_original": "Conchas finas",
+      "names": {
+        "es": "Conchas finas",
+        "en": "Smooth clams",
+        "fr": "Amandes de mer"
+      },
+      "printed_names": {
+        "es": "Conchas finas",
+        "en": "Smooth clams"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Natural",
+            "en": "Raw",
+            "fr": "Nature"
+          },
+          "price_minor": 350
+        },
+        {
+          "labels": {
+            "es": "Plancha",
+            "en": "Grilled",
+            "fr": "Grillées"
+          },
+          "price_minor": 450
+        }
+      ],
+      "price_minor": 350,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "mariscos",
+      "name_original": "Gambas de Málaga",
+      "names": {
+        "es": "Gambas de Málaga",
+        "en": "Málaga grilled prawns",
+        "fr": "Crevettes de Málaga grillées"
+      },
+      "printed_names": {
+        "es": "Gambas de Málaga",
+        "en": "Málaga grilled prawns"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2000,
+      "price_unit": "250g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "mariscos",
+      "name_original": "Mejillones",
+      "names": {
+        "es": "Mejillones",
+        "en": "Mussels",
+        "fr": "Moules"
+      },
+      "printed_names": {
+        "es": "Mejillones",
+        "en": "Mussels"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "250g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "mariscos",
+      "name_original": "Gambas al pil-pil",
+      "names": {
+        "es": "Gambas al pil-pil",
+        "en": "King prawns pil-pil",
+        "fr": "Crevettes pil-pil"
+      },
+      "printed_names": {
+        "es": "Gambas al pil-pil",
+        "en": "King prawns pil-pil"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "mariscos",
+      "name_original": "Navajas",
+      "names": {
+        "es": "Navajas",
+        "en": "Razor shells",
+        "fr": "Couteaux"
+      },
+      "printed_names": {
+        "es": "Navajas",
+        "en": "Razor shells"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "250g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "mariscos",
+      "name_original": "Vieira",
+      "names": {
+        "es": "Vieira",
+        "en": "Scallop",
+        "fr": "Coquille Saint-Jacques"
+      },
+      "printed_names": {
+        "es": "Vieira",
+        "en": "Scallop"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pil-pil",
+            "en": "Pil-pil",
+            "fr": "Pil-pil"
+          },
+          "price_minor": 600
+        },
+        {
+          "labels": {
+            "es": "Marinera",
+            "en": "Marinera sauce",
+            "fr": "Sauce marinière"
+          },
+          "price_minor": 700
+        }
+      ],
+      "price_minor": 600,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "mariscos",
+      "name_original": "Bolos",
+      "names": {
+        "es": "Bolos",
+        "en": "Warty venus",
+        "fr": "Praires"
+      },
+      "printed_names": {
+        "es": "Bolos",
+        "en": "Warty venus"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 380,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "mariscos",
+      "name_original": "Coquinas",
+      "names": {
+        "es": "Coquinas",
+        "en": "Wedge clams",
+        "fr": "Tellines"
+      },
+      "printed_names": {
+        "es": "Coquinas",
+        "en": "Wedge clams"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i020",
+      "category_id": "mariscos",
+      "name_original": "Almejas chirlas",
+      "names": {
+        "es": "Almejas chirlas",
+        "en": "Clams",
+        "fr": "Petites palourdes"
+      },
+      "printed_names": {
+        "es": "Almejas chirlas",
+        "en": "Clams"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i021",
+      "category_id": "mariscos",
+      "name_original": "Almejas de Carril",
+      "names": {
+        "es": "Almejas de Carril",
+        "en": "Carril clams",
+        "fr": "Palourdes de Carril"
+      },
+      "printed_names": {
+        "es": "Almejas de Carril",
+        "en": "Carril clams"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Salteadas",
+            "en": "Sautéed",
+            "fr": "Sautées"
+          },
+          "price_minor": 2000
+        },
+        {
+          "labels": {
+            "es": "Marinera",
+            "en": "Marinera sauce",
+            "fr": "Sauce marinière"
+          },
+          "price_minor": 2200
+        }
+      ],
+      "price_minor": 2000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i022",
+      "category_id": "mariscos",
+      "name_original": "Ostras",
+      "names": {
+        "es": "Ostras",
+        "en": "Oysters",
+        "fr": "Huîtres"
+      },
+      "printed_names": {
+        "es": "Ostras",
+        "en": "Oysters"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 450,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i023",
+      "category_id": "mariscos",
+      "name_original": "Cañailla",
+      "names": {
+        "es": "Cañailla",
+        "en": "Sea snail",
+        "fr": "Bulot épineux"
+      },
+      "printed_names": {
+        "es": "Cañailla",
+        "en": "Sea snail"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i024",
+      "category_id": "mariscos",
+      "name_original": "Cigalas",
+      "names": {
+        "es": "Cigalas",
+        "en": "Grilled nephrops",
+        "fr": "Langoustines grillées"
+      },
+      "printed_names": {
+        "es": "Cigalas",
+        "en": "Grilled nephrops"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "100g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i025",
+      "category_id": "mariscos",
+      "name_original": "Carabineros",
+      "names": {
+        "es": "Carabineros",
+        "en": "Scarlet shrimp",
+        "fr": "Crevettes carabineros"
+      },
+      "printed_names": {
+        "es": "Carabineros",
+        "en": "Scarlet shrimp"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "100g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i026",
+      "category_id": "mariscos",
+      "name_original": "Gamba roja",
+      "names": {
+        "es": "Gamba roja",
+        "en": "Red prawns",
+        "fr": "Crevettes rouges"
+      },
+      "printed_names": {
+        "es": "Gamba roja",
+        "en": "Wedge Clams"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "100g",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "mariscos",
+      "names": {
+        "es": "Mariscos",
+        "en": "Seafood",
+        "fr": "Fruits de mer"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "6286dea535a0debd6716f9727dff969edb28c8a9b3b520fe434cde754a8ad675",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "alt": "Ilustración gastronómica · José Cerdán"
+    }
+  ],
+  "restoID": "r_3a6ab5b5f70c42431857",
+  "menuID": "m_a1474df26435b72957ae",
+  "version": 1,
+  "build": "265.6"
+}

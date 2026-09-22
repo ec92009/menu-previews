@@ -1,0 +1,688 @@
+{
+  "title": "Almarina Beach",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Ensalada Rusa Almarina",
+      "names": {
+        "es": "Ensalada Rusa Almarina",
+        "en": "Russian salad Almarina",
+        "fr": "Salade russe Almarina"
+      },
+      "printed_names": {
+        "es": "Ensalada Rusa Almarina",
+        "en": "Russian salad Almarina"
+      },
+      "descriptions": {
+        "es": "Ensalada rusa acompañada de ventresca con crema suave de aove y limón.",
+        "en": "Potato salad with tuna belly and a light extra virgin olive oil and lemon cream.",
+        "fr": "Salade russe à la ventrèche de thon, crème légère à l’huile d’olive vierge extra et au citron."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Nachos de la Casa",
+      "names": {
+        "es": "Nachos de la Casa",
+        "en": "House nachos",
+        "fr": "Nachos maison"
+      },
+      "printed_names": {
+        "es": "Nachos de la Casa",
+        "en": "House nachos"
+      },
+      "descriptions": {
+        "es": "Totopos tostados, pico de gallo, guacamole casero y nuestra salsa cheddar.",
+        "en": "Toasted tortilla chips, pico de gallo, homemade guacamole and our cheddar sauce.",
+        "fr": "Chips de tortilla grillées, pico de gallo, guacamole maison et sauce cheddar."
+      },
+      "price_variants": [],
+      "price_minor": 1500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Lagrimitas Crispy",
+      "names": {
+        "es": "Lagrimitas Crispy",
+        "en": "Crispy chicken tenders",
+        "fr": "Lanières de poulet croustillantes"
+      },
+      "printed_names": {
+        "es": "Lagrimitas Crispy",
+        "en": "Crispy chicken tenders"
+      },
+      "descriptions": {
+        "es": "Nueva versión de lagrimitas con salsa de papelón y jengibre.",
+        "en": "Chicken tenders with panela cane-sugar and ginger sauce.",
+        "fr": "Lanières de poulet, sauce au sucre de canne panela et au gingembre."
+      },
+      "price_variants": [],
+      "price_minor": 1500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Pimiento al Padrón con papa y huevo frito",
+      "names": {
+        "es": "Pimiento al Padrón con papa y huevo frito",
+        "en": "Padrón peppers with potato and fried egg",
+        "fr": "Poivrons de Padrón, pomme de terre et œuf au plat"
+      },
+      "printed_names": {
+        "es": "Pimiento al Padrón con papa y huevo frito",
+        "en": "Padrón peppers with potato and fried egg"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Sticks de Queso",
+      "names": {
+        "es": "Sticks de Queso",
+        "en": "Cheese sticks",
+        "fr": "Bâtonnets de fromage"
+      },
+      "printed_names": {
+        "es": "Sticks de Queso",
+        "en": "Cheese sticks"
+      },
+      "descriptions": {
+        "es": "Palitos de queso acompañados de salsa de maracuyá.",
+        "en": "Cheese sticks with passion fruit sauce.",
+        "fr": "Bâtonnets de fromage, sauce au fruit de la passion."
+      },
+      "price_variants": [],
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Pulpo a la Gallega",
+      "names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Galician-style octopus",
+        "fr": "Poulpe à la galicienne"
+      },
+      "printed_names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Galician-style octopus"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Croquetas de la casa",
+      "names": {
+        "es": "Croquetas de la casa",
+        "en": "House croquettes",
+        "fr": "Croquettes maison"
+      },
+      "printed_names": {
+        "es": "Croquetas de la casa",
+        "en": "House croquettes"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 350,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Piruletas de Langostinos",
+      "names": {
+        "es": "Piruletas de Langostinos",
+        "en": "Crispy shrimp sticks",
+        "fr": "Sucettes de crevettes"
+      },
+      "printed_names": {
+        "es": "Piruletas de Langostinos",
+        "en": "Crispy shrimp sticks"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Huevos rotos con setas salvajes y chistorra",
+      "names": {
+        "es": "Huevos rotos con setas salvajes y chistorra",
+        "en": "Broken eggs with wild mushrooms and chistorra",
+        "fr": "Œufs cassés aux champignons sauvages et chistorra"
+      },
+      "printed_names": {
+        "es": "Huevos rotos con setas salvajes y chistorra",
+        "en": "Broken eggs with wild mushrooms and chistorra"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Morcilla de Arroz D. O. Burgos",
+      "names": {
+        "es": "Morcilla de Arroz D. O. Burgos",
+        "en": "Burgos rice blood sausage",
+        "fr": "Boudin noir au riz de Burgos"
+      },
+      "printed_names": {
+        "es": "Morcilla de Arroz D. O. Burgos",
+        "en": "Burgos rice blood sausage"
+      },
+      "descriptions": {
+        "es": "Morcilla de arroz con compota de chile y frutos del bosque.",
+        "en": "Rice blood sausage with chilli and forest berry compote.",
+        "fr": "Boudin noir au riz, compote de piment et fruits des bois."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Tartar de Salmón",
+      "names": {
+        "es": "Tartar de Salmón",
+        "en": "Salmon tartare",
+        "fr": "Tartare de saumon"
+      },
+      "printed_names": {
+        "es": "Tartar de Salmón",
+        "en": "Salmon tartare"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "entrantes",
+      "name_original": "Patatas bravas Almarina",
+      "names": {
+        "es": "Patatas bravas Almarina",
+        "en": "Almarina bravas potatoes",
+        "fr": "Pommes de terre bravas Almarina"
+      },
+      "printed_names": {
+        "es": "Patatas bravas Almarina",
+        "en": "Almarina bravas potatoes"
+      },
+      "descriptions": {
+        "es": "Patatas baby con salsa picante y alioli.",
+        "en": "Baby potatoes with spicy sauce and aioli.",
+        "fr": "Petites pommes de terre, sauce épicée et aïoli."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "entrantes",
+      "name_original": "Sopa o Crema",
+      "names": {
+        "es": "Sopa o Crema",
+        "en": "Soup or cream soup",
+        "fr": "Soupe ou velouté"
+      },
+      "printed_names": {
+        "es": "Sopa o Crema",
+        "en": "Soup or cream soup"
+      },
+      "descriptions": {
+        "es": "Sugerencia diaria del chef.",
+        "en": "Chef’s daily suggestion.",
+        "fr": "Suggestion du jour du chef."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "entrantes",
+      "name_original": "Parrillada de verduras",
+      "names": {
+        "es": "Parrillada de verduras",
+        "en": "Grilled vegetables",
+        "fr": "Légumes grillés"
+      },
+      "printed_names": {
+        "es": "Parrillada de verduras",
+        "en": "Grilled vegetables"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "entrantes",
+      "name_original": "Langostinos al Pil-Pil",
+      "names": {
+        "es": "Langostinos al Pil-Pil",
+        "en": "Prawns with pil-pil",
+        "fr": "Crevettes pil-pil"
+      },
+      "printed_names": {
+        "es": "Langostinos al Pil-Pil",
+        "en": "Prawns with pil-pil"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "entrantes",
+      "name_original": "Tabla de Ibéricos",
+      "names": {
+        "es": "Tabla de Ibéricos",
+        "en": "Selection of Iberian cured meats",
+        "fr": "Planche de charcuteries ibériques"
+      },
+      "printed_names": {
+        "es": "Tabla de Ibéricos",
+        "en": "Selection of Iberian cured meats"
+      },
+      "descriptions": {
+        "es": "Chorizo, jamón ibérico, lomo ibérico y salchichón ibérico.",
+        "en": "Chorizo, Iberian ham, Iberian cured loin and Iberian salchichón.",
+        "fr": "Chorizo, jambon ibérique, lomo ibérique et salchichón ibérique."
+      },
+      "price_variants": [],
+      "price_minor": 3000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "entrantes",
+      "name_original": "Tabla de Quesos",
+      "names": {
+        "es": "Tabla de Quesos",
+        "en": "Selection of cheeses",
+        "fr": "Planche de fromages"
+      },
+      "printed_names": {
+        "es": "Tabla de Quesos",
+        "en": "Selection of cheeses"
+      },
+      "descriptions": {
+        "es": "Variedad de quesos de D.O.",
+        "en": "A variety of cheeses with denomination of origin.",
+        "fr": "Assortiment de fromages d’appellation d’origine."
+      },
+      "price_variants": [],
+      "price_minor": 2000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "entrantes",
+      "name_original": "Vieiras gratinadas x 2u",
+      "names": {
+        "es": "Vieiras gratinadas x 2u",
+        "en": "Scallops gratin, 2 pieces",
+        "fr": "Saint-Jacques gratinées, 2 pièces"
+      },
+      "printed_names": {
+        "es": "Vieiras gratinadas x 2u",
+        "en": "Scallops gratin, 2 pieces"
+      },
+      "descriptions": {
+        "es": "Con cremosa salsa de marisco gratinada.",
+        "en": "With a creamy seafood sauce, gratinated.",
+        "fr": "Avec sauce crémeuse de fruits de mer gratinée."
+      },
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Almarina",
+      "names": {
+        "es": "Ensalada Almarina",
+        "en": "Almarina salad",
+        "fr": "Salade Almarina"
+      },
+      "printed_names": {
+        "es": "Ensalada Almarina",
+        "en": "Almarina salad"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechugas, aguacate, wakame, tomates cherry, pepino, cebolla morada, salmón ahumado, frutos secos, sésamo, aderezo de la casa y alioli.",
+        "en": "Mixed lettuce, avocado, wakame, cherry tomatoes, cucumber, red onion, smoked salmon, nuts, sesame, house dressing and aioli.",
+        "fr": "Laitues mélangées, avocat, wakame, tomates cerises, concombre, oignon rouge, saumon fumé, fruits à coque, sésame, sauce maison et aïoli."
+      },
+      "price_variants": [],
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i020",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada queso de cabra",
+      "names": {
+        "es": "Ensalada queso de cabra",
+        "en": "Goat cheese salad",
+        "fr": "Salade au chèvre"
+      },
+      "printed_names": {
+        "es": "Ensalada queso de cabra",
+        "en": "Goat cheese salad"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechugas, patata confitada, tomates cherry, cebolla frita, queso de cabra caramelizado, gulas y aderezo de la casa.",
+        "en": "Mixed lettuce, confit potato, cherry tomatoes, fried onion, caramelised goat cheese, gulas and house dressing.",
+        "fr": "Laitues mélangées, pomme de terre confite, tomates cerises, oignon frit, chèvre caramélisé, gulas et sauce maison."
+      },
+      "price_variants": [],
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i021",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada cesar con pollo",
+      "names": {
+        "es": "Ensalada cesar con pollo",
+        "en": "Caesar salad with chicken",
+        "fr": "Salade César au poulet"
+      },
+      "printed_names": {
+        "es": "Ensalada cesar con pollo",
+        "en": "Caesar salad with chicken"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechuga, croutones de pan, bacon tostado, tomates cherry asados y aderezo especial de la casa.",
+        "en": "Mixed lettuce, croutons, toasted bacon, roasted cherry tomatoes and special house dressing.",
+        "fr": "Laitues mélangées, croûtons, bacon grillé, tomates cerises rôties et sauce spéciale maison."
+      },
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i022",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de Burrata",
+      "names": {
+        "es": "Ensalada de Burrata",
+        "en": "Burrata salad",
+        "fr": "Salade de burrata"
+      },
+      "printed_names": {
+        "es": "Ensalada de Burrata",
+        "en": "Burrata salad"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechugas, tomates cherry, aguacate, langostinos al ajillo, polvo de aceituna negra, burrata cremosa y aderezo de la casa.",
+        "en": "Mixed lettuce, cherry tomatoes, avocado, garlic prawns, black olive powder, creamy burrata and house dressing.",
+        "fr": "Laitues mélangées, tomates cerises, avocat, crevettes à l’ail, poudre d’olive noire, burrata crémeuse et sauce maison."
+      },
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i023",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Mixta",
+      "names": {
+        "es": "Ensalada Mixta",
+        "en": "Mixed salad",
+        "fr": "Salade composée"
+      },
+      "printed_names": {
+        "es": "Ensalada Mixta",
+        "en": "Mixed salad"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechuga, zanahoria, pepino, cebolla morada, aguacate rostizado, piñones, tomates, huevos duros, maíz asado y ventresca de atún.",
+        "en": "Mixed lettuce, carrot, cucumber, red onion, roasted avocado, pine nuts, tomatoes, boiled eggs, roasted corn and tuna belly.",
+        "fr": "Laitues mélangées, carotte, concombre, oignon rouge, avocat rôti, pignons, tomates, œufs durs, maïs grillé et ventrèche de thon."
+      },
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i024",
+      "category_id": "ensaladas",
+      "name_original": "Poke bowl de Salmón",
+      "names": {
+        "es": "Poke bowl de Salmón",
+        "en": "Salmon poke bowl",
+        "fr": "Poke bowl de saumon"
+      },
+      "printed_names": {
+        "es": "Poke bowl de Salmón",
+        "en": "Salmon poke bowl"
+      },
+      "descriptions": {
+        "es": "Arroz de sushi, maíz, wakame, salmón ahumado, champiñones, cebolla morada, pepino, edamame y aderezo casero.",
+        "en": "Sushi rice, corn, wakame, smoked salmon, mushrooms, red onion, cucumber, edamame and homemade dressing.",
+        "fr": "Riz à sushi, maïs, wakame, saumon fumé, champignons, oignon rouge, concombre, edamame et sauce maison."
+      },
+      "price_variants": [],
+      "price_minor": 1500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    }
+  ],
+  "category_notes": {
+    "entrantes": {
+      "es": "Servicio de pan y aperitivo: 1,50 € por persona.",
+      "en": "Bread and appetizer service: €1.50 per person.",
+      "fr": "Service de pain et apéritif : 1,50 € par personne."
+    },
+    "ensaladas": {
+      "es": "Servicio de pan y aperitivo: 1,50 € por persona.",
+      "en": "Bread and appetizer service: €1.50 per person.",
+      "fr": "Service de pain et apéritif : 1,50 € par personne."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/embedded-p4-4-v1.webp",
+      "asset_id": "be3fefb011e3dcf47a94651ca0cf674f86e20985507649b4f4dd9f8d750312ab",
+      "kind": "source",
+      "dimensions": [
+        1402,
+        935
+      ],
+      "crop": null,
+      "after_category": "entrantes",
+      "alt": "Plato de la carta original · Almarina Beach"
+    },
+    {
+      "path": "assets/embedded-p4-17-v1.webp",
+      "asset_id": "ff397a47ce0dea3c97b9d0d47280c756712174161f818a0ec5325935cce32ab8",
+      "kind": "source",
+      "dimensions": [
+        1402,
+        935
+      ],
+      "crop": null,
+      "after_category": "ensaladas",
+      "alt": "Plato de la carta original · Almarina Beach"
+    }
+  ],
+  "restoID": "r_491eea621a83a1589e96",
+  "menuID": "m_043b0a9de15f86b6dad6",
+  "version": 1,
+  "build": "265.6"
+}

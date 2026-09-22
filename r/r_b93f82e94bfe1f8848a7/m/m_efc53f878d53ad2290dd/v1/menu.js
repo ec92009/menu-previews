@@ -1,0 +1,27 @@
+const data=JSON.parse(document.getElementById('data').textContent);
+const ui={
+ es:{back:'← Cambiar idioma',sample:'Una selección de nuestra carta',notice:'Muestra preparada por Web By Elie. Precios de la carta original, pendientes de confirmación por el restaurante.',generated:'Imagen ilustrativa creada con IA; no es una fotografía de los platos ni del local del restaurante.',originalPhoto:'Fotografía de la carta original del restaurante.',top:'Volver arriba ↑',market:'Según mercado',unknown:'Por confirmar',person:'persona',each:'unidad',policies:['Privacidad','Condiciones','Eliminación de datos']},
+ en:{back:'← Change language',sample:'A taste of our menu',notice:'Sample prepared by Web By Elie. Prices from the original menu, awaiting restaurant confirmation.',generated:'AI-created illustration; not a photograph of the restaurant’s dishes or premises.',originalPhoto:'Photograph from the restaurant’s original menu.',top:'Back to top ↑',market:'Market price',unknown:'To confirm',person:'person',each:'each',policies:['Privacy','Terms','Data deletion']},
+ fr:{back:'← Changer de langue',sample:'Un aperçu de notre carte',notice:'Extrait préparé par Web By Elie. Prix de la carte originale, à confirmer par le restaurant.',generated:'Illustration créée par IA ; ce n’est pas une photographie des plats ni du lieu du restaurant.',originalPhoto:'Photographie de la carte originale du restaurant.',top:'Retour en haut ↑',market:'Selon marché',unknown:'À confirmer',person:'personne',each:'pièce',policies:['Confidentialité','Conditions','Suppression des données']}
+};
+const welcome=document.getElementById('welcome'),menu=document.getElementById('menu');let current='es';
+function scrollToSection(section){section.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});}
+function show(lang,navigate=true){
+ if(!data.languages.includes(lang)||!ui[lang])return;current=lang;const t=ui[lang];document.documentElement.lang=lang;document.title=data.title+' · '+t.sample;
+ for(const [id,value] of Object.entries({'language-back':t.back,notice:t.notice,'footer-up':t.top,'menu-subtitle':t.sample}))document.getElementById(id).textContent=value;
+ document.querySelectorAll('[data-policy]').forEach((el,i)=>el.textContent=t.policies[i]);document.getElementById('up').setAttribute('aria-label',t.top);
+ document.querySelectorAll('[data-category]').forEach(el=>el.textContent=data.categories.find(c=>c.category_id===el.dataset.category).names[lang]);
+ document.querySelectorAll('[data-category-note]').forEach(el=>el.textContent=data.category_notes?.[el.dataset.categoryNote]?.[lang]||'');
+ document.querySelectorAll('[data-caption]').forEach(el=>el.textContent=t[el.dataset.caption]);
+ document.querySelectorAll('.dish').forEach(el=>{const item=data.items.find(i=>i.item_id===el.dataset.item);el.querySelector('h3').textContent=item.names[lang];const price=el.querySelector('.price');price.textContent=item.price_minor===null?(item.price_unit==='market'?t.market:t.unknown):new Intl.NumberFormat(lang,{style:'currency',currency:'EUR'}).format(item.price_minor/100);
+ if(['kg','100g','each','person'].includes(item.price_unit)&&item.price_minor!==null){const unit=document.createElement('small');unit.textContent='/ '+(['each','person'].includes(item.price_unit)?t[item.price_unit]:item.price_unit);price.append(unit)}
+ const original=el.querySelector('.original');original.textContent=item.name_original;original.hidden=lang===data.original_language;
+ const desc=el.querySelector('.description');desc.textContent=item.descriptions?.[lang]||'';desc.hidden=!desc.textContent;
+ });
+ document.querySelectorAll('[data-language]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.language===lang)));
+ if(navigate){const url=new URL(location.href);url.searchParams.set('lang',lang);url.hash='menu';history.replaceState(null,'',url);scrollToSection(menu);document.getElementById('language-back').focus({preventScroll:true})}updateCategory();
+}
+document.querySelectorAll('[data-language]').forEach(b=>b.addEventListener('click',()=>show(b.dataset.language)));
+document.getElementById('language-back').addEventListener('click',()=>{const url=new URL(location.href);url.hash='welcome';history.replaceState(null,'',url);scrollToSection(welcome);document.querySelector('[data-language="'+current+'"]').focus({preventScroll:true})});
+function updateCategory(){let active=data.categories[0].category_id;document.querySelectorAll('.menu-category').forEach(s=>{if(s.getBoundingClientRect().top<=130)active=s.id});document.querySelectorAll('nav [data-category]').forEach(a=>{if(a.dataset.category===active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}
+const requested=new URLSearchParams(location.search).get('lang');show(data.languages.includes(requested)?requested:'es',false);if(data.languages.includes(requested)&&!location.hash)requestAnimationFrame(()=>menu.scrollIntoView({behavior:'instant'}));addEventListener('scroll',updateCategory,{passive:true});

@@ -6,3 +6,6 @@
 nav{justify-content:flex-start;gap:20px}.category-link{font:18px Georgia;white-space:nowrap;border-bottom:2px solid transparent}.category-link[aria-current]{border-bottom-color:var(--accent)}#up{margin-left:auto}.menu-category{scroll-margin-top:60px}@media(max-width:359px){nav{padding-inline:20px;gap:14px}.category-link{font-size:17px}}
 
 .policy-links{font-size:11px;line-height:1.6}.policy-links a{padding:7px 4px;font-size:11px}
+
+/* The welcome and menu remain in one continuous document. */
+.languages button[aria-pressed="true"]{background:#f5f0e9;border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}.scroll-menu{display:inline-block;min-height:44px;padding:12px 8px;text-decoration:none}#menu{scroll-margin-top:0}

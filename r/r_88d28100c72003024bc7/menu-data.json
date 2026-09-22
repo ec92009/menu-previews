@@ -1,0 +1,459 @@
+{
+  "restoID": "r_88d28100c72003024bc7",
+  "menuID": "m_eb4710b8a416a39581b5",
+  "version": 2,
+  "title": "La Paella",
+  "items": [
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i001",
+      "name_original": "Ensalada normal",
+      "names": {
+        "de": "Einfacher Salat",
+        "en": "Simple salad",
+        "es": "Ensalada normal",
+        "fr": "Salade simple",
+        "it": "Insalata semplice",
+        "nl": "Eenvoudige salade"
+      },
+      "photo_asset_id": "1b96ea82c57bef06ae8f1c1e316418953480aa896d13c5ddc2e7eb05b659c159",
+      "price_currentness": "unconfirmed",
+      "price_minor": 570,
+      "printed_names": {
+        "de": "EINFACHER SALAT",
+        "en": "SIMPLE SALAD",
+        "es": "ENSALADA NORMAL",
+        "fr": "SALADE SIMPLE",
+        "it": "INSALATA SEMPLICE",
+        "nl": "EENVOUDIGE SALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 2,
+      "translation_corrections": [],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 2,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/1b96ea82c57bef06ae8f1c1e316418953480aa896d13c5ddc2e7eb05b659c159.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i002",
+      "name_original": "Ensalada mixta",
+      "names": {
+        "de": "Gemischter Salat",
+        "en": "Mixed salad",
+        "es": "Ensalada mixta",
+        "fr": "Salade mixte",
+        "it": "Insalata mista",
+        "nl": "Gemengde salade"
+      },
+      "photo_asset_id": "6da149d8ef7205319894cc6b63dcb09db3f66aea29ce20ecff7ea48351db4473",
+      "price_currentness": "unconfirmed",
+      "price_minor": 750,
+      "printed_names": {
+        "de": "GEMISCHTER SALAT",
+        "en": "MIXED SALAD",
+        "es": "ENSALADA MIXTA",
+        "fr": "SALADE MIXTE",
+        "it": "INSALATA MISTA",
+        "nl": "GEMENGDE SALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 2,
+      "translation_corrections": [],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 2,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/6da149d8ef7205319894cc6b63dcb09db3f66aea29ce20ecff7ea48351db4473.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i003",
+      "name_original": "Ensalada de la casa",
+      "names": {
+        "de": "Haussalat",
+        "en": "House salad",
+        "es": "Ensalada de la casa",
+        "fr": "Salade maison",
+        "it": "Insalata della casa",
+        "nl": "Huissalade"
+      },
+      "photo_asset_id": "1b2f2ad433d07a85dae67f13502f8babbe88a210c5cdd11a3952c6d8dfc0a13b",
+      "price_currentness": "unconfirmed",
+      "price_minor": 850,
+      "printed_names": {
+        "de": "HAUSSALAT",
+        "en": "HOUSE SALAD",
+        "es": "ENSALADA DE LA CASA",
+        "fr": "SALADE MAISON",
+        "it": "INSALATA DELLA CASA",
+        "nl": "HUIS SALAD"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 2,
+      "translation_corrections": [
+        {
+          "display": "Huissalade",
+          "language": "nl",
+          "printed": "HUIS SALAD",
+          "reason": "Dutch compound spelling"
+        }
+      ],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 2,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/1b2f2ad433d07a85dae67f13502f8babbe88a210c5cdd11a3952c6d8dfc0a13b.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i004",
+      "name_original": "Ensalada tropical",
+      "names": {
+        "de": "Tropischer Salat",
+        "en": "Tropical salad",
+        "es": "Ensalada tropical",
+        "fr": "Salade tropicale",
+        "it": "Insalata tropicale",
+        "nl": "Tropische salade"
+      },
+      "photo_asset_id": "2aee3cd706cf5ab0d3983463c176acdf9f2c42a60a1ede6b13c2df7751f77823",
+      "price_currentness": "unconfirmed",
+      "price_minor": 920,
+      "printed_names": {
+        "de": "TROPISCHER SALAT",
+        "en": "TROPICAL SALAD",
+        "es": "ENSALADA TROPICAL",
+        "fr": "SALADE TROPICALE",
+        "it": "INSALATA TROPICALE",
+        "nl": "TROPISCHE SALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 2,
+      "translation_corrections": [],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 2,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/2aee3cd706cf5ab0d3983463c176acdf9f2c42a60a1ede6b13c2df7751f77823.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i005",
+      "name_original": "Ensalada de tomate",
+      "names": {
+        "de": "Tomatensalat",
+        "en": "Tomato salad",
+        "es": "Ensalada de tomate",
+        "fr": "Salade de tomates",
+        "it": "Insalata di pomodori",
+        "nl": "Tomatensalade"
+      },
+      "photo_asset_id": "e7422150f7ba0c846764929a60cf3f412821c52b3a95f899761650247d064081",
+      "price_currentness": "unconfirmed",
+      "price_minor": 570,
+      "printed_names": {
+        "de": "TOMATENSALAT",
+        "en": "TOMATO SALAD",
+        "es": "ENSALADA DE TOMATE",
+        "fr": "SALADE DE TOMATES",
+        "it": "INSALATA DI POMODORI",
+        "nl": "TOMATENSALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 3,
+      "translation_corrections": [],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 3,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/e7422150f7ba0c846764929a60cf3f412821c52b3a95f899761650247d064081.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i006",
+      "name_original": "Ensalada de pimientos",
+      "names": {
+        "de": "Gerösteter Paprikasalat",
+        "en": "Roasted pepper salad",
+        "es": "Ensalada de pimientos",
+        "fr": "Salade de poivrons rôtis",
+        "it": "Insalata di peperoni arrostiti",
+        "nl": "Salade van geroosterde paprika"
+      },
+      "photo_asset_id": "506e673bda39079abf85240e5204444e21c737e8d5d95a3c3a208f1135b28aa2",
+      "price_currentness": "unconfirmed",
+      "price_minor": 760,
+      "printed_names": {
+        "de": "GERÖSTETER PAPRIKASALAT",
+        "en": "ROASTED PEPPERS SALAD",
+        "es": "ENSALADA DE PIMIENTOS",
+        "fr": "SALADE DE POIVRONS RÔTIS",
+        "it": "INSALATA SI PEPERONI ARROSTITI",
+        "nl": "SALADE VAN GEROOSTERDE PAPRIKA"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 3,
+      "translation_corrections": [
+        {
+          "display": "Insalata di peperoni arrostiti",
+          "language": "it",
+          "printed": "INSALATA SI PEPERONI ARROSTITI",
+          "reason": "Printed SI corrected to DI"
+        },
+        {
+          "display": "Roasted pepper salad",
+          "language": "en",
+          "printed": "ROASTED PEPPERS SALAD",
+          "reason": "Grammatical normalization retained from v1"
+        }
+      ],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 3,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/506e673bda39079abf85240e5204444e21c737e8d5d95a3c3a208f1135b28aa2.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i007",
+      "name_original": "Salpicón de pulpo",
+      "names": {
+        "de": "Oktopussalat",
+        "en": "Octopus salad",
+        "es": "Salpicón de pulpo",
+        "fr": "Salade de poulpe",
+        "it": "Insalata di polpo",
+        "nl": "Octopussalade"
+      },
+      "photo_asset_id": "1b7a44a35aebf9413fb8d3077887bf30da7741372d1cc324bca2e283446465d0",
+      "price_currentness": "unconfirmed",
+      "price_minor": 900,
+      "printed_names": {
+        "de": "OKTOPUSSALAT",
+        "en": "OCTOPUS SALAD",
+        "es": "SALPICÓN DE PULPO",
+        "fr": "SALADE DE POULPE",
+        "it": "INSALATA DI POLPO",
+        "nl": "OCTOPUSSALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 3,
+      "translation_corrections": [],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 3,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/1b7a44a35aebf9413fb8d3077887bf30da7741372d1cc324bca2e283446465d0.jpg"
+    },
+    {
+      "category_id": "ensaladas",
+      "currency": "EUR",
+      "descriptions": {
+        "de": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "nl": ""
+      },
+      "item_id": "i008",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "de": "Russischer Salat",
+        "en": "Russian salad",
+        "es": "Ensaladilla rusa",
+        "fr": "Salade russe",
+        "it": "Insalata russa",
+        "nl": "Russische salade"
+      },
+      "photo_asset_id": "4bd62c53b4b3bcdc590c582a0129d93125ead81464e3e4eb109618a54a8cfd41",
+      "price_currentness": "unconfirmed",
+      "price_minor": 820,
+      "printed_names": {
+        "de": "RUSSISCHEN SALAT",
+        "en": "RUSIAN SALAD",
+        "es": "ENSALADILLA RUSA",
+        "fr": "SALADE RUSSE",
+        "it": "INSALATA RUSSA",
+        "nl": "RUSSISCHE SALADE"
+      },
+      "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba",
+      "source_check": "visually_checked",
+      "source_page": 3,
+      "translation_corrections": [
+        {
+          "display": "Russischer Salat",
+          "language": "de",
+          "printed": "RUSSISCHEN SALAT",
+          "reason": "German adjective ending"
+        },
+        {
+          "display": "Russian salad",
+          "language": "en",
+          "printed": "RUSIAN SALAD",
+          "reason": "Printed spelling correction retained from v1"
+        }
+      ],
+      "translation_source": {
+        "kind": "printed_menu",
+        "languages": [
+          "es",
+          "en",
+          "fr",
+          "de",
+          "it",
+          "nl"
+        ],
+        "page": 3,
+        "source_asset_id": "fec5a92fce16b249b5a9fabd0f8447512f64bb81e86693044751b576e5b0f9ba"
+      },
+      "photo": "assets/4bd62c53b4b3bcdc590c582a0129d93125ead81464e3e4eb109618a54a8cfd41.jpg"
+    }
+  ],
+  "languages": [
+    "es",
+    "en",
+    "fr",
+    "de",
+    "it",
+    "nl"
+  ],
+  "original_language": "es",
+  "cover": "assets/22ddc64895ab48d240ade70cb661770d57bcefcee43fbca202302e78be5b8463.png"
+}

@@ -631,7 +631,7 @@
         1024
       ],
       "after_category": "entrantes",
-      "after_item": "i023",
+      "after_item": "i024",
       "alt": "Croquetas de jamón · Ilustración"
     },
     {
@@ -649,6 +649,6 @@
   ],
   "restoID": "r_2a44c1ace504d6dad901",
   "menuID": "m_681486136a5517b8caab",
-  "version": 5,
+  "version": 4,
   "build": "265.11"
 }

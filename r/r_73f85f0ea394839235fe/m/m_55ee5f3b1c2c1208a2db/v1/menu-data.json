@@ -1,0 +1,289 @@
+{
+  "title": "Tela Marinera",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Tela Marinera con aguacate, mango, almendras y AOVE",
+      "names": {
+        "es": "Ensalada Tela Marinera con aguacate, mango, almendras y AOVE",
+        "en": "Special Tela Marinera salad with avocado, mango, almonds and EVOO",
+        "fr": "Salade Tela Marinera à l’avocat, mangue, amandes et huile d’olive vierge extra"
+      },
+      "printed_names": {
+        "es": "Ensalada Tela Marinera con aguacate, mango, almendras y AOVE",
+        "en": "Special Tela Marinera salad with avocado, mango, almonds and EVOO"
+      },
+      "descriptions": {},
+      "price_minor": 1290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de queso de cabra caramelizada, nueces y vinagreta de frutos rojos",
+      "names": {
+        "es": "Ensalada de queso de cabra caramelizada, nueces y vinagreta de frutos rojos",
+        "en": "Caramelized goat cheese salad with walnuts and red berry vinaigrette",
+        "fr": "Salade au chèvre caramélisé, noix et vinaigrette aux fruits rouges"
+      },
+      "printed_names": {
+        "es": "Ensalada de queso de cabra caramelizada, nueces y vinagreta de frutos rojos",
+        "en": "Caramelized goat cheese salad with walnuts and red berry vinaigrette"
+      },
+      "descriptions": {},
+      "price_minor": 1290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de salmón ahumado, aguacate y queso feta con vinagreta de lima",
+      "names": {
+        "es": "Ensalada de salmón ahumado, aguacate y queso feta con vinagreta de lima",
+        "en": "Smoked salmon, avocado and feta cheese salad with lime vinaigrette",
+        "fr": "Salade de saumon fumé, avocat et feta, vinaigrette au citron vert"
+      },
+      "printed_names": {
+        "es": "Ensalada de salmón ahumado, aguacate y queso feta con vinagreta de lima",
+        "en": "Smoked salmon, avocado and feta cheese salad with lime vinaigrette"
+      },
+      "descriptions": {},
+      "price_minor": 1490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de aguacate, mango y langostinos con vinagreta de mostaza",
+      "names": {
+        "es": "Ensalada de aguacate, mango y langostinos con vinagreta de mostaza",
+        "en": "Avocado, mango and prawn salad with mustard vinaigrette",
+        "fr": "Salade d’avocat, mangue et crevettes, vinaigrette à la moutarde"
+      },
+      "printed_names": {
+        "es": "Ensalada de aguacate, mango y langostinos con vinagreta de mostaza",
+        "en": "Avocado, mango and prawn salad with mustard vinaigrette"
+      },
+      "descriptions": {},
+      "price_minor": 1490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de tomate, pesto, brioche crujiente y queso mozzarella",
+      "names": {
+        "es": "Ensalada de tomate, pesto, brioche crujiente y queso mozzarella",
+        "en": "Tomato salad with pesto, crispy brioche and mozzarella cheese",
+        "fr": "Salade de tomates, pesto, brioche croustillante et mozzarella"
+      },
+      "printed_names": {
+        "es": "Ensalada de tomate, pesto, brioche crujiente y queso mozzarella",
+        "en": "Tomato salad with pesto, crispy brioche and mozzarella cheese"
+      },
+      "descriptions": {},
+      "price_minor": 890,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Camembert de cabra malagueño con mermelada de frambuesa",
+      "names": {
+        "es": "Camembert de cabra malagueño con mermelada de frambuesa",
+        "en": "Málaga goat’s camembert with raspberry jam",
+        "fr": "Camembert de chèvre de Málaga à la confiture de framboise"
+      },
+      "printed_names": {
+        "es": "Camembert de cabra malagueño con mermelada de frambuesa",
+        "en": "Málaga goat’s camembert with raspberry jam"
+      },
+      "descriptions": {},
+      "price_minor": 1490,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Lagrimitas de pollo con salsa especial Tela Marinera",
+      "names": {
+        "es": "Lagrimitas de pollo con salsa especial Tela Marinera",
+        "en": "Chicken bites with special Tela Marinera sauce",
+        "fr": "Bouchées de poulet, sauce spéciale Tela Marinera"
+      },
+      "printed_names": {
+        "es": "Lagrimitas de pollo con salsa especial Tela Marinera",
+        "en": "Chicken bites with special Tela Marinera sauce"
+      },
+      "descriptions": {},
+      "price_minor": 1090,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Berenjenas rebozadas con miel de caña",
+      "names": {
+        "es": "Berenjenas rebozadas con miel de caña",
+        "en": "Breaded eggplant with cane honey",
+        "fr": "Aubergines panées au sirop de canne"
+      },
+      "printed_names": {
+        "es": "Berenjenas rebozadas con miel de caña",
+        "en": "Breaded eggplant with cane honey"
+      },
+      "descriptions": {},
+      "price_minor": 890,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Huevos rotos tradicionales con gambones, jamón y mayo de sriracha",
+      "names": {
+        "es": "Huevos rotos tradicionales con gambones, jamón y mayo de sriracha",
+        "en": "Traditional broken eggs with prawns, ham and Sriracha mayo",
+        "fr": "Œufs cassés aux grosses crevettes, jambon et mayonnaise au sriracha"
+      },
+      "printed_names": {
+        "es": "Huevos rotos tradicionales con gambones, jamón y mayo de sriracha",
+        "en": "Traditional broken eggs with prawns, ham and Sriracha mayo"
+      },
+      "descriptions": {},
+      "price_minor": 1590,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Huevos rotos tradicionales con chistorra, jamón de cebo y miel",
+      "names": {
+        "es": "Huevos rotos tradicionales con chistorra, jamón de cebo y miel",
+        "en": "Traditional broken eggs with chistorra sausage, cured ham and honey",
+        "fr": "Œufs cassés à la chistorra, jambon de cebo et miel"
+      },
+      "printed_names": {
+        "es": "Huevos rotos tradicionales con chistorra, jamón de cebo y miel",
+        "en": "Traditional broken eggs with chistorra sausage, cured ham and honey"
+      },
+      "descriptions": {},
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Seitán crujiente con pisto de la huerta andaluza",
+      "names": {
+        "es": "Seitán crujiente con pisto de la huerta andaluza",
+        "en": "Crispy seitan with Andalusian vegetable stew",
+        "fr": "Seitan croustillant et pisto de légumes andalou"
+      },
+      "printed_names": {
+        "es": "Seitán crujiente con pisto de la huerta andaluza",
+        "en": "Crispy seitan with Andalusian vegetable stew"
+      },
+      "descriptions": {},
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    },
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    }
+  ],
+  "category_notes": {},
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "2a327fc6956f7dc02f75dfbcce0dea83a7645c461412e5f5eeeacb05b9012824",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Ilustración gastronómica · Tela Marinera"
+    }
+  ],
+  "restoID": "r_73f85f0ea394839235fe",
+  "menuID": "m_55ee5f3b1c2c1208a2db",
+  "version": 1,
+  "build": "265.3"
+}

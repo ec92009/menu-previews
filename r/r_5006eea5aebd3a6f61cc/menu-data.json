@@ -1,0 +1,446 @@
+{
+  "title": "La Caleta Beach Club",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "para-zarpar",
+      "name_original": "Vaso de gazpacho",
+      "names": {
+        "es": "Vaso de gazpacho",
+        "en": "Glass of gazpacho",
+        "fr": "Verre de gaspacho"
+      },
+      "printed_names": {
+        "es": "Vaso de gazpacho"
+      },
+      "descriptions": {},
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "para-zarpar",
+      "name_original": "Gazpacho andaluz con guarnición",
+      "names": {
+        "es": "Gazpacho andaluz con guarnición",
+        "en": "Andalusian gazpacho with garnish",
+        "fr": "Gaspacho andalou et sa garniture"
+      },
+      "printed_names": {
+        "es": "Gazpacho andaluz con guarnición"
+      },
+      "descriptions": {},
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "para-zarpar",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian-style potato salad",
+        "fr": "Salade russe"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa"
+      },
+      "descriptions": {},
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "para-zarpar",
+      "name_original": "Berenjenas fritas con miel de caña",
+      "names": {
+        "es": "Berenjenas fritas con miel de caña",
+        "en": "Fried aubergines with cane syrup",
+        "fr": "Aubergines frites au sirop de canne"
+      },
+      "printed_names": {
+        "es": "Berenjenas fritas con miel de caña"
+      },
+      "descriptions": {},
+      "price_minor": 995,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "para-zarpar",
+      "name_original": "Ensaladilla de pimientos",
+      "names": {
+        "es": "Ensaladilla de pimientos",
+        "en": "Wood-roasted pepper salad with onion",
+        "fr": "Salade de poivrons rôtis au feu de bois et oignon"
+      },
+      "printed_names": {
+        "es": "Ensaladilla de pimientos"
+      },
+      "descriptions": {},
+      "price_minor": 995,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "para-zarpar",
+      "name_original": "Ensalada mixta Caleta",
+      "names": {
+        "es": "Ensalada mixta Caleta",
+        "en": "Caleta mixed salad",
+        "fr": "Salade composée Caleta"
+      },
+      "printed_names": {
+        "es": "Ensalada mixta Caleta"
+      },
+      "descriptions": {},
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "para-zarpar",
+      "name_original": "Tomate azul con aguacate y melva",
+      "names": {
+        "es": "Tomate azul con aguacate y melva",
+        "en": "Blue tomato with avocado and frigate tuna, finished with black salt",
+        "fr": "Tomate bleue, avocat et bonite auxide, finition au sel noir"
+      },
+      "printed_names": {
+        "es": "Tomate azul con aguacate y melva"
+      },
+      "descriptions": {},
+      "price_minor": 1450,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "para-zarpar",
+      "name_original": "Ensalada de sorbete de mango",
+      "names": {
+        "es": "Ensalada de sorbete de mango",
+        "en": "Mango sorbet salad with blueberries, strawberries, crispy onion, mango, goat cheese and red berry reduction",
+        "fr": "Salade au sorbet de mangue, myrtilles, fraises, oignon frit, mangue, chèvre et réduction de fruits rouges"
+      },
+      "printed_names": {
+        "es": "Ensalada de sorbete de mango"
+      },
+      "descriptions": {},
+      "price_minor": 1495,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "para-zarpar",
+      "name_original": "Tartar de salmón",
+      "names": {
+        "es": "Tartar de salmón",
+        "en": "Salmon tartare",
+        "fr": "Tartare de saumon"
+      },
+      "printed_names": {
+        "es": "Tartar de salmón"
+      },
+      "descriptions": {},
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "para-zarpar",
+      "name_original": "Tartar de atún rojo",
+      "names": {
+        "es": "Tartar de atún rojo",
+        "en": "Marinated bluefin tuna tartare with kimchi sauce reduction, wakame and sesame",
+        "fr": "Tartare de thon rouge mariné, réduction de sauce kimchi, wakamé et sésame"
+      },
+      "printed_names": {
+        "es": "Tartar de atún rojo"
+      },
+      "descriptions": {},
+      "price_minor": 2300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "sugerencias",
+      "name_original": "Patatas bravas estilo Caleta",
+      "names": {
+        "es": "Patatas bravas estilo Caleta",
+        "en": "Caleta-style patatas bravas",
+        "fr": "Patatas bravas façon Caleta"
+      },
+      "printed_names": {
+        "es": "Patatas bravas estilo Caleta"
+      },
+      "descriptions": {},
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "sugerencias",
+      "name_original": "Croquetas de choco",
+      "names": {
+        "es": "Croquetas de choco",
+        "en": "Cuttlefish croquettes",
+        "fr": "Croquettes de seiche"
+      },
+      "printed_names": {
+        "es": "Croquetas de choco"
+      },
+      "descriptions": {},
+      "price_minor": 1295,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "sugerencias",
+      "name_original": "Langostinos pil-pil estilo Caleta",
+      "names": {
+        "es": "Langostinos pil-pil estilo Caleta",
+        "en": "Caleta-style pil-pil prawns",
+        "fr": "Crevettes pil-pil façon Caleta"
+      },
+      "printed_names": {
+        "es": "Langostinos pil-pil estilo Caleta"
+      },
+      "descriptions": {},
+      "price_minor": 1295,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "sugerencias",
+      "name_original": "Ensaladilla rusa de pulpo flambeada",
+      "names": {
+        "es": "Ensaladilla rusa de pulpo flambeada",
+        "en": "Flambéed potato salad with octopus",
+        "fr": "Salade russe au poulpe flambée"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa de pulpo flambeada"
+      },
+      "descriptions": {},
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "sugerencias",
+      "name_original": "Salmorejo de mango",
+      "names": {
+        "es": "Salmorejo de mango",
+        "en": "Mango salmorejo",
+        "fr": "Salmorejo à la mangue"
+      },
+      "printed_names": {
+        "es": "Salmorejo de mango"
+      },
+      "descriptions": {},
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "sugerencias",
+      "name_original": "Ensalada templada de langostinos",
+      "names": {
+        "es": "Ensalada templada de langostinos",
+        "en": "Warm prawn salad with rice, avocado, edamame, crispy onion, mango and lime mayonnaise",
+        "fr": "Salade tiède de crevettes, riz, avocat, edamame, oignon frit, mangue et mayonnaise au citron vert"
+      },
+      "printed_names": {
+        "es": "Ensalada templada de langostinos"
+      },
+      "descriptions": {},
+      "price_minor": 1650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "sugerencias",
+      "name_original": "Ensalada templada de salmón",
+      "names": {
+        "es": "Ensalada templada de salmón",
+        "en": "Warm salmon salad with rice, avocado, edamame, crispy onion, mango and lime mayonnaise",
+        "fr": "Salade tiède de saumon, riz, avocat, edamame, oignon frit, mangue et mayonnaise au citron vert"
+      },
+      "printed_names": {
+        "es": "Ensalada templada de salmón"
+      },
+      "descriptions": {},
+      "price_minor": 1695,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "sugerencias",
+      "name_original": "Pulpo a la gallega",
+      "names": {
+        "es": "Pulpo a la gallega",
+        "en": "Galician-style octopus",
+        "fr": "Poulpe à la galicienne"
+      },
+      "printed_names": {
+        "es": "Pulpo a la gallega"
+      },
+      "descriptions": {},
+      "price_minor": 2595,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "sugerencias",
+      "name_original": "Pata de pulpo espetada",
+      "names": {
+        "es": "Pata de pulpo espetada",
+        "en": "Octopus tentacle grilled on a skewer",
+        "fr": "Tentacule de poulpe grillée à la broche"
+      },
+      "printed_names": {
+        "es": "Pata de pulpo espetada"
+      },
+      "descriptions": {},
+      "price_minor": 2600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "para-zarpar",
+      "names": {
+        "es": "Para zarpar",
+        "en": "To set sail",
+        "fr": "Pour larguer les amarres"
+      }
+    },
+    {
+      "category_id": "sugerencias",
+      "names": {
+        "es": "Nuestras sugerencias",
+        "en": "Our suggestions",
+        "fr": "Nos suggestions"
+      }
+    }
+  ],
+  "category_notes": {},
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "9c789cdb11a8e866583afa1eceef9ba1513181fcac47ae39e78a1c9e03273542",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "para-zarpar",
+      "alt": "Ilustración gastronómica · La Caleta Beach Club"
+    }
+  ],
+  "restoID": "r_5006eea5aebd3a6f61cc",
+  "menuID": "m_3c69c3d6d85a6fa3f3ba",
+  "version": 1,
+  "build": "265.3"
+}

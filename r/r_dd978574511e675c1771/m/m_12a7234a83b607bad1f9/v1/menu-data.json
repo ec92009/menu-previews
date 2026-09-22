@@ -1,0 +1,472 @@
+{
+  "title": "La Jábega",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes-frios",
+      "name_original": "Ensalada Jábega",
+      "names": {
+        "es": "Ensalada Jábega",
+        "en": "La Jábega salad",
+        "fr": "Salade Jábega"
+      },
+      "printed_names": {
+        "es": "Ensalada Jábega",
+        "en": "La Jabega Salad"
+      },
+      "descriptions": {},
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes-frios",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "es": "Ensaladilla rusa",
+        "en": "Potato salad",
+        "fr": "Salade russe"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa",
+        "en": "Potato Salad"
+      },
+      "descriptions": {},
+      "price_minor": 875,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes-frios",
+      "name_original": "Aguacate con langostinos y salsa rosa",
+      "names": {
+        "es": "Aguacate con langostinos y salsa rosa",
+        "en": "Avocado with prawns and pink sauce",
+        "fr": "Avocat aux crevettes et sauce cocktail"
+      },
+      "printed_names": {
+        "es": "Aguacate con langostinos y salsa rosa",
+        "en": "Avocado with Prawns and Pink Sauce"
+      },
+      "descriptions": {},
+      "price_minor": 1375,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes-frios",
+      "name_original": "Ensalada pimientos asados estilo Carihuela",
+      "names": {
+        "es": "Ensalada pimientos asados estilo Carihuela",
+        "en": "Sweet pepper salad Carihuela style",
+        "fr": "Salade de poivrons rôtis façon Carihuela"
+      },
+      "printed_names": {
+        "es": "Ensalada pimientos asados estilo Carihuela",
+        "en": "Sweet Peppers Salad Carihuela Style"
+      },
+      "descriptions": {},
+      "price_minor": 925,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes-frios",
+      "name_original": "Salpicón de mariscos",
+      "names": {
+        "es": "Salpicón de mariscos",
+        "en": "Seafood salad",
+        "fr": "Salade de fruits de mer"
+      },
+      "printed_names": {
+        "es": "Salpicón de mariscos",
+        "en": "Seafood Salad"
+      },
+      "descriptions": {},
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes-frios",
+      "name_original": "Salmorejo con taquitos de jamón",
+      "names": {
+        "es": "Salmorejo con taquitos de jamón",
+        "en": "Salmorejo with diced ham",
+        "fr": "Salmorejo aux dés de jambon"
+      },
+      "printed_names": {
+        "es": "Salmorejo con taquitos de jamón",
+        "en": "Salmorejo with Iberian Ham"
+      },
+      "descriptions": {},
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes-frios",
+      "name_original": "Lata anchoas premium «Fontecilla»",
+      "names": {
+        "es": "Lata anchoas premium «Fontecilla»",
+        "en": "Tin of premium Cantabrian anchovies «Fontecilla»",
+        "fr": "Boîte d’anchois premium de Cantabrie «Fontecilla»"
+      },
+      "printed_names": {
+        "es": "Lata anchoas premium «Fontecilla»",
+        "en": "Cans of Cantabrian Premium Anchovies “Fontecilla”"
+      },
+      "descriptions": {},
+      "price_minor": 1750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes-frios",
+      "name_original": "Boquerones en vinagre con pan cristal",
+      "names": {
+        "es": "Boquerones en vinagre con pan cristal",
+        "en": "Anchovies in vinegar with pan cristal bread",
+        "fr": "Anchois au vinaigre et pain cristal"
+      },
+      "printed_names": {
+        "es": "Boquerones en vinagre con pan cristal",
+        "en": "Bay Anchovy in Vinegar on a Bed of Crystal Bread"
+      },
+      "descriptions": {},
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes-frios",
+      "name_original": "Matrimonio: boquerón vinagre y anchoa del Cantábrico",
+      "names": {
+        "es": "Matrimonio: boquerón vinagre y anchoa del Cantábrico",
+        "en": "Marinated anchovies paired with Cantabrian anchovies",
+        "fr": "Duo d’anchois au vinaigre et d’anchois de Cantabrie"
+      },
+      "printed_names": {
+        "es": "Matrimonio: boquerón vinagre y anchoa del Cantábrico",
+        "en": "Marriage: Bay Anchovy in Vinegar with Cantabrian Anchovy"
+      },
+      "descriptions": {},
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "pescado-plancha",
+      "name_original": "Rosada",
+      "names": {
+        "es": "Rosada",
+        "en": "Grilled pink cusk-eel",
+        "fr": "Abadèche rose à la plancha"
+      },
+      "printed_names": {
+        "es": "Rosada",
+        "en": "Grilled pink Cusk-eel"
+      },
+      "descriptions": {},
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "pescado-plancha",
+      "name_original": "Brocheta de pescado",
+      "names": {
+        "es": "Brocheta de pescado",
+        "en": "Fish skewer",
+        "fr": "Brochette de poisson"
+      },
+      "printed_names": {
+        "es": "Brocheta de pescado",
+        "en": "Fish Skewer"
+      },
+      "descriptions": {},
+      "price_minor": 2100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "pescado-plancha",
+      "name_original": "Calamar nacional",
+      "names": {
+        "es": "Calamar nacional",
+        "en": "Grilled Spanish squid",
+        "fr": "Calamar espagnol à la plancha"
+      },
+      "printed_names": {
+        "es": "Calamar nacional",
+        "en": "Grilled Calamari"
+      },
+      "descriptions": {},
+      "price_minor": 2500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "pescado-plancha",
+      "name_original": "Pez espada",
+      "names": {
+        "es": "Pez espada",
+        "en": "Grilled swordfish",
+        "fr": "Espadon à la plancha"
+      },
+      "printed_names": {
+        "es": "Pez espada",
+        "en": "Grilled Swordfish"
+      },
+      "descriptions": {},
+      "price_minor": 2300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "pescado-plancha",
+      "name_original": "Medallones de rape",
+      "names": {
+        "es": "Medallones de rape",
+        "en": "Grilled monkfish medallions",
+        "fr": "Médaillons de lotte à la plancha"
+      },
+      "printed_names": {
+        "es": "Medallones de rape",
+        "en": "Grilled Monkfish"
+      },
+      "descriptions": {},
+      "price_minor": 2600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "pescado-plancha",
+      "name_original": "Merluza de pintxo",
+      "names": {
+        "es": "Merluza de pintxo",
+        "en": "Line-caught hake",
+        "fr": "Merlu de ligne"
+      },
+      "printed_names": {
+        "es": "Merluza de pintxo",
+        "en": "Hake on a Skewer"
+      },
+      "descriptions": {},
+      "price_minor": 2600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "pescado-plancha",
+      "name_original": "Ventresca de atún",
+      "names": {
+        "es": "Ventresca de atún",
+        "en": "Tuna belly",
+        "fr": "Ventrèche de thon"
+      },
+      "printed_names": {
+        "es": "Ventresca de atún",
+        "en": "Tuna Belly"
+      },
+      "descriptions": {},
+      "price_minor": null,
+      "price_unit": "market",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "pescado-plancha",
+      "name_original": "Lenguado",
+      "names": {
+        "es": "Lenguado",
+        "en": "Grilled sole",
+        "fr": "Sole à la plancha"
+      },
+      "printed_names": {
+        "es": "Lenguado",
+        "en": "Grilled Sole"
+      },
+      "descriptions": {},
+      "price_minor": null,
+      "price_unit": "market",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "pescado-plancha",
+      "name_original": "Pescado a la espalda",
+      "names": {
+        "es": "Pescado a la espalda",
+        "en": "Grilled fish with oil, garlic and vinegar",
+        "fr": "Poisson ouvert grillé, huile, ail et vinaigre"
+      },
+      "printed_names": {
+        "es": "Pescado a la espalda",
+        "en": "Grilled Fish Seasoned with Oil, Garlic and Vinegar"
+      },
+      "descriptions": {},
+      "price_minor": null,
+      "price_unit": "market",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes-frios",
+      "names": {
+        "es": "Entrantes fríos",
+        "en": "Cold starters",
+        "fr": "Entrées froides"
+      }
+    },
+    {
+      "category_id": "pescado-plancha",
+      "names": {
+        "es": "Pescado plancha",
+        "en": "Grilled fish",
+        "fr": "Poissons à la plancha"
+      }
+    }
+  ],
+  "category_notes": {
+    "pescado-plancha": {
+      "es": "Servido con dos clases de guarniciones del día.",
+      "en": "Served with two side dishes of the day.",
+      "fr": "Servi avec deux garnitures du jour."
+    }
+  },
+  "photos": [
+    {
+      "path": "assets/original-page-2-v1.webp",
+      "asset_id": "64fb39b4541730dda14769fb5f469721e89b55dda871787cd2b72d74d61b0824",
+      "kind": "source",
+      "dimensions": [
+        1618,
+        2267
+      ],
+      "crop": [
+        103,
+        325,
+        415,
+        305
+      ],
+      "after_category": "entrantes-frios",
+      "alt": "Plato de la carta original · La Jábega"
+    },
+    {
+      "path": "assets/original-page-3-v1.webp",
+      "asset_id": "f7f2d760a735f098e4fb864e1fc6273006336360ac0a41178c032d1be818ca07",
+      "kind": "source",
+      "dimensions": [
+        1609,
+        2261
+      ],
+      "crop": [
+        599,
+        357,
+        415,
+        305
+      ],
+      "after_category": "pescado-plancha",
+      "alt": "Plato de la carta original · La Jábega"
+    }
+  ],
+  "restoID": "r_dd978574511e675c1771",
+  "menuID": "m_12a7234a83b607bad1f9",
+  "version": 1,
+  "build": "265.3"
+}

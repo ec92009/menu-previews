@@ -1,0 +1,338 @@
+{
+  "title": "Casa Antonio",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada mediterránea",
+      "names": {
+        "es": "Ensalada mediterránea",
+        "en": "Mediterranean salad",
+        "fr": "Salade méditerranéenne"
+      },
+      "printed_names": {
+        "es": "Ensalada mediterránea",
+        "en": "Mediterranean salad"
+      },
+      "descriptions": {
+        "es": "Lechuga, tomate, cebolla, huevo, atún, maíz y remolacha.",
+        "en": "Lettuce, tomato, onion, egg, tuna, corn and beetroot.",
+        "fr": "Laitue, tomate, oignon, œuf, thon, maïs et betterave."
+      },
+      "price_minor": 1100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Casa Antonio",
+      "names": {
+        "es": "Ensalada Casa Antonio",
+        "en": "Casa Antonio style house salad",
+        "fr": "Salade maison Casa Antonio"
+      },
+      "printed_names": {
+        "es": "Ensalada Casa Antonio",
+        "en": "Casa Antonio style house salad"
+      },
+      "descriptions": {
+        "es": "Ensalada mediterránea con aguacate y langostinos.",
+        "en": "Mediterranean salad with avocado and prawns.",
+        "fr": "Salade méditerranéenne, avocat et crevettes."
+      },
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada queso de cabra y nueces",
+      "names": {
+        "es": "Ensalada queso de cabra y nueces",
+        "en": "Goat cheese salad & walnuts",
+        "fr": "Salade de chèvre et noix"
+      },
+      "printed_names": {
+        "es": "Ensalada queso de cabra y nueces",
+        "en": "Goat cheese salad & nuts"
+      },
+      "descriptions": {
+        "es": "Mezclum, queso de cabra, tomates, nueces; vinagreta de miel y mostaza.",
+        "en": "Mixed leaves, goat cheese, tomatoes, walnuts; honey-mustard dressing.",
+        "fr": "Mesclun, chèvre, tomates, noix ; vinaigrette miel-moutarde."
+      },
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de pimientos",
+      "names": {
+        "es": "Ensalada de pimientos",
+        "en": "Roasted peppers salad",
+        "fr": "Salade de poivrons rôtis"
+      },
+      "printed_names": {
+        "es": "Ensalada de pimientos",
+        "en": "Roasted peppers salad"
+      },
+      "descriptions": {
+        "es": "Pimientos asados, tomates, cebolla y aceite de oliva.",
+        "en": "Roasted peppers, tomatoes, onion and olive oil.",
+        "fr": "Poivrons rôtis, tomates, oignon et huile d’olive."
+      },
+      "price_minor": 1050,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada tropical",
+      "names": {
+        "es": "Ensalada tropical",
+        "en": "Tropical salad",
+        "fr": "Salade tropicale"
+      },
+      "printed_names": {
+        "es": "Ensalada tropical",
+        "en": "Tropical salad"
+      },
+      "descriptions": {
+        "es": "Lechuga, piña, manzana, langostinos, cangrejo y salsa rosa.",
+        "en": "Lettuce, pineapple, apple, prawns, crab and cocktail sauce.",
+        "fr": "Laitue, ananas, pomme, crevettes, crabe et sauce cocktail."
+      },
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada César",
+      "names": {
+        "es": "Ensalada César",
+        "en": "Caesar salad",
+        "fr": "Salade César"
+      },
+      "printed_names": {
+        "es": "Ensalada César",
+        "en": "César salad"
+      },
+      "descriptions": {
+        "es": "Mezclum, tomate, cebolla, pollo, picatostes y salsa césar.",
+        "en": "Mixed leaves, tomato, onion, chicken, croutons and Caesar dressing.",
+        "fr": "Mesclun, tomate, oignon, poulet, croûtons et sauce César."
+      },
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "sopas",
+      "name_original": "Gazpacho con su guarnición",
+      "names": {
+        "es": "Gazpacho con su guarnición",
+        "en": "Gazpacho with garnish",
+        "fr": "Gaspacho et sa garniture"
+      },
+      "printed_names": {
+        "es": "Gazpacho con su guarnición",
+        "en": "Cold vegetables soup"
+      },
+      "descriptions": {
+        "es": "Tomate, ajo, pimiento, pepino, pan, aceite de oliva y vinagre.",
+        "en": "Tomato, garlic, pepper, cucumber, bread, olive oil and vinegar.",
+        "fr": "Tomate, ail, poivron, concombre, pain, huile d’olive et vinaigre."
+      },
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "sopas",
+      "name_original": "Vaso de gazpacho",
+      "names": {
+        "es": "Vaso de gazpacho",
+        "en": "Glass of gazpacho",
+        "fr": "Verre de gaspacho"
+      },
+      "printed_names": {
+        "es": "Vaso de gazpacho",
+        "en": "Cold vegetables glass"
+      },
+      "descriptions": {
+        "es": "Tomate, ajo, pimiento, pepino, pan, aceite de oliva y vinagre.",
+        "en": "Tomato, garlic, pepper, cucumber, bread, olive oil and vinegar.",
+        "fr": "Tomate, ail, poivron, concombre, pain, huile d’olive et vinaigre."
+      },
+      "price_minor": 500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "sopas",
+      "name_original": "Crema de tomate",
+      "names": {
+        "es": "Crema de tomate",
+        "en": "Tomato cream soup",
+        "fr": "Velouté de tomate"
+      },
+      "printed_names": {
+        "es": "Crema de tomate",
+        "en": "Tomato cream soup"
+      },
+      "descriptions": {
+        "es": "Tomate, zanahoria, puerro, patatas y aceite de oliva.",
+        "en": "Tomato, carrot, leek, potato and olive oil.",
+        "fr": "Tomate, carotte, poireau, pomme de terre et huile d’olive."
+      },
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "sopas",
+      "name_original": "Sopa de pescados y mariscos",
+      "names": {
+        "es": "Sopa de pescados y mariscos",
+        "en": "Seafood and fish soup",
+        "fr": "Soupe de poisson et fruits de mer"
+      },
+      "printed_names": {
+        "es": "Sopa de pescados y mariscos",
+        "en": "Seafood and fish soup"
+      },
+      "descriptions": {
+        "es": "Rosada, langostinos, almejas y mejillones.",
+        "en": "Rosada fish, prawns, clams and mussels.",
+        "fr": "Poisson rosada, crevettes, palourdes et moules."
+      },
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "sopas",
+      "name_original": "Crema de verduras",
+      "names": {
+        "es": "Crema de verduras",
+        "en": "Vegetable cream soup",
+        "fr": "Velouté de légumes"
+      },
+      "printed_names": {
+        "es": "Crema de verduras",
+        "en": "Vegetables cream soup"
+      },
+      "descriptions": {
+        "es": "Zanahoria, puerro, nabo, patatas, aceite de oliva y pimienta.",
+        "en": "Carrot, leek, turnip, potato, olive oil and pepper.",
+        "fr": "Carotte, poireau, navet, pomme de terre, huile d’olive et poivre."
+      },
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    },
+    {
+      "category_id": "sopas",
+      "names": {
+        "es": "Sopas frías y calientes",
+        "en": "Hot and cold soups",
+        "fr": "Soupes froides et chaudes"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {
+    "es": "Muestra basada en fotografías de la carta. Precios pendientes de confirmación.",
+    "en": "Sample based on menu photographs. Prices awaiting confirmation.",
+    "fr": "Extrait réalisé à partir de photos de la carte. Prix à confirmer."
+  },
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "185c621ecb7fa92183f03241d98935bee8ac6a87076e43cccbea187d1dd5b1cb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Ilustración gastronómica · Casa Antonio"
+    }
+  ],
+  "restoID": "r_62a39d456e9f3cc191e1",
+  "menuID": "m_ba346894f0f52693a4fa",
+  "version": 1,
+  "build": "265.5"
+}

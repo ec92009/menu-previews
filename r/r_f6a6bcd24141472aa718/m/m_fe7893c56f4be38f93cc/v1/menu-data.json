@@ -1,0 +1,296 @@
+{
+  "title": "El Velero",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr",
+    "de",
+    "nl",
+    "ru"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada «El Velero»",
+      "names": {
+        "es": "Ensalada «El Velero»",
+        "en": "“El Velero” Salad",
+        "fr": "Salade « El Velero »",
+        "de": "Salat „El Velero“",
+        "nl": "Salade “El Velero”",
+        "ru": "Салат «El Velero»"
+      },
+      "printed_names": {
+        "es": "Ensalada \"El Velero\"",
+        "en": "\"El Velero\" Salad",
+        "fr": "Salade \"El Velero\"",
+        "de": "Salat \"El Velero\"",
+        "nl": "Salade \"El Velero\"",
+        "ru": "Салат «El Velero»"
+      },
+      "descriptions": {},
+      "price_minor": 1050,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "ensaladas",
+      "name_original": "Tomate con Cebolla",
+      "names": {
+        "es": "Tomate con Cebolla",
+        "en": "Tomato with Onion",
+        "fr": "Tomates et oignons",
+        "de": "Tomate mit Zwiebel",
+        "nl": "Tomaat met ui",
+        "ru": "Помидоры с луком"
+      },
+      "printed_names": {
+        "es": "Tomate con Cebolla",
+        "en": "Tomato wit Onion",
+        "fr": "Tomates et d’oignons",
+        "de": "Tomate mit Zwiebel",
+        "nl": "Tomaat met Ui",
+        "ru": "помидорами и луком"
+      },
+      "descriptions": {},
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de Aguacate con Gambas",
+      "names": {
+        "es": "Ensalada de Aguacate con Gambas",
+        "en": "Salad with Avocado & Prawns",
+        "fr": "Salade d’avocat et crevettes",
+        "de": "Avocado-Garnelen-Salat",
+        "nl": "Salade met avocado en garnalen",
+        "ru": "Салат из авокадо с креветками"
+      },
+      "printed_names": {
+        "es": "Ensalada de Aguacate con Gambas",
+        "en": "Salad with Avocado & Prawns",
+        "fr": "Salade de Avocat et Crevettes",
+        "de": "Avocado und Garnelen Salat",
+        "nl": "Avocad et Garnalen Salade",
+        "ru": "Салат из авокадо с креветками"
+      },
+      "descriptions": {},
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada del Chef",
+      "names": {
+        "es": "Ensalada del Chef",
+        "en": "Chef’s Salad",
+        "fr": "Salade du Chef",
+        "de": "Küchenchefsalat",
+        "nl": "Salade van de chef",
+        "ru": "Салат от шефа"
+      },
+      "printed_names": {
+        "es": "Ensalada del Chef",
+        "en": "Chef’s Salad",
+        "fr": "Salade du Chef",
+        "de": "Küchenchefsalat",
+        "nl": "Chefkoksia",
+        "ru": "Салат от Шефа"
+      },
+      "descriptions": {},
+      "price_minor": 1100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Ensaladilla Rusa",
+      "names": {
+        "es": "Ensaladilla Rusa",
+        "en": "Russian Salad",
+        "fr": "Salade russe",
+        "de": "Russischer Salat",
+        "nl": "Russische salade",
+        "ru": "«Русский» салат"
+      },
+      "printed_names": {
+        "es": "Ensaladilla Rusa",
+        "en": "Russian Salad",
+        "fr": "Salade Russe",
+        "de": "Russischersalat",
+        "nl": "Russich Salade",
+        "ru": "«Русский» салат"
+      },
+      "descriptions": {},
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Boquerones en Vinagre",
+      "names": {
+        "es": "Boquerones en Vinagre",
+        "en": "Marinated Anchovies",
+        "fr": "Anchois au vinaigre",
+        "de": "Sardellen in Essig",
+        "nl": "Ansjovis in azijn",
+        "ru": "Анчоусы в уксусном соусе"
+      },
+      "printed_names": {
+        "es": "Boquerones en Vinagre",
+        "en": "Marinated Anchovies",
+        "fr": "Anchois au Vinaigre",
+        "de": "Sardellen in Essig",
+        "nl": "Ansjovis in azijn",
+        "ru": "Анчоусы в уксусном соусе"
+      },
+      "descriptions": {},
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Pulpo a la Gallega",
+      "names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Octopus Galician Style",
+        "fr": "Poulpe à la galicienne",
+        "de": "Oktopus nach galicischer Art",
+        "nl": "Octopus op Galicische wijze",
+        "ru": "Осьминог по-галисийски"
+      },
+      "printed_names": {
+        "es": "Pulpo a la Gallega",
+        "en": "Octopus Galician Style",
+        "fr": "Poulpe à la Galicienne",
+        "de": "Krake nach Galizische Art",
+        "nl": "Octopus In De Galicische Stijl",
+        "ru": "Осьминог по-галисийски"
+      },
+      "descriptions": {},
+      "price_minor": 1690,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Sardinas",
+      "names": {
+        "es": "Sardinas",
+        "en": "Grilled Sardines",
+        "fr": "Sardines grillées",
+        "de": "Gegrillte Sardinen",
+        "nl": "Sardienen",
+        "ru": "Сардины на гриле"
+      },
+      "printed_names": {
+        "es": "Sardinas",
+        "en": "Grilled Sardines",
+        "fr": "Sardines Grillées",
+        "de": "Sardinen Gegrillt",
+        "nl": "Sardienen",
+        "ru": "Сардины на гриле"
+      },
+      "descriptions": {},
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades",
+        "de": "Salate",
+        "nl": "Salades",
+        "ru": "Салаты"
+      }
+    },
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes y sardinas",
+        "en": "Starters and sardines",
+        "fr": "Entrées et sardines",
+        "de": "Vorspeisen und Sardinen",
+        "nl": "Voorgerechten en sardienen",
+        "ru": "Закуски и сардины"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {
+    "es": "Muestra basada en fotografías de archivo. Precios por confirmar.",
+    "en": "Sample based on archived menu photographs. Prices to be confirmed.",
+    "fr": "Extrait réalisé à partir de photos anciennes. Prix à confirmer.",
+    "de": "Muster auf Basis älterer Menüfotos. Preise bitte bestätigen.",
+    "nl": "Voorbeeld op basis van oudere menufoto’s. Prijzen nog te bevestigen.",
+    "ru": "Образец по архивным фотографиям меню. Цены требуют подтверждения."
+  },
+  "photos": [
+    {
+      "path": "assets/food-v1.webp",
+      "asset_id": "3420e3c54380c4d1deff71e276150f5872379788dacf8fbaeed1d15159ea3137",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Ilustración gastronómica · El Velero"
+    }
+  ],
+  "restoID": "r_f6a6bcd24141472aa718",
+  "menuID": "m_fe7893c56f4be38f93cc",
+  "version": 1,
+  "build": "265.5"
+}

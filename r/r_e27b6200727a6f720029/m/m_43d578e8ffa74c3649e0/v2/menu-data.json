@@ -1,0 +1,412 @@
+{
+  "title": "Yucas Café & Bar",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "brunch",
+      "name_original": "Salmon Sunset",
+      "names": {
+        "es": "Salmon Sunset",
+        "en": "Salmon Sunset",
+        "fr": "Salmon Sunset"
+      },
+      "printed_names": {
+        "es": "Salmon Sunset"
+      },
+      "descriptions": {
+        "es": "Tosta de cereales con salmón ahumado, rúcula, tomate del terreno, aguacate, huevo poché, migas de rulo de cabra, salsa dulce de balsámico y mostaza",
+        "en": "Multigrain toast with smoked salmon, rocket, local tomato, avocado, poached egg, goat cheese crumbs, sweet balsamic sauce and mustard",
+        "fr": "Tartine aux céréales, saumon fumé, roquette, tomate locale, avocat, œuf poché, miettes de chèvre, sauce balsamique douce et moutarde"
+      },
+      "price_variants": [],
+      "price_minor": 1250,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "brunch",
+      "name_original": "Huevos Benedict",
+      "names": {
+        "es": "Huevos Benedict",
+        "en": "Eggs Benedict",
+        "fr": "Œufs Bénédicte"
+      },
+      "printed_names": {
+        "es": "Huevos Benedict"
+      },
+      "descriptions": {
+        "es": "Pan de centeno con aguacate, huevo poché, alcaparras, rúcula, eneldo y salsa holandesa",
+        "en": "Rye bread, avocado, poached egg, capers, rocket, dill and hollandaise sauce",
+        "fr": "Pain de seigle, avocat, œuf poché, câpres, roquette, aneth et sauce hollandaise"
+      },
+      "price_variants": [],
+      "price_minor": 1100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "brunch",
+      "name_original": "Mediterraneo",
+      "names": {
+        "es": "Mediterraneo",
+        "en": "Mediterranean",
+        "fr": "Méditerranéen"
+      },
+      "printed_names": {
+        "es": "Mediterraneo"
+      },
+      "descriptions": {
+        "es": "Pan payes con jamón serrano, rúcula, tomate, mozzarella, AOVE y hummus de aceitunas",
+        "en": "Country bread, Serrano ham, rocket, tomato, mozzarella, extra virgin olive oil and olive hummus",
+        "fr": "Pain de campagne, jambon serrano, roquette, tomate, mozzarella, huile d’olive vierge extra et houmous aux olives"
+      },
+      "price_variants": [],
+      "price_minor": 1150,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "brunch",
+      "name_original": "Bagel Healthy",
+      "names": {
+        "es": "Bagel Healthy",
+        "en": "Healthy bagel",
+        "fr": "Bagel Healthy"
+      },
+      "printed_names": {
+        "es": "Bagel Healthy"
+      },
+      "descriptions": {
+        "es": "Bagel con pollo braceado, aguacate, tomate, rúcula y mantequilla",
+        "en": "Bagel with braised chicken, avocado, tomato, rocket and butter",
+        "fr": "Bagel au poulet braisé, avocat, tomate, roquette et beurre"
+      },
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "brunch",
+      "name_original": "Bagel Salmón",
+      "names": {
+        "es": "Bagel Salmón",
+        "en": "Salmon bagel",
+        "fr": "Bagel au saumon"
+      },
+      "printed_names": {
+        "es": "Bagel Salmón"
+      },
+      "descriptions": {
+        "es": "Bagel con queso crema, rúcula, aguacate y salmón ahumado",
+        "en": "Bagel with cream cheese, rocket, avocado and smoked salmon",
+        "fr": "Bagel au fromage frais, roquette, avocat et saumon fumé"
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "brunch",
+      "name_original": "Classic Pancakes",
+      "names": {
+        "es": "Classic Pancakes",
+        "en": "Classic Pancakes",
+        "fr": "Pancakes classiques"
+      },
+      "printed_names": {
+        "es": "Classic Pancakes"
+      },
+      "descriptions": {
+        "es": "Tortitas Americanas con mantequilla, fruta natural, miel o dulce de leche",
+        "en": "American pancakes with butter, fresh fruit, honey or dulce de leche",
+        "fr": "Pancakes américains, beurre, fruits frais, miel ou confiture de lait"
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "brunch",
+      "name_original": "Yogurt Bowl",
+      "names": {
+        "es": "Yogurt Bowl",
+        "en": "Yogurt Bowl",
+        "fr": "Bol de yaourt"
+      },
+      "printed_names": {
+        "es": "Yogurt Bowl"
+      },
+      "descriptions": {
+        "es": "Yogurt Griego, muesli, frutas de temporada y sirope de agave",
+        "en": "Greek yoghurt, muesli, seasonal fruit and agave syrup",
+        "fr": "Yaourt grec, muesli, fruits de saison et sirop d’agave"
+      },
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "desayuno",
+      "name_original": "Saludable",
+      "names": {
+        "es": "Saludable",
+        "en": "Healthy",
+        "fr": "Équilibré"
+      },
+      "printed_names": {
+        "es": "Saludable"
+      },
+      "descriptions": {
+        "es": "[Jamón Serrano o Jamón york o Atún], Queso, Tomate y Aguacate",
+        "en": "Serrano ham, cooked ham or tuna; cheese, tomato and avocado",
+        "fr": "Jambon serrano, jambon blanc ou thon ; fromage, tomate et avocat"
+      },
+      "price_variants": [],
+      "price_minor": 580,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "desayuno",
+      "name_original": "Jamón York y Queso",
+      "names": {
+        "es": "Jamón York y Queso",
+        "en": "Ham & Cheese",
+        "fr": "Jambon blanc et fromage"
+      },
+      "printed_names": {
+        "es": "Jamón York y Queso"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 380,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "desayuno",
+      "name_original": "Tomate y Atún",
+      "names": {
+        "es": "Tomate y Atún",
+        "en": "Tuna & Tomato",
+        "fr": "Tomate et thon"
+      },
+      "printed_names": {
+        "es": "Tomate y Atún"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "desayuno",
+      "name_original": "Pavo y Queso",
+      "names": {
+        "es": "Pavo y Queso",
+        "en": "Turkey & Cheese",
+        "fr": "Dinde et fromage"
+      },
+      "printed_names": {
+        "es": "Pavo y Queso"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 380,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "desayuno",
+      "name_original": "Catalana",
+      "names": {
+        "es": "Catalana",
+        "en": "Tomato, Serrano Ham & Olive Oil",
+        "fr": "Tomate, jambon serrano et huile d’olive"
+      },
+      "printed_names": {
+        "es": "Catalana"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 450,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "desayuno",
+      "name_original": "Tomate y Aceite",
+      "names": {
+        "es": "Tomate y Aceite",
+        "en": "Tomato & Olive Oil",
+        "fr": "Tomate et huile d’olive"
+      },
+      "printed_names": {
+        "es": "Tomate y Aceite"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "desayuno",
+      "name_original": "Mantequilla y mermelada",
+      "names": {
+        "es": "Mantequilla y mermelada",
+        "en": "Butter & Jam",
+        "fr": "Beurre et confiture"
+      },
+      "printed_names": {
+        "es": "Mantequilla y mermelada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "brunch",
+      "names": {
+        "es": "Brunch",
+        "en": "Brunch",
+        "fr": "Brunch"
+      }
+    },
+    {
+      "category_id": "desayuno",
+      "names": {
+        "es": "Desayuno",
+        "en": "Breakfast",
+        "fr": "Petit-déjeuner"
+      }
+    }
+  ],
+  "category_notes": {
+    "brunch": {
+      "es": "Todos los días, 10:00–13:00.",
+      "en": "Every day, 10:00–13:00.",
+      "fr": "Tous les jours, de 10 h à 13 h."
+    },
+    "desayuno": {
+      "es": "Hasta las 13:00. Elige el pan: multicereal, mollete, croissant o pitufo.",
+      "en": "Until 13:00. Choose multigrain bread, mollete bread, croissant or pitufo bread.",
+      "fr": "Jusqu’à 13 h. Au choix : pain multicéréales, mollete, croissant ou pitufo."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/breakfast-illustration-v1.webp",
+      "asset_id": "026f26b1675176643ee0ccd5f8c278961fdcd52f22c6c0238697eb4acce129a3",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "brunch",
+      "after_item": null,
+      "alt": "Desayuno mediterráneo · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/toast-illustration-v1.webp",
+      "asset_id": "321dcb7b95ecc5bcab4f9d81877159b6bbc3f27b60d51beadc48b0c749479dc0",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "desayuno",
+      "after_item": null,
+      "alt": "Tostada de tomate y aceite · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_e27b6200727a6f720029",
+  "menuID": "m_43d578e8ffa74c3649e0",
+  "version": 2,
+  "build": "267.1"
+}

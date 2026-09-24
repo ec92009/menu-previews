@@ -1,0 +1,297 @@
+{
+  "title": "Trocadero Benalmádena",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "huerta",
+      "name_original": "Selección de tomates",
+      "names": {
+        "es": "Selección de tomates",
+        "en": "Selection of seasonal tomatoes",
+        "fr": "Sélection de tomates"
+      },
+      "printed_names": {
+        "es": "Selección de tomates"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "huerta",
+      "name_original": "Aguacate a la brasa, pico de gallo y crema de yogur cítrica",
+      "names": {
+        "es": "Aguacate a la brasa, pico de gallo y crema de yogur cítrica",
+        "en": "Chargrilled avocado with pico de gallo and citrus yoghurt cream",
+        "fr": "Avocat grillé, pico de gallo et crème de yaourt aux agrumes"
+      },
+      "printed_names": {
+        "es": "Aguacate a la brasa, pico de gallo y crema de yogur cítrica"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "huerta",
+      "name_original": "Ensalada de cogollos, vinagreta de anchoas y ajo frito",
+      "names": {
+        "es": "Ensalada de cogollos, vinagreta de anchoas y ajo frito",
+        "en": "Baby gem lettuce hearts with anchovy vinaigrette and crispy garlic",
+        "fr": "Cœurs de laitue, vinaigrette aux anchois et ail frit"
+      },
+      "printed_names": {
+        "es": "Ensalada de cogollos, vinagreta de anchoas y ajo frito"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "huerta",
+      "name_original": "Puerros asados, stracciatella de burrata y pistacho",
+      "names": {
+        "es": "Puerros asados, stracciatella de burrata y pistacho",
+        "en": "Roasted leeks with burrata stracciatella and pistachio",
+        "fr": "Poireaux rôtis, stracciatella de burrata et pistache"
+      },
+      "printed_names": {
+        "es": "Puerros asados, stracciatella de burrata y pistacho"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "huerta",
+      "name_original": "Alcachofas confitadas, ajo blanco y cecina",
+      "names": {
+        "es": "Alcachofas confitadas, ajo blanco y cecina",
+        "en": "Confit artichokes with white garlic sauce and cured beef",
+        "fr": "Artichauts confits, ajo blanco et bœuf séché"
+      },
+      "printed_names": {
+        "es": "Alcachofas confitadas, ajo blanco y cecina"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "arroz",
+      "name_original": "Arroz a banda tradicional",
+      "names": {
+        "es": "Arroz a banda tradicional",
+        "en": "Traditional arroz a banda",
+        "fr": "Arroz a banda traditionnel"
+      },
+      "printed_names": {
+        "es": "Arroz a banda tradicional"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2500,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "arroz",
+      "name_original": "Arroz negro con calamar y langostinos",
+      "names": {
+        "es": "Arroz negro con calamar y langostinos",
+        "en": "Black rice with squid and prawns",
+        "fr": "Riz noir, calamar et crevettes"
+      },
+      "printed_names": {
+        "es": "Arroz negro con calamar y langostinos"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2600,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "arroz",
+      "name_original": "Arroz ibérico con foie y setas de temporada",
+      "names": {
+        "es": "Arroz ibérico con foie y setas de temporada",
+        "en": "Iberian-style rice with foie gras and seasonal mushrooms",
+        "fr": "Riz ibérique, foie gras et champignons de saison"
+      },
+      "printed_names": {
+        "es": "Arroz ibérico con foie y setas de temporada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2800,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "arroz",
+      "name_original": "Arroz de atún a la brasa y alcachofas",
+      "names": {
+        "es": "Arroz de atún a la brasa y alcachofas",
+        "en": "Rice with chargrilled tuna and artichokes",
+        "fr": "Riz au thon grillé et aux artichauts"
+      },
+      "printed_names": {
+        "es": "Arroz de atún a la brasa y alcachofas"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2800,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "arroz",
+      "name_original": "Rigatoni arrabbiata con burrata y albahaca",
+      "names": {
+        "es": "Rigatoni arrabbiata con burrata y albahaca",
+        "en": "Rigatoni arrabbiata with burrata and basil",
+        "fr": "Rigatoni arrabbiata, burrata et basilic"
+      },
+      "printed_names": {
+        "es": "Rigatoni arrabbiata con burrata y albahaca"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2300,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "arroz",
+      "name_original": "Tagliatelle de carabineros con huevo y salsa americana",
+      "names": {
+        "es": "Tagliatelle de carabineros con huevo y salsa americana",
+        "en": "Tagliatelle with scarlet prawns, egg, and American sauce",
+        "fr": "Tagliatelle aux crevettes carabineros, œuf et sauce américaine"
+      },
+      "printed_names": {
+        "es": "Tagliatelle de carabineros con huevo y salsa americana"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 3300,
+      "price_unit": "person",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "huerta",
+      "names": {
+        "es": "La huerta como protagonista",
+        "en": "From the garden",
+        "fr": "Le potager à l’honneur"
+      }
+    },
+    {
+      "category_id": "arroz",
+      "names": {
+        "es": "Arroz y pasta",
+        "en": "Rice & pasta",
+        "fr": "Riz et pâtes"
+      }
+    }
+  ],
+  "category_notes": {
+    "arroz": {
+      "es": "Los precios de esta sección se indican por persona en la carta original.",
+      "en": "The original menu marks every price in this section per person.",
+      "fr": "La carte originale indique chaque prix de cette section par personne."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/tomato-illustration-v1.webp",
+      "asset_id": "927e679b3e511d51ba402cdb82014d9ed4e9d3f588b3a973594c7fe097c5aa4c",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "huerta",
+      "after_item": null,
+      "alt": "Tomates con aceite de oliva · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_02ae9a89a4e79ca0a2df",
+  "menuID": "m_16dfe5f89d130a3842b3",
+  "version": 2,
+  "build": "267.2"
+}

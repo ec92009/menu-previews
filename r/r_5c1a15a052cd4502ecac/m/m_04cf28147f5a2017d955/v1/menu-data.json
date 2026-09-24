@@ -1,0 +1,342 @@
+{
+  "title": "Chiringuito La Torre",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "bocadillos",
+      "name_original": "Jamón cocido y queso",
+      "names": {
+        "es": "Jamón cocido y queso",
+        "en": "Ham & cheese",
+        "fr": "Jambon blanc et fromage"
+      },
+      "printed_names": {
+        "es": "Jamón cocido y queso"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 370
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "bocadillos",
+      "name_original": "Jamón serrano y tomate",
+      "names": {
+        "es": "Jamón serrano y tomate",
+        "en": "Serrano ham & tomato",
+        "fr": "Jambon serrano et tomate"
+      },
+      "printed_names": {
+        "es": "Jamón serrano y tomate"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 370
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "bocadillos",
+      "name_original": "Queso Manchego",
+      "names": {
+        "es": "Queso Manchego",
+        "en": "Manchego cheese",
+        "fr": "Fromage manchego"
+      },
+      "printed_names": {
+        "es": "Queso Manchego"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 370
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "bocadillos",
+      "name_original": "Atún con queso",
+      "names": {
+        "es": "Atún con queso",
+        "en": "Tuna melt",
+        "fr": "Thon et fromage"
+      },
+      "printed_names": {
+        "es": "Atún con queso"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 370
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "bocadillos",
+      "name_original": "Vegetal",
+      "names": {
+        "es": "Vegetal",
+        "en": "Vegetable sandwich",
+        "fr": "Sandwich végétal"
+      },
+      "printed_names": {
+        "es": "Vegetal",
+        "en": "Cheese & onion or cheese & tomato"
+      },
+      "descriptions": {
+        "es": "La carta inglesa indica queso y cebolla o queso y tomate.",
+        "en": "The printed English menu specifies cheese and onion or cheese and tomato.",
+        "fr": "La carte anglaise précise fromage et oignon ou fromage et tomate."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 320
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 370
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "bocadillos",
+      "name_original": "Jamón serrano y queso manchego",
+      "names": {
+        "es": "Jamón serrano y queso manchego",
+        "en": "Serrano ham & manchego cheese",
+        "fr": "Jambon serrano et manchego"
+      },
+      "printed_names": {
+        "es": "Jamón serrano y queso manchego"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pitufo/Sandwich",
+            "en": "Small bread/toastie",
+            "fr": "Petit pain/sandwich"
+          },
+          "price_minor": 370
+        },
+        {
+          "labels": {
+            "es": "Baguette",
+            "en": "Baguette",
+            "fr": "Baguette"
+          },
+          "price_minor": 420
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "tostadas",
+      "name_original": "Aceite y Tomate",
+      "names": {
+        "es": "Aceite y Tomate",
+        "en": "Oil & tomato",
+        "fr": "Huile et tomate"
+      },
+      "printed_names": {
+        "es": "Aceite y Tomate"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 220,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "tostadas",
+      "name_original": "Mantequilla y Mermelada",
+      "names": {
+        "es": "Mantequilla y Mermelada",
+        "en": "Butter & jam",
+        "fr": "Beurre et confiture"
+      },
+      "printed_names": {
+        "es": "Mantequilla y Mermelada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 220,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "bocadillos",
+      "names": {
+        "es": "Bocadillos y Sandwiches",
+        "en": "Baguettes & toasties",
+        "fr": "Sandwichs et baguettes"
+      }
+    },
+    {
+      "category_id": "tostadas",
+      "names": {
+        "es": "Tostadas/Pitufo",
+        "en": "Toast & small bread",
+        "fr": "Tartines et petit pain"
+      }
+    }
+  ],
+  "category_notes": {
+    "bocadillos": {
+      "es": "Añádele lechuga, tomate o cebolla. Ingredientes de la carta: jamón York, queso gouda, atún, jamón serrano, queso manchego, pavo, chorizo, salchichón y paté. Sin suplemento indicado.",
+      "en": "Add lettuce, tomato or onion. Listed ingredients: cooked ham, Gouda, tuna, Serrano ham, Manchego, turkey, chorizo, salchichón and pâté. No supplement price stated.",
+      "fr": "Ajoutez laitue, tomate ou oignon. Ingrédients indiqués : jambon blanc, gouda, thon, jambon serrano, manchego, dinde, chorizo, saucisson et pâté. Aucun supplément chiffré."
+    }
+  },
+  "public_source_note": {
+    "es": "Muestra de una carta de 2020 publicada por el restaurante. Precios históricos por confirmar.",
+    "en": "Sample from a 2020 menu published by the restaurant. Historical prices awaiting confirmation.",
+    "fr": "Extrait d’une carte de 2020 publiée par le restaurant. Prix historiques à confirmer."
+  },
+  "photos": [
+    {
+      "path": "assets/toast-illustration-v1.webp",
+      "asset_id": "321dcb7b95ecc5bcab4f9d81877159b6bbc3f27b60d51beadc48b0c749479dc0",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "tostadas",
+      "after_item": null,
+      "alt": "Tostada de tomate y aceite · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_5c1a15a052cd4502ecac",
+  "menuID": "m_04cf28147f5a2017d955",
+  "version": 1,
+  "build": "267.1"
+}

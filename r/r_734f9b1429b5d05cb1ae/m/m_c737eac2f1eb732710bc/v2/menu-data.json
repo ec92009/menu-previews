@@ -1,0 +1,579 @@
+{
+  "title": "La Viborilla",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Jamón ibérico cebo 75% - 100 gr.",
+      "names": {
+        "es": "Jamón ibérico cebo 75% - 100 gr.",
+        "en": "Iberian ham cebo 75% - 100 g",
+        "fr": "Jambon ibérique cebo 75 % - 100 g"
+      },
+      "printed_names": {
+        "es": "Jamón ibérico cebo 75% - 100 gr."
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Queso curado",
+      "names": {
+        "es": "Queso curado",
+        "en": "Matured cheese",
+        "fr": "Fromage affiné"
+      },
+      "printed_names": {
+        "es": "Queso curado"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1050,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Espárragos verdes plancha",
+      "names": {
+        "es": "Espárragos verdes plancha",
+        "en": "Grilled green asparagus",
+        "fr": "Asperges vertes grillées"
+      },
+      "printed_names": {
+        "es": "Espárragos verdes plancha"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Alcachofas plancha (3 unidades)",
+      "names": {
+        "es": "Alcachofas plancha (3 unidades)",
+        "en": "Grilled artichokes (3 units)",
+        "fr": "Artichauts grillés (3 pièces)"
+      },
+      "printed_names": {
+        "es": "Alcachofas plancha (3 unidades)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Aguacate con langostinos",
+      "names": {
+        "es": "Aguacate con langostinos",
+        "en": "Avocado with prawns",
+        "fr": "Avocat aux crevettes"
+      },
+      "printed_names": {
+        "es": "Aguacate con langostinos"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Buñuelos de bacalao",
+      "names": {
+        "es": "Buñuelos de bacalao",
+        "en": "Cod fritters",
+        "fr": "Beignets de morue"
+      },
+      "printed_names": {
+        "es": "Buñuelos de bacalao"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Croquetas puchero",
+      "names": {
+        "es": "Croquetas puchero",
+        "en": "Puchero stew croquettes",
+        "fr": "Croquettes de pot-au-feu"
+      },
+      "printed_names": {
+        "es": "Croquetas puchero",
+        "en": "CHICKEN STEW CROQUETTES"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 550
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Croquetas de txipirón",
+      "names": {
+        "es": "Croquetas de txipirón",
+        "en": "Baby squid croquettes",
+        "fr": "Croquettes de petits calamars"
+      },
+      "printed_names": {
+        "es": "Croquetas de txipirón"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 800
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1480
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Fritura mar y tierra",
+      "names": {
+        "es": "Fritura mar y tierra",
+        "en": "Mixed sea and land fry (veg & fish)",
+        "fr": "Friture de légumes et de poisson"
+      },
+      "printed_names": {
+        "es": "Fritura mar y tierra"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1150
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Fritura de la huerta",
+      "names": {
+        "es": "Fritura de la huerta",
+        "en": "Fried vegetables",
+        "fr": "Friture de légumes"
+      },
+      "printed_names": {
+        "es": "Fritura de la huerta"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 950
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Ali-oli - Aceitunas",
+      "names": {
+        "es": "Ali-oli - Aceitunas",
+        "en": "Aioli - Olives",
+        "fr": "Aïoli - Olives"
+      },
+      "printed_names": {
+        "es": "Ali-oli - Aceitunas"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Ali-oli",
+            "en": "Aioli",
+            "fr": "Aïoli"
+          },
+          "price_minor": 100
+        },
+        {
+          "labels": {
+            "es": "Aceitunas",
+            "en": "Olives",
+            "fr": "Olives"
+          },
+          "price_minor": 150
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "entrantes",
+      "name_original": "Pan / sin gluten",
+      "names": {
+        "es": "Pan / sin gluten",
+        "en": "Bread / gluten-free bread",
+        "fr": "Pain / pain sans gluten"
+      },
+      "printed_names": {
+        "es": "Pan / sin gluten"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pan",
+            "en": "Bread",
+            "fr": "Pain"
+          },
+          "price_minor": 100
+        },
+        {
+          "labels": {
+            "es": "Sin gluten",
+            "en": "Gluten-free",
+            "fr": "Sans gluten"
+          },
+          "price_minor": 200
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "ensaladas",
+      "name_original": "Ensaladilla rusa",
+      "names": {
+        "es": "Ensaladilla rusa",
+        "en": "Russian salad",
+        "fr": "Salade russe"
+      },
+      "printed_names": {
+        "es": "Ensaladilla rusa"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "ensaladas",
+      "name_original": "Pollo Viborilla",
+      "names": {
+        "es": "Pollo Viborilla",
+        "en": "Viborilla chicken salad",
+        "fr": "Salade de poulet Viborilla"
+      },
+      "printed_names": {
+        "es": "Pollo Viborilla"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada mixta pequeña / grande",
+      "names": {
+        "es": "Ensalada mixta pequeña / grande",
+        "en": "Mixed salad, small / large",
+        "fr": "Salade composée, petite / grande"
+      },
+      "printed_names": {
+        "es": "Ensalada mixta pequeña / grande",
+        "en": "SMALL SALAD / LARGE SALAD"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Pequeña",
+            "en": "Small",
+            "fr": "Petite"
+          },
+          "price_minor": 750
+        },
+        {
+          "labels": {
+            "es": "Grande",
+            "en": "Large",
+            "fr": "Grande"
+          },
+          "price_minor": 1050
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "ensaladas",
+      "name_original": "Pimientos asados",
+      "names": {
+        "es": "Pimientos asados",
+        "en": "Roasted pepper salad",
+        "fr": "Salade de poivrons rôtis"
+      },
+      "printed_names": {
+        "es": "Pimientos asados"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 970,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "ensaladas",
+      "name_original": "Tomate y caballa",
+      "names": {
+        "es": "Tomate y caballa",
+        "en": "Tomato with mackerel",
+        "fr": "Tomate et maquereau"
+      },
+      "printed_names": {
+        "es": "Tomate y caballa"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "ensaladas",
+      "name_original": "Tomate albahaca y/o ajo",
+      "names": {
+        "es": "Tomate albahaca y/o ajo",
+        "en": "Tomato with basil and/or garlic",
+        "fr": "Tomate, basilic et/ou ail"
+      },
+      "printed_names": {
+        "es": "Tomate albahaca y/o ajo",
+        "en": "TOMATO WITH BASIL OR GARLIC"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Para comenzar",
+        "en": "To start",
+        "fr": "Pour commencer"
+      }
+    },
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/peppers-illustration-v1.webp",
+      "asset_id": "4dc5ea77c6f0b85ec813289c3a4c13d37eedfcf62cf2ca1a0bbd609802a2be2b",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "after_item": null,
+      "alt": "Pimientos asados · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_734f9b1429b5d05cb1ae",
+  "menuID": "m_c737eac2f1eb732710bc",
+  "version": 2,
+  "build": "267.2"
+}

@@ -1,0 +1,211 @@
+{
+  "title": "Michy Coffee",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "bowls",
+      "name_original": "Yogur Michy",
+      "names": {
+        "es": "Yogur Michy",
+        "en": "Michy Yogurt",
+        "fr": "Yaourt Michy"
+      },
+      "printed_names": {
+        "es": "Yogur Michy"
+      },
+      "descriptions": {
+        "es": "Granola casera, fruta de temporada, mantequilla de cacahuete",
+        "en": "Homemade granola, seasonal fruit, peanut butter",
+        "fr": "Granola maison, fruits de saison, beurre de cacahuète"
+      },
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "bowls",
+      "name_original": "Açai bowl",
+      "names": {
+        "es": "Açai bowl",
+        "en": "Açaí bowl",
+        "fr": "Bol d’açaï"
+      },
+      "printed_names": {
+        "es": "Açai bowl"
+      },
+      "descriptions": {
+        "es": "Banana, coco, granola casera, mantequilla de cacahuete",
+        "en": "Banana, coconut, homemade granola, peanut butter",
+        "fr": "Banane, noix de coco, granola maison, beurre de cacahuète"
+      },
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "tostas",
+      "name_original": "Avo",
+      "names": {
+        "es": "Avo",
+        "en": "Avo",
+        "fr": "Avo"
+      },
+      "printed_names": {
+        "es": "Avo"
+      },
+      "descriptions": {
+        "es": "Aguacate laminado, huevo a baja temperatura, whipped ricotta",
+        "en": "Sliced avocado, slow-cooked egg, whipped ricotta",
+        "fr": "Avocat en tranches, œuf cuit à basse température, ricotta fouettée"
+      },
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "tostas",
+      "name_original": "Hummus",
+      "names": {
+        "es": "Hummus",
+        "en": "Hummus",
+        "fr": "Houmous"
+      },
+      "printed_names": {
+        "es": "Hummus"
+      },
+      "descriptions": {
+        "es": "Hummus casero, tomates cherry confitado, dukkah, parmesano, rúcula",
+        "en": "Homemade hummus, confit cherry tomatoes, dukkah, Parmesan, arugula",
+        "fr": "Houmous maison, tomates cerises confites, dukkah, parmesan, roquette"
+      },
+      "price_variants": [],
+      "price_minor": 590,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "tostas",
+      "name_original": "Salmón",
+      "names": {
+        "es": "Salmón",
+        "en": "Salmon",
+        "fr": "Saumon"
+      },
+      "printed_names": {
+        "es": "Salmón"
+      },
+      "descriptions": {
+        "es": "Salmón curado, queso crema con hierbas, pepino encurtido, alcaparras",
+        "en": "Cured salmon, herb cream cheese, pickled cucumber, capers",
+        "fr": "Saumon mariné, fromage frais aux herbes, concombre au vinaigre, câpres"
+      },
+      "price_variants": [],
+      "price_minor": 760,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "tostas",
+      "name_original": "Ibérica",
+      "names": {
+        "es": "Ibérica",
+        "en": "Iberian",
+        "fr": "Ibérique"
+      },
+      "printed_names": {
+        "es": "Ibérica"
+      },
+      "descriptions": {
+        "es": "Jamón ibérico, tomate rallado, ajo confitado",
+        "en": "Iberian ham, grated tomato, confit garlic",
+        "fr": "Jambon ibérique, tomate râpée, ail confit"
+      },
+      "price_variants": [],
+      "price_minor": 710,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "bowls",
+      "names": {
+        "es": "Bowls",
+        "en": "Bowls",
+        "fr": "Bols"
+      }
+    },
+    {
+      "category_id": "tostas",
+      "names": {
+        "es": "Tostas",
+        "en": "Toasts",
+        "fr": "Tartines"
+      }
+    }
+  ],
+  "category_notes": {
+    "tostas": {
+      "es": "Extras: aguacate, jamón ibérico o salmón +2,50 €; huevo ECO o bacon +1,80 €; pan sin gluten (no apto celíacos) +1 €.",
+      "en": "Extras: avocado, Iberian ham or salmon +€2.50; organic egg or bacon +€1.80; gluten-free bread (not suitable for coeliacs) +€1.",
+      "fr": "Suppléments : avocat, jambon ibérique ou saumon +2,50 € ; œuf bio ou bacon +1,80 € ; pain sans gluten (ne convient pas aux personnes cœliaques) +1 €."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/breakfast-illustration-v1.webp",
+      "asset_id": "026f26b1675176643ee0ccd5f8c278961fdcd52f22c6c0238697eb4acce129a3",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "bowls",
+      "after_item": null,
+      "alt": "Desayuno mediterráneo · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_366863f7c8e89bda7788",
+  "menuID": "m_18729a5497643bbda609",
+  "version": 2,
+  "build": "267.2"
+}

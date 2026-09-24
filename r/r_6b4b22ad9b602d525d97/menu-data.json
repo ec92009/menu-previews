@@ -1,0 +1,462 @@
+{
+  "title": "La Sirena",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entradas",
+      "name_original": "JAMÓN IBERICO BELLOTA",
+      "names": {
+        "es": "JAMÓN IBERICO BELLOTA",
+        "en": "Acorn-fed Iberian ham",
+        "fr": "Jambon ibérique bellota"
+      },
+      "printed_names": {
+        "es": "JAMÓN IBERICO BELLOTA",
+        "en": "IBERIAN HAM"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entradas",
+      "name_original": "SALMOREJO DE MANGO, AGUACATE Y GAMBAS",
+      "names": {
+        "es": "SALMOREJO DE MANGO, AGUACATE Y GAMBAS",
+        "en": "Mango salmorejo, avocado and prawns",
+        "fr": "Salmorejo de mangue, avocat et crevettes"
+      },
+      "printed_names": {
+        "es": "SALMOREJO DE MANGO, AGUACATE Y GAMBAS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entradas",
+      "name_original": "TATAKI O TARTAR DE ATÙN ROJO DEL ESTRECHO",
+      "names": {
+        "es": "TATAKI O TARTAR DE ATÙN ROJO DEL ESTRECHO",
+        "en": "Strait bluefin tuna tataki or tartare",
+        "fr": "Tataki ou tartare de thon rouge du détroit"
+      },
+      "printed_names": {
+        "es": "TATAKI O TARTAR DE ATÙN ROJO DEL ESTRECHO",
+        "en": "RED TUNA TATAKI OR TARTARE"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entradas",
+      "name_original": "TARTAR DE SALMÒN CON GUACAMOLE",
+      "names": {
+        "es": "TARTAR DE SALMÒN CON GUACAMOLE",
+        "en": "Salmon tartare with guacamole",
+        "fr": "Tartare de saumon et guacamole"
+      },
+      "printed_names": {
+        "es": "TARTAR DE SALMÒN CON GUACAMOLE",
+        "en": "SALMON TARTARE & GUACAMOLE"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1690,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entradas",
+      "name_original": "PIRULETAS CRUJIENTES DE GAMBÒN CON CHILE DULCE",
+      "names": {
+        "es": "PIRULETAS CRUJIENTES DE GAMBÒN CON CHILE DULCE",
+        "en": "Crispy king prawn lollipops with sweet chilli",
+        "fr": "Sucettes croustillantes de grosses crevettes, chili doux"
+      },
+      "printed_names": {
+        "es": "PIRULETAS CRUJIENTES DE GAMBÒN CON CHILE DULCE",
+        "en": "CRISPY PRAWNS LOLLIPOPS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entradas",
+      "name_original": "NUESTRA ENSALADILLA RUSA CON PULPO Y PIMENTON",
+      "names": {
+        "es": "NUESTRA ENSALADILLA RUSA CON PULPO Y PIMENTON",
+        "en": "Russian salad with octopus and paprika",
+        "fr": "Salade russe au poulpe et paprika"
+      },
+      "printed_names": {
+        "es": "NUESTRA ENSALADILLA RUSA CON PULPO Y PIMENTON",
+        "en": "RUSIAN SALAD"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entradas",
+      "name_original": "MATRIMONIO DE ANCHOAS Y BOQUERON",
+      "names": {
+        "es": "MATRIMONIO DE ANCHOAS Y BOQUERON",
+        "en": "Cured and marinated anchovy pairing",
+        "fr": "Duo d’anchois salés et marinés"
+      },
+      "printed_names": {
+        "es": "MATRIMONIO DE ANCHOAS Y BOQUERON",
+        "en": "MARIAGGE OF ANCHOVIES"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entradas",
+      "name_original": "VIEIRA GRATINADA CON MARISCO",
+      "names": {
+        "es": "VIEIRA GRATINADA CON MARISCO",
+        "en": "Seafood-stuffed scallop gratin",
+        "fr": "Saint-Jacques gratinée aux fruits de mer"
+      },
+      "printed_names": {
+        "es": "VIEIRA GRATINADA CON MARISCO",
+        "en": "GRATEN SCALLOP"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 950,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entradas",
+      "name_original": "ENSLADA DEL CHEFF CON QUESO DE CABRA",
+      "names": {
+        "es": "ENSLADA DEL CHEFF CON QUESO DE CABRA",
+        "en": "Chef’s salad with goat cheese",
+        "fr": "Salade du chef au fromage de chèvre"
+      },
+      "printed_names": {
+        "es": "ENSLADA DEL CHEFF CON QUESO DE CABRA",
+        "en": "CHEFF SALAD WITH GOAT CHEESE"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entradas",
+      "name_original": "AGUACATE TROPICAL CON MANGO Y LANGOSTINOS",
+      "names": {
+        "es": "AGUACATE TROPICAL CON MANGO Y LANGOSTINOS",
+        "en": "Tropical avocado with mango and prawns",
+        "fr": "Avocat tropical, mangue et crevettes"
+      },
+      "printed_names": {
+        "es": "AGUACATE TROPICAL CON MANGO Y LANGOSTINOS",
+        "en": "AVOCADO AND PRAWNS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "picoteo",
+      "name_original": "GAMBITAS DE HUELVA COCIDAS EN AGUA DE MAR",
+      "names": {
+        "es": "GAMBITAS DE HUELVA COCIDAS EN AGUA DE MAR",
+        "en": "Huelva prawns cooked in seawater",
+        "fr": "Crevettes de Huelva cuites à l’eau de mer"
+      },
+      "printed_names": {
+        "es": "GAMBITAS DE HUELVA COCIDAS EN AGUA DE MAR",
+        "en": "COLD PRAWNS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "picoteo",
+      "name_original": "EL ESPETO DE SARDINAS",
+      "names": {
+        "es": "EL ESPETO DE SARDINAS",
+        "en": "Sardines grilled on skewers",
+        "fr": "Sardines grillées en brochette"
+      },
+      "printed_names": {
+        "es": "EL ESPETO DE SARDINAS",
+        "en": "BBQ SARDINES"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "picoteo",
+      "name_original": "PATA DE PULPO BRASEADA CON PAPAS ALIÑAS",
+      "names": {
+        "es": "PATA DE PULPO BRASEADA CON PAPAS ALIÑAS",
+        "en": "Chargrilled octopus leg with dressed potatoes",
+        "fr": "Tentacule de poulpe grillé, pommes de terre assaisonnées"
+      },
+      "printed_names": {
+        "es": "PATA DE PULPO BRASEADA CON PAPAS ALIÑAS",
+        "en": "GRILLED OCTOPUS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "picoteo",
+      "name_original": "GAMBAS AL PIL-PIL SIRENITA (a nuestra manera)",
+      "names": {
+        "es": "GAMBAS AL PIL-PIL SIRENITA (a nuestra manera)",
+        "en": "Sirenita pil-pil prawns, our way",
+        "fr": "Crevettes pil-pil Sirenita, à notre façon"
+      },
+      "printed_names": {
+        "es": "GAMBAS AL PIL-PIL SIRENITA (a nuestra manera)",
+        "en": "PRAWNS PIL-PIL SIRENA"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "picoteo",
+      "name_original": "COQUINAS DE MALAGA",
+      "names": {
+        "es": "COQUINAS DE MALAGA",
+        "en": "Málaga wedge clams",
+        "fr": "Tellines de Málaga"
+      },
+      "printed_names": {
+        "es": "COQUINAS DE MALAGA",
+        "en": "SAUTEED COCKLEES"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": null,
+      "price_unit": "market",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "picoteo",
+      "name_original": "ALMEJAS DE CARRIL A LA MARINERA",
+      "names": {
+        "es": "ALMEJAS DE CARRIL A LA MARINERA",
+        "en": "Carril clams, marinera style",
+        "fr": "Palourdes de Carril à la marinière"
+      },
+      "printed_names": {
+        "es": "ALMEJAS DE CARRIL A LA MARINERA",
+        "en": "CLAMS MARINERA"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "picoteo",
+      "name_original": "OSTRAS FRANCESAS",
+      "names": {
+        "es": "OSTRAS FRANCESAS",
+        "en": "French oysters",
+        "fr": "Huîtres françaises"
+      },
+      "printed_names": {
+        "es": "OSTRAS FRANCESAS",
+        "en": "OISTERS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 500,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "picoteo",
+      "name_original": "CONCHAS FINAS Y BOLOS",
+      "names": {
+        "es": "CONCHAS FINAS Y BOLOS",
+        "en": "Smooth clams and bolos clams",
+        "fr": "Palourdes lisses et palourdes bolos"
+      },
+      "printed_names": {
+        "es": "CONCHAS FINAS Y BOLOS",
+        "en": "LARGE CLAMS"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_official_web_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entradas",
+      "names": {
+        "es": "Entradas",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "picoteo",
+      "names": {
+        "es": "Picoteo",
+        "en": "Appetisers",
+        "fr": "À grignoter"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entradas",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_6b4b22ad9b602d525d97",
+  "menuID": "m_981e67e5b923a425aa74",
+  "version": 2,
+  "build": "267.2"
+}

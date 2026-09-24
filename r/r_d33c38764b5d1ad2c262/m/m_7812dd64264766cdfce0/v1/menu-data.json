@@ -1,0 +1,504 @@
+{
+  "title": "Restaurante Hidema",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "empezar",
+      "name_original": "Rusa Iberica Hidema",
+      "names": {
+        "es": "Rusa Iberica Hidema",
+        "en": "Hidema Iberian Russian salad",
+        "fr": "Salade russe ibérique Hidema"
+      },
+      "printed_names": {
+        "es": "Rusa Iberica Hidema",
+        "en": "Iberian rusa hidema salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "empezar",
+      "name_original": "Huevos a la Flamenca",
+      "names": {
+        "es": "Huevos a la Flamenca",
+        "en": "Flamenco-style eggs",
+        "fr": "Œufs à la flamenca"
+      },
+      "printed_names": {
+        "es": "Huevos a la Flamenca",
+        "en": "Flamencos egg"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "empezar",
+      "name_original": "Croquetas \"puchero\", choco tinta, solomillo P.X",
+      "names": {
+        "es": "Croquetas \"puchero\", choco tinta, solomillo P.X",
+        "en": "Croquettes: puchero stew, cuttlefish ink or fillet with Pedro Ximénez",
+        "fr": "Croquettes : pot-au-feu, seiche à l’encre ou filet au Pedro Ximénez"
+      },
+      "printed_names": {
+        "es": "Croquetas \"puchero\", choco tinta, solomillo P.X",
+        "en": "Croquette «puchero», ink choco, sirolin P.X"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "empezar",
+      "name_original": "Queso de curado de oveja",
+      "names": {
+        "es": "Queso de curado de oveja",
+        "en": "Mature sheep’s cheese",
+        "fr": "Fromage de brebis affiné"
+      },
+      "printed_names": {
+        "es": "Queso de curado de oveja",
+        "en": "Cured cheese"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "empezar",
+      "name_original": "Camenbert caliente",
+      "names": {
+        "es": "Camenbert caliente",
+        "en": "Hot camembert",
+        "fr": "Camembert chaud"
+      },
+      "printed_names": {
+        "es": "Camenbert caliente",
+        "en": "Hot Camenbert"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1290,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "empezar",
+      "name_original": "Rosca ibérica",
+      "names": {
+        "es": "Rosca ibérica",
+        "en": "Iberian rosca bread",
+        "fr": "Rosca ibérique"
+      },
+      "printed_names": {
+        "es": "Rosca ibérica",
+        "en": "Rosca iberian"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "empezar",
+      "name_original": "Patatas fritas",
+      "names": {
+        "es": "Patatas fritas",
+        "en": "French fries",
+        "fr": "Frites"
+      },
+      "printed_names": {
+        "es": "Patatas fritas",
+        "en": "Fried potato"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "empezar",
+      "name_original": "Tartar de salmón y aguacate",
+      "names": {
+        "es": "Tartar de salmón y aguacate",
+        "en": "Salmon and avocado tartare",
+        "fr": "Tartare de saumon et avocat"
+      },
+      "printed_names": {
+        "es": "Tartar de salmón y aguacate",
+        "en": "Salmon and avocado tartar"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1190,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "empezar",
+      "name_original": "Tartar de salchichón de Málaga",
+      "names": {
+        "es": "Tartar de salchichón de Málaga",
+        "en": "Málaga salchichón tartare",
+        "fr": "Tartare de saucisson de Málaga"
+      },
+      "printed_names": {
+        "es": "Tartar de salchichón de Málaga",
+        "en": "Malaga sausage tartare"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1050,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "empezar",
+      "name_original": "'Tosta mechá y ali-oli",
+      "names": {
+        "es": "'Tosta mechá y ali-oli",
+        "en": "Mechá meat toast with aioli",
+        "fr": "Tartine de viande mechá et aïoli"
+      },
+      "printed_names": {
+        "es": "'Tosta mechá y ali-oli",
+        "en": "‘Tosta mechá y ali-oli"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1190,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "empezar",
+      "name_original": "Tosta de bacalao con huevas de salmón",
+      "names": {
+        "es": "Tosta de bacalao con huevas de salmón",
+        "en": "Cod toast with salmon roe",
+        "fr": "Tartine de morue et œufs de saumon"
+      },
+      "printed_names": {
+        "es": "Tosta de bacalao con huevas de salmón",
+        "en": "Cod toast with eggs and salmón"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1390,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "empezar",
+      "name_original": "Anchoas del Cantábrico XL",
+      "names": {
+        "es": "Anchoas del Cantábrico XL",
+        "en": "XL Cantabrian anchovies",
+        "fr": "Anchois XL de Cantabrie"
+      },
+      "printed_names": {
+        "es": "Anchoas del Cantábrico XL",
+        "en": "Cantabrian anchovies XL"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 350,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "empezar",
+      "name_original": "Jamón ibérico",
+      "names": {
+        "es": "Jamón ibérico",
+        "en": "Iberian ham",
+        "fr": "Jambon ibérique"
+      },
+      "printed_names": {
+        "es": "Jamón ibérico",
+        "en": "Iberian ham"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "huerta",
+      "name_original": "Canonigos y ahumados en vinagreta de mostaza y miel",
+      "names": {
+        "es": "Canonigos y ahumados en vinagreta de mostaza y miel",
+        "en": "Lamb’s lettuce and smoked produce with honey mustard vinaigrette",
+        "fr": "Mâche et produits fumés, vinaigrette miel et moutarde"
+      },
+      "printed_names": {
+        "es": "Canonigos y ahumados en vinagreta de mostaza y miel",
+        "en": "Canons in mustard and honey vinaigrette"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "huerta",
+      "name_original": "Tomate aliñao",
+      "names": {
+        "es": "Tomate aliñao",
+        "en": "Dressed tomatoes",
+        "fr": "Tomates assaisonnées"
+      },
+      "printed_names": {
+        "es": "Tomate aliñao",
+        "en": "Tomato dressing"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "huerta",
+      "name_original": "Ensalada especial",
+      "names": {
+        "es": "Ensalada especial",
+        "en": "Special salad",
+        "fr": "Salade spéciale"
+      },
+      "printed_names": {
+        "es": "Ensalada especial",
+        "en": "Special salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "huerta",
+      "name_original": "Ensalada mixta",
+      "names": {
+        "es": "Ensalada mixta",
+        "en": "Mixed salad",
+        "fr": "Salade composée"
+      },
+      "printed_names": {
+        "es": "Ensalada mixta",
+        "en": "Mixed salad"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 890,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "huerta",
+      "name_original": "Espárrragos dos salsas",
+      "names": {
+        "es": "Espárrragos dos salsas",
+        "en": "Asparagus with two sauces",
+        "fr": "Asperges et deux sauces"
+      },
+      "printed_names": {
+        "es": "Espárrragos dos salsas",
+        "en": "Asparagus two salads"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1090,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "huerta",
+      "name_original": "Ensalada de palmito",
+      "names": {
+        "es": "Ensalada de palmito",
+        "en": "Heart of palm salad",
+        "fr": "Salade de cœurs de palmier"
+      },
+      "printed_names": {
+        "es": "Ensalada de palmito",
+        "en": "Hearts of plam"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1090,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "empezar",
+      "names": {
+        "es": "Para empezar",
+        "en": "To start",
+        "fr": "Pour commencer"
+      }
+    },
+    {
+      "category_id": "huerta",
+      "names": {
+        "es": "De la huerta",
+        "en": "From the garden",
+        "fr": "Du potager"
+      }
+    }
+  ],
+  "category_notes": {
+    "huerta": {
+      "es": "Cesta de pan: 1,30 €. Picos: 0,70 €.",
+      "en": "Bread basket: €1.30. Breadsticks: €0.70.",
+      "fr": "Corbeille de pain : 1,30 €. Gressins : 0,70 €."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "empezar",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/tomato-illustration-v1.webp",
+      "asset_id": "927e679b3e511d51ba402cdb82014d9ed4e9d3f588b3a973594c7fe097c5aa4c",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "huerta",
+      "after_item": null,
+      "alt": "Tomates con aceite de oliva · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_d33c38764b5d1ad2c262",
+  "menuID": "m_7812dd64264766cdfce0",
+  "version": 1,
+  "build": "267.1"
+}

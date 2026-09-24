@@ -1,0 +1,583 @@
+{
+  "title": "Freiduría La Pimienta",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Boquerones en vinagre",
+      "names": {
+        "es": "Boquerones en vinagre",
+        "en": "Anchovies in vinegar",
+        "fr": "Anchois au vinaigre"
+      },
+      "printed_names": {
+        "es": "Boquerones en vinagre"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Precio 1",
+            "en": "Price 1",
+            "fr": "Prix 1"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "Precio 2",
+            "en": "Price 2",
+            "fr": "Prix 2"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Mejillones tigre",
+      "names": {
+        "es": "Mejillones tigre",
+        "en": "Stuffed fried mussels",
+        "fr": "Moules farcies frites"
+      },
+      "printed_names": {
+        "es": "Mejillones tigre",
+        "en": "Stuffed fried mussels 4/8 unit"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "5 unidades",
+            "en": "5 pieces",
+            "fr": "5 pièces"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "10 unidades",
+            "en": "10 pieces",
+            "fr": "10 pièces"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Tortillitas de camarón (5 und)",
+      "names": {
+        "es": "Tortillitas de camarón (5 und)",
+        "en": "Shrimp fritters (5 pieces)",
+        "fr": "Galettes de petites crevettes (5 pièces)"
+      },
+      "printed_names": {
+        "es": "Tortillitas de camarón (5 und)",
+        "en": "Small crispy prawns omelette 5 unit"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Setas con gambas",
+      "names": {
+        "es": "Setas con gambas",
+        "en": "Mushrooms with prawns",
+        "fr": "Champignons aux crevettes"
+      },
+      "printed_names": {
+        "es": "Setas con gambas"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Gambas al pil pil (14 und)",
+      "names": {
+        "es": "Gambas al pil pil (14 und)",
+        "en": "Pil-pil prawns (14 pieces)",
+        "fr": "Crevettes pil-pil (14 pièces)"
+      },
+      "printed_names": {
+        "es": "Gambas al pil pil (14 und)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Pulpo a la gallega",
+      "names": {
+        "es": "Pulpo a la gallega",
+        "en": "Galician-style octopus",
+        "fr": "Poulpe à la galicienne"
+      },
+      "printed_names": {
+        "es": "Pulpo a la gallega"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Anchoas del Cantábrico 0.0 und",
+      "names": {
+        "es": "Anchoas del Cantábrico 0.0 und",
+        "en": "Cantabrian anchovies 0.0",
+        "fr": "Anchois de Cantabrie 0.0"
+      },
+      "printed_names": {
+        "es": "Anchoas del Cantábrico 0.0 und",
+        "en": "Salty anchovies"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 200,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Patatas bravas",
+      "names": {
+        "es": "Patatas bravas",
+        "en": "Patatas bravas",
+        "fr": "Pommes de terre bravas"
+      },
+      "printed_names": {
+        "es": "Patatas bravas"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Precio 1",
+            "en": "Price 1",
+            "fr": "Prix 1"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "Precio 2",
+            "en": "Price 2",
+            "fr": "Prix 2"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Berenjenas con miel",
+      "names": {
+        "es": "Berenjenas con miel",
+        "en": "Fried aubergines with honey",
+        "fr": "Aubergines frites au miel"
+      },
+      "printed_names": {
+        "es": "Berenjenas con miel"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Precio 1",
+            "en": "Price 1",
+            "fr": "Prix 1"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "Precio 2",
+            "en": "Price 2",
+            "fr": "Prix 2"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Croquetas: elegir rabo de toro/puchero",
+      "names": {
+        "es": "Croquetas: elegir rabo de toro/puchero",
+        "en": "Croquettes: oxtail or puchero stew",
+        "fr": "Croquettes : queue de taureau ou pot-au-feu"
+      },
+      "printed_names": {
+        "es": "Croquetas: elegir rabo de toro/puchero",
+        "en": "Beef/Pork"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "5 unidades",
+            "en": "5 pieces",
+            "fr": "5 pièces"
+          },
+          "price_minor": 600
+        },
+        {
+          "labels": {
+            "es": "10 unidades",
+            "en": "10 pieces",
+            "fr": "10 pièces"
+          },
+          "price_minor": 1200
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "entrantes",
+      "name_original": "Ración patatas fritas",
+      "names": {
+        "es": "Ración patatas fritas",
+        "en": "Portion of chips",
+        "fr": "Portion de frites"
+      },
+      "printed_names": {
+        "es": "Ración patatas fritas"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "mariscos",
+      "name_original": "Coquinas (250 grs)",
+      "names": {
+        "es": "Coquinas (250 grs)",
+        "en": "Wedge clams (250 g)",
+        "fr": "Tellines (250 g)"
+      },
+      "printed_names": {
+        "es": "Coquinas (250 grs)",
+        "en": "Small clams 250 grs"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "mariscos",
+      "name_original": "Almejas salteadas (250 grs)",
+      "names": {
+        "es": "Almejas salteadas (250 grs)",
+        "en": "Sautéed clams (250 g)",
+        "fr": "Palourdes sautées (250 g)"
+      },
+      "printed_names": {
+        "es": "Almejas salteadas (250 grs)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "mariscos",
+      "name_original": "Gambas plancha (12 und)",
+      "names": {
+        "es": "Gambas plancha (12 und)",
+        "en": "Grilled prawns (12 pieces)",
+        "fr": "Crevettes grillées (12 pièces)"
+      },
+      "printed_names": {
+        "es": "Gambas plancha (12 und)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "mariscos",
+      "name_original": "Peregrina salsa americana",
+      "names": {
+        "es": "Peregrina salsa americana",
+        "en": "Scallop in American sauce",
+        "fr": "Coquille Saint-Jacques à la sauce américaine"
+      },
+      "printed_names": {
+        "es": "Peregrina salsa americana",
+        "en": "Queen scalop in american sauce"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "mariscos",
+      "name_original": "Mejillones al vapor",
+      "names": {
+        "es": "Mejillones al vapor",
+        "en": "Steamed mussels",
+        "fr": "Moules vapeur"
+      },
+      "printed_names": {
+        "es": "Mejillones al vapor",
+        "en": "Steamed mussels 12 unit"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "6 unidades",
+            "en": "6 pieces",
+            "fr": "6 pièces"
+          },
+          "price_minor": 500
+        },
+        {
+          "labels": {
+            "es": "12 unidades",
+            "en": "12 pieces",
+            "fr": "12 pièces"
+          },
+          "price_minor": 1000
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "mariscos",
+      "name_original": "Gambas cocidas (12 und)",
+      "names": {
+        "es": "Gambas cocidas (12 und)",
+        "en": "Cooked prawns (12 pieces)",
+        "fr": "Crevettes cuites (12 pièces)"
+      },
+      "printed_names": {
+        "es": "Gambas cocidas (12 und)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "mariscos",
+      "name_original": "Zamburiñas (2 und)",
+      "names": {
+        "es": "Zamburiñas (2 und)",
+        "en": "Scallops (2 pieces)",
+        "fr": "Pétoncles (2 pièces)"
+      },
+      "printed_names": {
+        "es": "Zamburiñas (2 und)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 450,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "mariscos",
+      "name_original": "Concha fina natural/plancha",
+      "names": {
+        "es": "Concha fina natural/plancha",
+        "en": "Smooth clam, raw or grilled",
+        "fr": "Palourde lisse, crue ou grillée"
+      },
+      "printed_names": {
+        "es": "Concha fina natural/plancha",
+        "en": "Grilled/natural Oyster in the half shell"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "mariscos",
+      "names": {
+        "es": "Mariscos",
+        "en": "Shellfish",
+        "fr": "Fruits de mer"
+      }
+    }
+  ],
+  "category_notes": {
+    "entrantes": {
+      "es": "Cuando se muestran Precio 1 / Precio 2, la carta no especifica el tamaño: porciones por confirmar. Canasta de pan: 0,70 €.",
+      "en": "Where Price 1 / Price 2 appears, the menu does not specify sizes: portions to confirm. Bread basket: €0.70.",
+      "fr": "Lorsque Prix 1 / Prix 2 est indiqué, la carte ne précise pas les tailles : portions à confirmer. Corbeille de pain : 0,70 €."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/anchovies-illustration-v1.webp",
+      "asset_id": "a34cb3b3e2a5b5798420b32ee3210c0df666b0fc91e7b64eb83cd8bddcdec3dd",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "after_item": null,
+      "alt": "Boquerones en vinagre · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_6dfbb5867bedab7bad39",
+  "menuID": "m_ea47f842e659ef9399b5",
+  "version": 2,
+  "build": "267.2"
+}

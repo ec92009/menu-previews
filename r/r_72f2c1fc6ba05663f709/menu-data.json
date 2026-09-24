@@ -1,0 +1,506 @@
+{
+  "title": "Bar Los Valles",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Jamon ibérico",
+      "names": {
+        "es": "Jamon ibérico",
+        "en": "Iberian ham",
+        "fr": "Jambon ibérique"
+      },
+      "printed_names": {
+        "es": "Jamon ibérico"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 950
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1800
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Queso curado",
+      "names": {
+        "es": "Queso curado",
+        "en": "Mature cheese",
+        "fr": "Fromage affiné"
+      },
+      "printed_names": {
+        "es": "Queso curado"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 850
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1600
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Lomo en manteca",
+      "names": {
+        "es": "Lomo en manteca",
+        "en": "Confit of pork loin in red lard",
+        "fr": "Longe de porc confite au saindoux rouge"
+      },
+      "printed_names": {
+        "es": "Lomo en manteca"
+      },
+      "descriptions": {},
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Media",
+            "en": "Half portion",
+            "fr": "Demi-portion"
+          },
+          "price_minor": 800
+        },
+        {
+          "labels": {
+            "es": "Ración",
+            "en": "Full portion",
+            "fr": "Portion"
+          },
+          "price_minor": 1400
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Pinchito de gambón",
+      "names": {
+        "es": "Pinchito de gambón",
+        "en": "King prawn skewer",
+        "fr": "Brochette de grosses crevettes"
+      },
+      "printed_names": {
+        "es": "Pinchito de gambón"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Croquetas caseras (6 uds.)",
+      "names": {
+        "es": "Croquetas caseras (6 uds.)",
+        "en": "Homemade croquettes (6 pieces)",
+        "fr": "Croquettes maison (6 pièces)"
+      },
+      "printed_names": {
+        "es": "Croquetas caseras (6 uds.)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 550,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Pimientos del piquillo rellenos de bacalao (4 uds.)",
+      "names": {
+        "es": "Pimientos del piquillo rellenos de bacalao (4 uds.)",
+        "en": "Red sweet peppers stuffed with cod (4 pieces)",
+        "fr": "Piquillos farcis à la morue (4 pièces)"
+      },
+      "printed_names": {
+        "es": "Pimientos del piquillo rellenos de bacalao (4 uds.)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Empanadillas caseras de carne o pollo",
+      "names": {
+        "es": "Empanadillas caseras de carne o pollo",
+        "en": "Homemade meat or chicken pasties",
+        "fr": "Chaussons maison à la viande ou au poulet"
+      },
+      "printed_names": {
+        "es": "Empanadillas caseras de carne o pollo"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 350,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Lagrimitas de pollo",
+      "names": {
+        "es": "Lagrimitas de pollo",
+        "en": "Chicken tenders",
+        "fr": "Aiguillettes de poulet"
+      },
+      "printed_names": {
+        "es": "Lagrimitas de pollo"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "entrantes",
+      "name_original": "Carpaccio de calabacín",
+      "names": {
+        "es": "Carpaccio de calabacín",
+        "en": "Courgette carpaccio",
+        "fr": "Carpaccio de courgette"
+      },
+      "printed_names": {
+        "es": "Carpaccio de calabacín"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "entrantes",
+      "name_original": "Patatas con cheddar y bacon",
+      "names": {
+        "es": "Patatas con cheddar y bacon",
+        "en": "Bacon and cheddar fries",
+        "fr": "Frites au cheddar et au bacon"
+      },
+      "printed_names": {
+        "es": "Patatas con cheddar y bacon"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 550,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de pollo a la plancha",
+      "names": {
+        "es": "Ensalada de pollo a la plancha",
+        "en": "Grilled chicken salad",
+        "fr": "Salade de poulet grillé"
+      },
+      "printed_names": {
+        "es": "Ensalada de pollo a la plancha"
+      },
+      "descriptions": {
+        "es": "Lechuga, cebolla, piña, pollo a la plancha, queso, huevo y salsa de eneldo.",
+        "en": "Lettuce, onion, pineapple, grilled chicken breast fillets, cheese, egg and dill sauce.",
+        "fr": "Laitue, oignon, ananas, poulet grillé, fromage, œuf et sauce à l’aneth."
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de la casa",
+      "names": {
+        "es": "Ensalada de la casa",
+        "en": "House salad",
+        "fr": "Salade de la maison"
+      },
+      "printed_names": {
+        "es": "Ensalada de la casa"
+      },
+      "descriptions": {
+        "es": "Lechuga, cebolla, tomate, atún y huevo.",
+        "en": "Lettuce, onion, tomato, tuna and boiled egg.",
+        "fr": "Laitue, oignon, tomate, thon et œuf."
+      },
+      "price_variants": [],
+      "price_minor": 750,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada Los Valles",
+      "names": {
+        "es": "Ensalada Los Valles",
+        "en": "Los Valles salad",
+        "fr": "Salade Los Valles"
+      },
+      "printed_names": {
+        "es": "Ensalada Los Valles"
+      },
+      "descriptions": {
+        "es": "Lechuga, cebolla, tomate, manzana, bocas de mar, langostinos, huevo y salsa rosa.",
+        "en": "Lettuce, onion, tomato, apple, surimi, prawns, boiled egg and cocktail sauce.",
+        "fr": "Laitue, oignon, tomate, pomme, surimi, crevettes, œuf et sauce cocktail."
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de salmón",
+      "names": {
+        "es": "Ensalada de salmón",
+        "en": "Salmon salad",
+        "fr": "Salade de saumon"
+      },
+      "printed_names": {
+        "es": "Ensalada de salmón"
+      },
+      "descriptions": {
+        "es": "Mix de lechugas, cebolla, queso blanco, nueces, salmón, pan tostado y vinagreta de miel.",
+        "en": "Mixed lettuce, onion, white cheese, walnuts, salmon, toasted bread and honey vinaigrette.",
+        "fr": "Mesclun, oignon, fromage blanc, noix, saumon, pain grillé et vinaigrette au miel."
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "ensaladas",
+      "name_original": "Tomate picao con melva",
+      "names": {
+        "es": "Tomate picao con melva",
+        "en": "Chopped tomato with frigate tuna",
+        "fr": "Tomates en morceaux au thon melva"
+      },
+      "printed_names": {
+        "es": "Tomate picao con melva"
+      },
+      "descriptions": {
+        "es": "Tomate, cebolla y melva.",
+        "en": "Tomato, onion and frigate tuna.",
+        "fr": "Tomate, oignon et thon melva."
+      },
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada César",
+      "names": {
+        "es": "Ensalada César",
+        "en": "Caesar salad",
+        "fr": "Salade César"
+      },
+      "printed_names": {
+        "es": "Ensalada César"
+      },
+      "descriptions": {
+        "es": "Mix de lechugas, queso, picatostes, pollo crujiente, dátiles y salsa César.",
+        "en": "Mixed lettuce, cheese, croutons, crispy chicken, dates and Caesar dressing.",
+        "fr": "Mesclun, fromage, croûtons, poulet croustillant, dattes et sauce César."
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de queso de cabra",
+      "names": {
+        "es": "Ensalada de queso de cabra",
+        "en": "Goat cheese salad",
+        "fr": "Salade au chèvre"
+      },
+      "printed_names": {
+        "es": "Ensalada de queso de cabra"
+      },
+      "descriptions": {
+        "es": "Mix de lechugas, frutos secos y queso de cabra caramelizado.",
+        "en": "Mixed lettuce, nuts and caramelised goat’s cheese.",
+        "fr": "Mesclun, fruits à coque et fromage de chèvre caramélisé."
+      },
+      "price_variants": [],
+      "price_minor": 850,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {
+    "es": "Muestra de la carta de 2020 enlazada por el restaurante. Precios históricos por confirmar.",
+    "en": "Sample from the 2020 menu linked by the restaurant. Historical prices awaiting confirmation.",
+    "fr": "Extrait de la carte de 2020 liée par le restaurant. Prix historiques à confirmer."
+  },
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_72f2c1fc6ba05663f709",
+  "menuID": "m_cdd737553d0b4a41979b",
+  "version": 2,
+  "build": "267.2"
+}

@@ -1,0 +1,337 @@
+{
+  "title": "MGJamon Carihuela",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr",
+    "de",
+    "nl"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "jamon",
+      "name_original": "Bellota",
+      "names": {
+        "es": "Bellota",
+        "en": "Bellota",
+        "fr": "Bellota",
+        "de": "Bellota",
+        "nl": "Bellota"
+      },
+      "printed_names": {
+        "es": "Bellota"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "jamon",
+      "name_original": "Ibérico",
+      "names": {
+        "es": "Ibérico",
+        "en": "Iberian",
+        "fr": "Ibérique",
+        "de": "Ibérico",
+        "nl": "Ibérico"
+      },
+      "printed_names": {
+        "es": "Ibérico"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "raciones",
+      "name_original": "Caña de lomo ibérico de bellota",
+      "names": {
+        "es": "Caña de lomo ibérico de bellota",
+        "en": "Iberian bellota pork loin",
+        "fr": "Longe de porc ibérique bellota séchée",
+        "de": "Luftgetrocknete Lende vom iberischen Bellota-Schwein",
+        "nl": "Gedroogde lende van Iberisch bellota-varken"
+      },
+      "printed_names": {
+        "es": "Caña de lomo ibérico de bellota"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "raciones",
+      "name_original": "Surtido de ibéricos",
+      "names": {
+        "es": "Surtido de ibéricos",
+        "en": "Assortment of Iberian charcuterie",
+        "fr": "Assortiment de charcuteries ibériques",
+        "de": "Auswahl iberischer Wurstwaren",
+        "nl": "Assortiment Iberische vleeswaren"
+      },
+      "printed_names": {
+        "es": "Surtido de ibéricos",
+        "en": "ASSORTMENT OF IBERIAN SAUSAGE"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "raciones",
+      "name_original": "Surtido de quesos",
+      "names": {
+        "es": "Surtido de quesos",
+        "en": "Assortment of cheese",
+        "fr": "Assortiment de fromages",
+        "de": "Käseauswahl",
+        "nl": "Kaasassortiment"
+      },
+      "printed_names": {
+        "es": "Surtido de quesos"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "raciones",
+      "name_original": "Surtido de patés",
+      "names": {
+        "es": "Surtido de patés",
+        "en": "Assortment of pâté",
+        "fr": "Assortiment de pâtés",
+        "de": "Pastetenauswahl",
+        "nl": "Assortiment patés"
+      },
+      "printed_names": {
+        "es": "Surtido de patés"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "raciones",
+      "name_original": "Queso ibérico",
+      "names": {
+        "es": "Queso ibérico",
+        "en": "Iberian cheese",
+        "fr": "Fromage ibérique",
+        "de": "Iberischer Käse",
+        "nl": "Iberische kaas"
+      },
+      "printed_names": {
+        "es": "Queso ibérico"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "raciones",
+      "name_original": "Tortilla de patatas",
+      "names": {
+        "es": "Tortilla de patatas",
+        "en": "Potato omelette",
+        "fr": "Tortilla de pommes de terre",
+        "de": "Kartoffelomelett",
+        "nl": "Aardappelomelet"
+      },
+      "printed_names": {
+        "es": "Tortilla de patatas",
+        "en": "POTATOES OMELETTE"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "raciones",
+      "name_original": "Baguette pan de ajo y queso",
+      "names": {
+        "es": "Baguette pan de ajo y queso",
+        "en": "Garlic bread and cheese baguette",
+        "fr": "Baguette à l’ail et au fromage",
+        "de": "Baguette mit Knoblauch und Käse",
+        "nl": "Baguette met knoflook en kaas"
+      },
+      "printed_names": {
+        "es": "Baguette pan de ajo y queso"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "raciones",
+      "name_original": "Tosta pan de ajo",
+      "names": {
+        "es": "Tosta pan de ajo",
+        "en": "Garlic bread toast",
+        "fr": "Tartine à l’ail",
+        "de": "Knoblauchtoast",
+        "nl": "Knoflooktoast"
+      },
+      "printed_names": {
+        "es": "Tosta pan de ajo"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "raciones",
+      "name_original": "Tosta aceite selección gourmet",
+      "names": {
+        "es": "Tosta aceite selección gourmet",
+        "en": "Toast with gourmet olive oil",
+        "fr": "Tartine à l’huile, sélection gourmet",
+        "de": "Toast mit Öl aus der Gourmet-Auswahl",
+        "nl": "Toast met olie uit de gourmetselectie"
+      },
+      "printed_names": {
+        "es": "Tosta aceite selección gourmet",
+        "en": "TOAST OIL GOURMET SELECTION"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "jamon",
+      "names": {
+        "es": "Ración de jamón",
+        "en": "Serving of ham",
+        "fr": "Portion de jambon",
+        "de": "Portion Schinken",
+        "nl": "Portie ham"
+      }
+    },
+    {
+      "category_id": "raciones",
+      "names": {
+        "es": "Raciones",
+        "en": "Servings",
+        "fr": "Portions",
+        "de": "Portionen",
+        "nl": "Porties"
+      }
+    }
+  ],
+  "category_notes": {
+    "jamon": {
+      "es": "Pan tosta, baguette, picos variados o mini biscotes: +0,75 €.",
+      "en": "Toast, baguette, assorted breadsticks or mini rusks: +€0.75.",
+      "fr": "Pain grillé, baguette, gressins variés ou mini biscottes : +0,75 €.",
+      "de": "Toast, Baguette, gemischte Brotstangen oder Mini-Zwieback: +0,75 €.",
+      "nl": "Toast, baguette, diverse broodstengels of mini-beschuitjes: +€ 0,75."
+    },
+    "raciones": {
+      "es": "Pan tosta, baguette, picos variados o mini biscotes: +0,75 €.",
+      "en": "Toast, baguette, assorted breadsticks or mini rusks: +€0.75.",
+      "fr": "Pain grillé, baguette, gressins variés ou mini biscottes : +0,75 €.",
+      "de": "Toast, Baguette, gemischte Brotstangen oder Mini-Zwieback: +0,75 €.",
+      "nl": "Toast, baguette, diverse broodstengels of mini-beschuitjes: +€ 0,75."
+    }
+  },
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "jamon",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_e89f9c22057e29f56af4",
+  "menuID": "m_ed2c86c165b823df650a",
+  "version": 3,
+  "build": "267.2"
+}

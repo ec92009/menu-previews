@@ -1,0 +1,290 @@
+{
+  "title": "Caliu Restaurant",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "momentos",
+      "name_original": "La Esencia de Andalucía",
+      "names": {
+        "es": "La Esencia de Andalucía",
+        "en": "Essence of Andalusia",
+        "fr": "L’essence de l’Andalousie"
+      },
+      "printed_names": {
+        "es": "La Esencia de Andalucía"
+      },
+      "descriptions": {
+        "es": "Salmorejo Tradicional con Jamón y Huevo. Tomate, ajo, pan y aceite de oliva.",
+        "en": "Traditional salmorejo with ham and egg. Tomato, garlic, bread and olive oil.",
+        "fr": "Salmorejo traditionnel au jambon et à l’œuf. Tomate, ail, pain et huile d’olive."
+      },
+      "price_variants": [],
+      "price_minor": 900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "momentos",
+      "name_original": "Contraste Mediterráneo",
+      "names": {
+        "es": "Contraste Mediterráneo",
+        "en": "Mediterranean Contrast",
+        "fr": "Contraste méditerranéen"
+      },
+      "printed_names": {
+        "es": "Contraste Mediterráneo"
+      },
+      "descriptions": {
+        "es": "Ensalada de Queso Feta, Cherrys, Dátiles y Yogur.",
+        "en": "Feta, cherry tomato, date and yogurt dressing salad.",
+        "fr": "Salade de feta, tomates cerises, dattes et sauce au yaourt."
+      },
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "momentos",
+      "name_original": "Brisa Marina",
+      "names": {
+        "es": "Brisa Marina",
+        "en": "Sea Breeze",
+        "fr": "Brise marine"
+      },
+      "printed_names": {
+        "es": "Brisa Marina"
+      },
+      "descriptions": {
+        "es": "Ensalada de Piña, Aguacate, Cangrejo y Langostinos. Con surimi de cangrejo, salsa cocktail y manzana verde.",
+        "en": "Pineapple, avocado, crab surimi and prawn salad, with cocktail sauce and green apple.",
+        "fr": "Salade d’ananas, avocat, surimi de crabe et crevettes, sauce cocktail et pomme verte."
+      },
+      "price_variants": [],
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "sentidos",
+      "name_original": "Ensalada de Rulo de Cabra Tostado, Frutas Frescas, Hoisin y Helado de Mango",
+      "names": {
+        "es": "Ensalada de Rulo de Cabra Tostado, Frutas Frescas, Hoisin y Helado de Mango",
+        "en": "Toasted goat’s cheese salad, fresh fruit, hoisin and mango ice cream",
+        "fr": "Salade de chèvre grillé, fruits frais, hoisin et glace à la mangue"
+      },
+      "printed_names": {
+        "es": "Ensalada de Rulo de Cabra Tostado, Frutas Frescas, Hoisin y Helado de Mango",
+        "en": "Toasted Goat's Cheese Salad | Fresh fruit, hoisin sauce & mango sorbet"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "sentidos",
+      "name_original": "Carpaccio de calabacín y tomate con tofu y pistachos",
+      "names": {
+        "es": "Carpaccio de calabacín y tomate con tofu y pistachos",
+        "en": "Courgette and tomato carpaccio with tofu and pistachios",
+        "fr": "Carpaccio de courgette et tomate, tofu et pistaches"
+      },
+      "printed_names": {
+        "es": "Carpaccio de calabacín y tomate con tofu y pistachos"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "sentidos",
+      "name_original": "Tartar de salmón",
+      "names": {
+        "es": "Tartar de salmón",
+        "en": "Salmon tartare",
+        "fr": "Tartare de saumon"
+      },
+      "printed_names": {
+        "es": "Tartar de salmón"
+      },
+      "descriptions": {
+        "es": "Con crème fraîche, eneldo y un toque de lima.",
+        "en": "With crème fraîche, dill and a touch of lime.",
+        "fr": "Crème fraîche, aneth et une touche de citron vert."
+      },
+      "price_variants": [],
+      "price_minor": 2100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "sentidos",
+      "name_original": "Steak tartar como en la vieja escuela",
+      "names": {
+        "es": "Steak tartar como en la vieja escuela",
+        "en": "Old-school steak tartare",
+        "fr": "Steak tartare à l’ancienne"
+      },
+      "printed_names": {
+        "es": "Steak tartar como en la vieja escuela"
+      },
+      "descriptions": {
+        "es": "Solomillo premium cortado a cuchillo, preparado ante el cliente.",
+        "en": "Premium fillet, hand-chopped and prepared at the table.",
+        "fr": "Filet premium coupé au couteau, préparé devant le client."
+      },
+      "price_variants": [
+        {
+          "labels": {
+            "es": "Completo 200 g",
+            "en": "Full 200 g",
+            "fr": "Entier 200 g"
+          },
+          "price_minor": 3700
+        },
+        {
+          "labels": {
+            "es": "Media 100 g",
+            "en": "Half 100 g",
+            "fr": "Demi 100 g"
+          },
+          "price_minor": 2100
+        }
+      ],
+      "price_minor": null,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "sentidos",
+      "name_original": "Sopa o crema de la semana",
+      "names": {
+        "es": "Sopa o crema de la semana",
+        "en": "Soup or cream of the week",
+        "fr": "Soupe ou velouté de la semaine"
+      },
+      "printed_names": {
+        "es": "Sopa o crema de la semana"
+      },
+      "descriptions": {
+        "es": "Consulte el menú semanal o pregunte al equipo.",
+        "en": "See the weekly menu or ask the team.",
+        "fr": "Consultez le menu de la semaine ou demandez à l’équipe."
+      },
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "sentidos",
+      "name_original": "Noodles de arroz salteados con bouquet de setas, frutos secos y teriyaki",
+      "names": {
+        "es": "Noodles de arroz salteados con bouquet de setas, frutos secos y teriyaki",
+        "en": "Wok-fried rice noodles with mushrooms, nuts and teriyaki",
+        "fr": "Nouilles de riz sautées, champignons, fruits à coque et teriyaki"
+      },
+      "printed_names": {
+        "es": "Noodles de arroz salteados con bouquet de setas, frutos secos y teriyaki",
+        "en": "Wok-Fried Rice Noodles | with wild mushrooms, nuts & teriyaki"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 2,
+      "source_check": "checked_against_captured_official_menu",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "momentos",
+      "names": {
+        "es": "Momentos óptimos, sabores exclusivos",
+        "en": "Perfect moments, exclusive flavours",
+        "fr": "Moments parfaits, saveurs exclusives"
+      }
+    },
+    {
+      "category_id": "sentidos",
+      "names": {
+        "es": "El despertar de los sentidos",
+        "en": "Awaken the senses",
+        "fr": "L’éveil des sens"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/feta-illustration-v1.webp",
+      "asset_id": "2c56853a797d1f423659ee6a2a130c835b237d29f48c243fe0c52226b84bf510",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "momentos",
+      "after_item": null,
+      "alt": "Feta, tomate, dátiles y yogur · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_c9d2d58f2d41dc031940",
+  "menuID": "m_2df33a69d09ff27b8bb7",
+  "version": 1,
+  "build": "267.0"
+}

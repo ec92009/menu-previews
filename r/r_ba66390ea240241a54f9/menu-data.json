@@ -1,0 +1,533 @@
+{
+  "title": "EnBoca Gastrobar",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "tapas",
+      "name_original": "Ensaladilla EnBoca",
+      "names": {
+        "es": "Ensaladilla EnBoca",
+        "en": "EnBoca Russian salad",
+        "fr": "Salade russe EnBoca"
+      },
+      "printed_names": {
+        "es": "Ensaladilla EnBoca"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "tapas",
+      "name_original": "Sam de pato vietnamita",
+      "names": {
+        "es": "Sam de pato vietnamita",
+        "en": "Vietnamese duck ssam",
+        "fr": "Ssam de canard vietnamien"
+      },
+      "printed_names": {
+        "es": "Sam de pato vietnamita"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "tapas",
+      "name_original": "Sam de atún",
+      "names": {
+        "es": "Sam de atún",
+        "en": "Tuna ssam",
+        "fr": "Ssam de thon"
+      },
+      "printed_names": {
+        "es": "Sam de atún"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 500,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "tapas",
+      "name_original": "Sam de salmón y mango",
+      "names": {
+        "es": "Sam de salmón y mango",
+        "en": "Salmon and mango ssam",
+        "fr": "Ssam de saumon et mangue"
+      },
+      "printed_names": {
+        "es": "Sam de salmón y mango"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "tapas",
+      "name_original": "Minibrioche de carrillada",
+      "names": {
+        "es": "Minibrioche de carrillada",
+        "en": "Braised cheek mini brioche",
+        "fr": "Mini brioche de joue braisée"
+      },
+      "printed_names": {
+        "es": "Minibrioche de carrillada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 550,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "tapas",
+      "name_original": "Tapa de salmorejo",
+      "names": {
+        "es": "Tapa de salmorejo",
+        "en": "Salmorejo tapa",
+        "fr": "Tapa de salmorejo"
+      },
+      "printed_names": {
+        "es": "Tapa de salmorejo"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "tapas",
+      "name_original": "Mini burger trufada",
+      "names": {
+        "es": "Mini burger trufada",
+        "en": "Truffled mini burger",
+        "fr": "Mini burger truffé"
+      },
+      "printed_names": {
+        "es": "Mini burger trufada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 400,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "tapas",
+      "name_original": "Mini burger de atún",
+      "names": {
+        "es": "Mini burger de atún",
+        "en": "Tuna mini burger",
+        "fr": "Mini burger de thon"
+      },
+      "printed_names": {
+        "es": "Mini burger de atún"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 450,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "tapas",
+      "name_original": "Taco gaditano",
+      "names": {
+        "es": "Taco gaditano",
+        "en": "Cádiz-style taco",
+        "fr": "Taco à la façon de Cadix"
+      },
+      "printed_names": {
+        "es": "Taco gaditano"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 650,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "abrir",
+      "name_original": "Salmorejo con helado de mascarpone",
+      "names": {
+        "es": "Salmorejo con helado de mascarpone",
+        "en": "Salmorejo with mascarpone ice cream",
+        "fr": "Salmorejo et glace au mascarpone"
+      },
+      "printed_names": {
+        "es": "Salmorejo con helado de mascarpone"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "abrir",
+      "name_original": "Ensaladilla EnBoca",
+      "names": {
+        "es": "Ensaladilla EnBoca",
+        "en": "EnBoca Russian salad",
+        "fr": "Salade russe EnBoca"
+      },
+      "printed_names": {
+        "es": "Ensaladilla EnBoca"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i012",
+      "category_id": "abrir",
+      "name_original": "Croqueta de jamón y velo ibérico",
+      "names": {
+        "es": "Croqueta de jamón y velo ibérico",
+        "en": "Ham croquette with an Iberian veil",
+        "fr": "Croquette de jambon et voile ibérique"
+      },
+      "printed_names": {
+        "es": "Croqueta de jamón y velo ibérico"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1100,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i013",
+      "category_id": "abrir",
+      "name_original": "Croqueta de gamba blanca de Fuengirola al ajillo",
+      "names": {
+        "es": "Croqueta de gamba blanca de Fuengirola al ajillo",
+        "en": "Fuengirola white prawn and garlic croquette",
+        "fr": "Croquette de crevettes blanches de Fuengirola à l’ail"
+      },
+      "printed_names": {
+        "es": "Croqueta de gamba blanca de Fuengirola al ajillo"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i014",
+      "category_id": "abrir",
+      "name_original": "Tosta de sardina ahumada",
+      "names": {
+        "es": "Tosta de sardina ahumada",
+        "en": "Smoked sardine toast",
+        "fr": "Tartine de sardine fumée"
+      },
+      "printed_names": {
+        "es": "Tosta de sardina ahumada"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i015",
+      "category_id": "abrir",
+      "name_original": "Tosta de atún rojo, mayo trufa",
+      "names": {
+        "es": "Tosta de atún rojo, mayo trufa",
+        "en": "Bluefin tuna toast with truffle mayonnaise",
+        "fr": "Tartine de thon rouge, mayonnaise à la truffe"
+      },
+      "printed_names": {
+        "es": "Tosta de atún rojo, mayo trufa"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i016",
+      "category_id": "abrir",
+      "name_original": "Tartar de atún rojo, gazpacho de aguacate",
+      "names": {
+        "es": "Tartar de atún rojo, gazpacho de aguacate",
+        "en": "Bluefin tuna tartare with avocado gazpacho",
+        "fr": "Tartare de thon rouge, gazpacho d’avocat"
+      },
+      "printed_names": {
+        "es": "Tartar de atún rojo, gazpacho de aguacate"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2000,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i017",
+      "category_id": "abrir",
+      "name_original": "Puerro en 3 texturas a la carbonara",
+      "names": {
+        "es": "Puerro en 3 texturas a la carbonara",
+        "en": "Leek in three textures, carbonara style",
+        "fr": "Poireau en trois textures à la carbonara"
+      },
+      "printed_names": {
+        "es": "Puerro en 3 texturas a la carbonara"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i018",
+      "category_id": "abrir",
+      "name_original": "Alcachofas a la brasa con crema de piñones,papada ibérica y nube de queso",
+      "names": {
+        "es": "Alcachofas a la brasa con crema de piñones,papada ibérica y nube de queso",
+        "en": "Chargrilled artichokes with pine nut cream, Iberian pork jowl and cheese foam",
+        "fr": "Artichauts grillés, crème de pignons, bajoue ibérique et nuage de fromage"
+      },
+      "printed_names": {
+        "es": "Alcachofas a la brasa con crema de piñones,papada ibérica y nube de queso"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1700,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i019",
+      "category_id": "abrir",
+      "name_original": "Taco EnBoca de cochinita pibil",
+      "names": {
+        "es": "Taco EnBoca de cochinita pibil",
+        "en": "EnBoca cochinita pibil taco",
+        "fr": "Taco EnBoca de cochinita pibil"
+      },
+      "printed_names": {
+        "es": "Taco EnBoca de cochinita pibil"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i020",
+      "category_id": "abrir",
+      "name_original": "Perrito EnBoca",
+      "names": {
+        "es": "Perrito EnBoca",
+        "en": "EnBoca hot dog",
+        "fr": "Hot-dog EnBoca"
+      },
+      "printed_names": {
+        "es": "Perrito EnBoca"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i021",
+      "category_id": "abrir",
+      "name_original": "Albóndigas ibéricas, curry rojo y cacahuete",
+      "names": {
+        "es": "Albóndigas ibéricas, curry rojo y cacahuete",
+        "en": "Iberian meatballs with red curry and peanut",
+        "fr": "Boulettes ibériques, curry rouge et cacahuète"
+      },
+      "printed_names": {
+        "es": "Albóndigas ibéricas, curry rojo y cacahuete"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i022",
+      "category_id": "abrir",
+      "name_original": "Ceviche de corvina",
+      "names": {
+        "es": "Ceviche de corvina",
+        "en": "Corvina ceviche",
+        "fr": "Ceviche de maigre"
+      },
+      "printed_names": {
+        "es": "Ceviche de corvina"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 1,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "tapas",
+      "names": {
+        "es": "Tapas",
+        "en": "Tapas",
+        "fr": "Tapas"
+      }
+    },
+    {
+      "category_id": "abrir",
+      "names": {
+        "es": "Para abrir boca",
+        "en": "To whet your appetite",
+        "fr": "Pour ouvrir l’appétit"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/croquettes-illustration-v1.webp",
+      "asset_id": "e5ea672debbdc4ab20262adaa191481167a8ab9f2ca267035c5951b40f7933ac",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "abrir",
+      "after_item": null,
+      "alt": "Croquetas de jamón · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_ba66390ea240241a54f9",
+  "menuID": "m_0f939bcfcd03d2b16f29",
+  "version": 2,
+  "build": "267.2"
+}

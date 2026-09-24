@@ -1,0 +1,331 @@
+{
+  "title": "Yucas Mare",
+  "original_language": "es",
+  "languages": [
+    "es",
+    "en",
+    "fr"
+  ],
+  "items": [
+    {
+      "item_id": "i001",
+      "category_id": "entrantes",
+      "name_original": "Sopa del día",
+      "names": {
+        "es": "Sopa del día",
+        "en": "Soup of the day",
+        "fr": "Soupe du jour"
+      },
+      "printed_names": {
+        "es": "Sopa del día"
+      },
+      "descriptions": {
+        "es": "Recomendación del cheff.",
+        "en": "Chef’s recommendation.",
+        "fr": "Suggestion du chef."
+      },
+      "price_variants": [],
+      "price_minor": 800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i002",
+      "category_id": "entrantes",
+      "name_original": "Tartar de salchichón",
+      "names": {
+        "es": "Tartar de salchichón",
+        "en": "Iberian salami tartar",
+        "fr": "Tartare de saucisson ibérique"
+      },
+      "printed_names": {
+        "es": "Tartar de salchichón"
+      },
+      "descriptions": {
+        "es": "Tartar de salchichón ibérico con salsa de mostaza y miel, pepinillos y alcaparras acompañado de tostas.",
+        "en": "Iberian salami tartar with honey mustard sauce, pickles and capers accompanied by toast.",
+        "fr": "Tartare de saucisson ibérique, sauce miel et moutarde, cornichons, câpres et toasts."
+      },
+      "price_variants": [],
+      "price_minor": 1600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i003",
+      "category_id": "entrantes",
+      "name_original": "Tataki de atún rojo",
+      "names": {
+        "es": "Tataki de atún rojo",
+        "en": "Bluefin tuna tataki",
+        "fr": "Tataki de thon rouge"
+      },
+      "printed_names": {
+        "es": "Tataki de atún rojo"
+      },
+      "descriptions": {
+        "es": "Presentado en cama de rúcula con salsa de la casa, almendras tostadas y Togarashi.",
+        "en": "Presented on a bed of rocket lettuce with house sauce, toasted almonds and Togarashi.",
+        "fr": "Sur un lit de roquette, sauce maison, amandes grillées et togarashi."
+      },
+      "price_variants": [],
+      "price_minor": 2300,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i004",
+      "category_id": "entrantes",
+      "name_original": "Carpaccio de gamba roja",
+      "names": {
+        "es": "Carpaccio de gamba roja",
+        "en": "Red prawn carpaccio",
+        "fr": "Carpaccio de crevettes rouges"
+      },
+      "printed_names": {
+        "es": "Carpaccio de gamba roja"
+      },
+      "descriptions": {
+        "es": "Gamba roja, mayonesa de gambas, lima y sus jugos.",
+        "en": "Red prawn, prawn mayonnaise, lime and its juices.",
+        "fr": "Crevettes rouges, mayonnaise de crevettes, citron vert et leurs jus."
+      },
+      "price_variants": [],
+      "price_minor": 2800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i005",
+      "category_id": "entrantes",
+      "name_original": "Camembert frito",
+      "names": {
+        "es": "Camembert frito",
+        "en": "Fried camembert",
+        "fr": "Camembert frit"
+      },
+      "printed_names": {
+        "es": "Camembert frito"
+      },
+      "descriptions": {
+        "es": "Camembert frito rebozado en panko, acompañado de salsa sweet chili y sésamo.",
+        "en": "Panko fried camembert with sweet chili and toasted sesame.",
+        "fr": "Camembert pané au panko, sauce chili douce et sésame."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i006",
+      "category_id": "entrantes",
+      "name_original": "Jamón 100% bellota (100 g aprox.)",
+      "names": {
+        "es": "Jamón 100% bellota (100 g aprox.)",
+        "en": "100% acorn-fed ham (approx. 100 g)",
+        "fr": "Jambon 100 % bellota (env. 100 g)"
+      },
+      "printed_names": {
+        "es": "Jamón 100% bellota (100 g aprox.)"
+      },
+      "descriptions": {},
+      "price_variants": [],
+      "price_minor": 2600,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i007",
+      "category_id": "entrantes",
+      "name_original": "Ostras heladas",
+      "names": {
+        "es": "Ostras heladas",
+        "en": "Oysters on ice",
+        "fr": "Huîtres sur glace"
+      },
+      "printed_names": {
+        "es": "Ostras heladas"
+      },
+      "descriptions": {
+        "es": "Ostras en cama de hielo con limón.",
+        "en": "Oysters on a bed of ice with lemon.",
+        "fr": "Huîtres sur glace avec citron."
+      },
+      "price_variants": [],
+      "price_minor": 550,
+      "price_unit": "each",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i008",
+      "category_id": "entrantes",
+      "name_original": "Ceviche de tigre",
+      "names": {
+        "es": "Ceviche de tigre",
+        "en": "Corvina ceviche",
+        "fr": "Ceviche de maigre"
+      },
+      "printed_names": {
+        "es": "Ceviche de tigre"
+      },
+      "descriptions": {
+        "es": "Ceviche de corvina, con maracuyá, cilantro, cebolla roja y mango encurtido.",
+        "en": "Corvina ceviche with passion fruit, coriander, red onion and pickled mango.",
+        "fr": "Ceviche de maigre, fruit de la passion, coriandre, oignon rouge et mangue au vinaigre."
+      },
+      "price_variants": [],
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i009",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada de atún marinado",
+      "names": {
+        "es": "Ensalada de atún marinado",
+        "en": "Marinated tuna salad",
+        "fr": "Salade de thon mariné"
+      },
+      "printed_names": {
+        "es": "Ensalada de atún marinado"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechugas, tomate cherry, aguacate, wakame, cebolla crujiente y sésamo con tartar de atún marinado en aderezo asiático de la casa.",
+        "en": "Lettuce mix, cherry tomato, avocado, wakame, crispy onion and sesame with tuna tartar marinated in our house Asian dressing.",
+        "fr": "Mesclun, tomates cerises, avocat, wakamé, oignon croustillant, sésame et tartare de thon mariné à la sauce asiatique maison."
+      },
+      "price_variants": [],
+      "price_minor": 1900,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i010",
+      "category_id": "ensaladas",
+      "name_original": "Burrata con pesto de rúcula",
+      "names": {
+        "es": "Burrata con pesto de rúcula",
+        "en": "Burrata with rocket pesto",
+        "fr": "Burrata au pesto de roquette"
+      },
+      "printed_names": {
+        "es": "Burrata con pesto de rúcula"
+      },
+      "descriptions": {
+        "es": "Cama de rúcula, tomate seco y salsa pesto.",
+        "en": "Bed of arugula, dried tomato and pesto sauce.",
+        "fr": "Lit de roquette, tomates séchées et sauce pesto."
+      },
+      "price_variants": [],
+      "price_minor": 1800,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    },
+    {
+      "item_id": "i011",
+      "category_id": "ensaladas",
+      "name_original": "Ensalada del bosque",
+      "names": {
+        "es": "Ensalada del bosque",
+        "en": "Forest salad",
+        "fr": "Salade de la forêt"
+      },
+      "printed_names": {
+        "es": "Ensalada del bosque"
+      },
+      "descriptions": {
+        "es": "Mezclum de lechugas, granada, frutos rojos y rulo de cabra acompañado de nueces caramelizadas y salsa de arándanos.",
+        "en": "Lettuce mix, pomegranate, red fruits and goat cheese with caramelized walnuts and cranberry sauce.",
+        "fr": "Mesclun, grenade, fruits rouges, bûche de chèvre, noix caramélisées et sauce aux airelles."
+      },
+      "price_variants": [],
+      "price_minor": 1200,
+      "price_unit": "",
+      "currency": "EUR",
+      "source_page": 3,
+      "source_check": "visually_checked",
+      "price_currentness": "unconfirmed",
+      "translation_state": "prepared_not_restaurant_approved"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "entrantes",
+      "names": {
+        "es": "Entrantes",
+        "en": "Starters",
+        "fr": "Entrées"
+      }
+    },
+    {
+      "category_id": "ensaladas",
+      "names": {
+        "es": "Ensaladas",
+        "en": "Salads",
+        "fr": "Salades"
+      }
+    }
+  ],
+  "category_notes": {},
+  "public_source_note": {},
+  "photos": [
+    {
+      "path": "assets/ham-illustration-v1.webp",
+      "asset_id": "081490cf6308057bfddc70c4bb8a542f1e70df82c3bc089c654dc42eb170d2bb",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "after_item": null,
+      "alt": "Jamón ibérico · Ilustración de propuesta"
+    }
+  ],
+  "restoID": "r_0d2dca812905962970b4",
+  "menuID": "m_7f87c299f50f990f2ab5",
+  "version": 2,
+  "build": "267.2"
+}

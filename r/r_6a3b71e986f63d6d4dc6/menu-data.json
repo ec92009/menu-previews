@@ -488,10 +488,21 @@
       ],
       "after_category": "entrantes",
       "alt": "Ilustración gastronómica · El Canarias Playa"
+    },
+    {
+      "path": "assets/section-fritos-v1.webp",
+      "asset_id": "e5d81cc8704eb77b5ff815cd0c2ca257e22fdbeff87262137addb88368d13c06",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "fritos",
+      "alt": "Boquerones · Ilustración de propuesta"
     }
   ],
   "restoID": "r_6a3b71e986f63d6d4dc6",
   "menuID": "m_b15959eb6746bb5b19d4",
   "version": 1,
-  "build": "265.10"
+  "build": "267.3"
 }

@@ -545,10 +545,21 @@
       "after_category": "entradas",
       "after_item": null,
       "alt": "Nachos con guacamole · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-ensaladas-v1.webp",
+      "asset_id": "e17a056d8c2d20654824b8dbcc2a0601d071c5bc3a5045b6b89ddd0216393c13",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Garden salad · Ilustración de propuesta"
     }
   ],
   "restoID": "r_eed6302ca658227551cb",
   "menuID": "m_dc89251b5839c0ac6225",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

@@ -286,10 +286,21 @@
       "after_category": "entrantes",
       "after_item": null,
       "alt": "Tomates con aceite de oliva · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-panes-v1.webp",
+      "asset_id": "d543903f124f04f8ef65b401e15989308d47fa271d9259f9482127fa612777e1",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "panes",
+      "alt": "Pan con mantequilla/aceite de oliva · Ilustración de propuesta"
     }
   ],
   "restoID": "r_e11fa6bd3f3f2e864a22",
   "menuID": "m_11a1110486f65e45675f",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

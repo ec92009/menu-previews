@@ -287,10 +287,21 @@
       ],
       "after_category": "ensaladas",
       "alt": "Ilustración gastronómica · El Velero"
+    },
+    {
+      "path": "assets/section-entrantes-v1.webp",
+      "asset_id": "bd4e6ec09d0ebd438dec319fc4a771f1e514229c747cdaf16dabb9e82fbe5436",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "alt": "Ensaladilla Rusa · Ilustración de propuesta"
     }
   ],
   "restoID": "r_f6a6bcd24141472aa718",
   "menuID": "m_fe7893c56f4be38f93cc",
   "version": 1,
-  "build": "265.5"
+  "build": "267.3"
 }

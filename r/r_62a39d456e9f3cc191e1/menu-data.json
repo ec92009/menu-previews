@@ -329,10 +329,21 @@
       ],
       "after_category": "ensaladas",
       "alt": "Ilustración gastronómica · Casa Antonio"
+    },
+    {
+      "path": "assets/section-sopas-v1.webp",
+      "asset_id": "1481942300c4d3a4e6fcce647c0e2321bc694dc243f2958701ae87643d662b0e",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "sopas",
+      "alt": "Gazpacho con su guarnición · Ilustración de propuesta"
     }
   ],
   "restoID": "r_62a39d456e9f3cc191e1",
   "menuID": "m_ba346894f0f52693a4fa",
   "version": 1,
-  "build": "265.5"
+  "build": "267.3"
 }

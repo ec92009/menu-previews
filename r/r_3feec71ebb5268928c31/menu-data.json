@@ -388,10 +388,21 @@
       "after_category": "ensaladas",
       "after_item": null,
       "alt": "Pimientos asados · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-entrantes-v1.webp",
+      "asset_id": "3e30e7bdda2933b859c103b3adacf5a803ba03c1cdcb48bcd27664b03b5e4e65",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "alt": "Croquetas caseras · Ilustración de propuesta"
     }
   ],
   "restoID": "r_3feec71ebb5268928c31",
   "menuID": "m_8ad1be4f44b2ec7f9035",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

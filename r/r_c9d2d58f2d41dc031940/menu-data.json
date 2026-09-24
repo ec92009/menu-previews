@@ -281,10 +281,21 @@
       "after_category": "momentos",
       "after_item": null,
       "alt": "Feta, tomate, dátiles y yogur · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-sentidos-v1.webp",
+      "asset_id": "d7db697789f5a6cb5ac1f42e376519ebdc97f8a5051ab8331ef835f66656da56",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "sentidos",
+      "alt": "Ensalada de Rulo de Cabra Tostado, Frutas Frescas, Hoisin y Helado de Mango · Ilustración de propuesta"
     }
   ],
   "restoID": "r_c9d2d58f2d41dc031940",
   "menuID": "m_2df33a69d09ff27b8bb7",
   "version": 3,
-  "build": "267.2"
+  "build": "267.3"
 }

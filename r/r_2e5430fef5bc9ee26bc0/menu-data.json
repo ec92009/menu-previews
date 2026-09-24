@@ -289,10 +289,21 @@
       "after_category": "entrantes",
       "after_item": null,
       "alt": "Croquetas de jamón · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-tostas-v1.webp",
+      "asset_id": "42dcb68e59123a364b2afd61ae4a5664135f0b952d604988f03cf125a8ec3048",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "tostas",
+      "alt": "Pan de ajo con Mozzarella · Ilustración de propuesta"
     }
   ],
   "restoID": "r_2e5430fef5bc9ee26bc0",
   "menuID": "m_2c5683b4aa2d008065c0",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

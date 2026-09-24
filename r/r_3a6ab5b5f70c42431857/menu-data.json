@@ -712,10 +712,21 @@
       ],
       "after_category": "entrantes",
       "alt": "Ilustración gastronómica · José Cerdán"
+    },
+    {
+      "path": "assets/section-mariscos-v1.webp",
+      "asset_id": "4f6a462a83a53f10d221d6b83286da1d42ef39c12df41e899c5330ef61b14d3c",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "mariscos",
+      "alt": "Conchas finas · Ilustración de propuesta"
     }
   ],
   "restoID": "r_3a6ab5b5f70c42431857",
   "menuID": "m_a1474df26435b72957ae",
   "version": 1,
-  "build": "265.10"
+  "build": "267.3"
 }

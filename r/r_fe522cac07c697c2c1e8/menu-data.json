@@ -583,10 +583,21 @@
       ],
       "after_category": "zarpar",
       "alt": "Ilustración gastronómica · Miguel Cerdán"
+    },
+    {
+      "path": "assets/section-sugerencias-v1.webp",
+      "asset_id": "9d470e191a753da4dc6ee04903c46b400a121d430cb74f87844e04f5aa416e6e",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "sugerencias",
+      "alt": "Patatas bravas estilo Cerdán · Ilustración de propuesta"
     }
   ],
   "restoID": "r_fe522cac07c697c2c1e8",
   "menuID": "m_08df5827cb5f0cc5a9aa",
   "version": 1,
-  "build": "265.10"
+  "build": "267.3"
 }

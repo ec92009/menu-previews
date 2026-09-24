@@ -322,10 +322,21 @@
       "after_category": "entrantes",
       "after_item": null,
       "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-ensaladas-v1.webp",
+      "asset_id": "83e98db4908ede85f7f6bd572a2fcf346583ba57b12299120e1de7440e03274b",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Ensalada de atún marinado · Ilustración de propuesta"
     }
   ],
   "restoID": "r_0d2dca812905962970b4",
   "menuID": "m_7f87c299f50f990f2ab5",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

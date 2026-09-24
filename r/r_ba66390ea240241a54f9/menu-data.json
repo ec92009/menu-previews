@@ -524,10 +524,21 @@
       "after_category": "abrir",
       "after_item": null,
       "alt": "Croquetas de jamón · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-tapas-v1.webp",
+      "asset_id": "c8ee648742051af8cedcd4c72fa4166d95ab0076faba9d373ee055cf1fd4483d",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "tapas",
+      "alt": "Ensaladilla EnBoca · Ilustración de propuesta"
     }
   ],
   "restoID": "r_ba66390ea240241a54f9",
   "menuID": "m_0f939bcfcd03d2b16f29",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

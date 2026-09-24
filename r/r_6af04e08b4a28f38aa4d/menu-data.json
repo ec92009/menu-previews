@@ -394,10 +394,21 @@
       ],
       "after_category": "ibericos",
       "alt": "Ilustración gastronómica · La Gourmetería de Playamar"
+    },
+    {
+      "path": "assets/section-quesos-v1.webp",
+      "asset_id": "b65f902760737af208766b6a713c2d96459b23c45290b10d2094bfad5e4c9c77",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "quesos",
+      "alt": "Quesos curados · Ilustración de propuesta"
     }
   ],
   "restoID": "r_6af04e08b4a28f38aa4d",
   "menuID": "m_65b150ffb72e7056bb16",
   "version": 1,
-  "build": "265.10"
+  "build": "267.3"
 }

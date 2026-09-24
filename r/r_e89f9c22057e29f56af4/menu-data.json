@@ -328,10 +328,21 @@
       "after_category": "jamon",
       "after_item": null,
       "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-raciones-v1.webp",
+      "asset_id": "e9fdf30ffb5ea794e47951646e62e6deccf2ad5dd3319259cddb9d4347046685",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "raciones",
+      "alt": "Caña de lomo ibérico de bellota · Ilustración de propuesta"
     }
   ],
   "restoID": "r_e89f9c22057e29f56af4",
   "menuID": "m_ed2c86c165b823df650a",
   "version": 3,
-  "build": "267.2"
+  "build": "267.3"
 }

@@ -478,10 +478,21 @@
       ],
       "after_category": "entrantes",
       "alt": "Ilustración gastronómica · Pinocho Puerto Marina"
+    },
+    {
+      "path": "assets/section-ensaladas-v1.webp",
+      "asset_id": "03eba459fdd90f4fbb5187c4f3fcda988fed97b95c33952766bc3679c64a6d7a",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Veneziana · Ilustración de propuesta"
     }
   ],
   "restoID": "r_c41f68e27e932b663234",
   "menuID": "m_672df3dd7cc26d9c811d",
   "version": 1,
-  "build": "265.10"
+  "build": "267.3"
 }

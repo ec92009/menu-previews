@@ -288,10 +288,21 @@
       "after_category": "huerta",
       "after_item": null,
       "alt": "Tomates con aceite de oliva · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-arroz-v1.webp",
+      "asset_id": "548a4b013ae50eaec362b94b17bbe9fdffb54329d29cd3c7bd4cf68a8f644d61",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "arroz",
+      "alt": "Arroz a banda tradicional · Ilustración de propuesta"
     }
   ],
   "restoID": "r_02ae9a89a4e79ca0a2df",
   "menuID": "m_16dfe5f89d130a3842b3",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

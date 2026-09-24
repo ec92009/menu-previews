@@ -202,10 +202,21 @@
       "after_category": "bowls",
       "after_item": null,
       "alt": "Desayuno mediterráneo · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-tostas-v1.webp",
+      "asset_id": "869d98a32d53d01f982c325b4921391349f4ca6d9fd538e3e92c61b03b5e0470",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "tostas",
+      "alt": "Avo · Ilustración de propuesta"
     }
   ],
   "restoID": "r_366863f7c8e89bda7788",
   "menuID": "m_18729a5497643bbda609",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

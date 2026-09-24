@@ -497,10 +497,21 @@
       "after_category": "entrantes",
       "after_item": null,
       "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-ensaladas-v1.webp",
+      "asset_id": "28b95776818b6c7454dcf34cef9e3bae5cc3ee75de4c89d074079432f67ba42e",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Ensalada de pollo a la plancha · Ilustración de propuesta"
     }
   ],
   "restoID": "r_72f2c1fc6ba05663f709",
   "menuID": "m_cdd737553d0b4a41979b",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

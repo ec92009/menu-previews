@@ -280,10 +280,21 @@
       ],
       "after_category": "ensaladas",
       "alt": "Ilustración gastronómica · Tela Marinera"
+    },
+    {
+      "path": "assets/section-entrantes-v1.webp",
+      "asset_id": "aa5bda6c76458caaf684772b248f95fc5f1a219274d586cde0c7dbd5fa15c018",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "entrantes",
+      "alt": "Camembert de cabra malagueño con mermelada de frambuesa · Ilustración de propuesta"
     }
   ],
   "restoID": "r_73f85f0ea394839235fe",
   "menuID": "m_55ee5f3b1c2c1208a2db",
   "version": 1,
-  "build": "265.3"
+  "build": "267.3"
 }

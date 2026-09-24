@@ -878,10 +878,21 @@
       ],
       "after_category": "para-comenzar",
       "alt": "Ilustración gastronómica · Chiringuito Familiar"
+    },
+    {
+      "path": "assets/section-pescados-mariscos-v1.webp",
+      "asset_id": "bbbdf27a52942f216b29f349348b0ccbd263c8e99283953cb3e18271c2f7f0c4",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "pescados-mariscos",
+      "alt": "Almejas · Ilustración de propuesta"
     }
   ],
   "restoID": "r_5028ff5728b1f1e21662",
   "menuID": "m_7534c15600136e1556cb",
   "version": 1,
-  "build": "265.3"
+  "build": "267.3"
 }

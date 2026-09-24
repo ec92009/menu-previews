@@ -822,10 +822,21 @@
       "after_category": "tostas",
       "after_item": null,
       "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-principales-v1.webp",
+      "asset_id": "7337013ab2f04438dce9143bc8005937964ee1a5bfa6000c9236ab1a0579ea46",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "principales",
+      "alt": "Carrillada en salsa · Ilustración de propuesta"
     }
   ],
   "restoID": "r_eb5934b36829df5247cd",
   "menuID": "m_a82729c44847ac2f7d5a",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

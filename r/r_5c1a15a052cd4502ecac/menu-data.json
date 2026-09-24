@@ -333,10 +333,21 @@
       "after_category": "tostadas",
       "after_item": null,
       "alt": "Tostada de tomate y aceite · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-bocadillos-v1.webp",
+      "asset_id": "f1faf48ac75ec2b313d61343983aadc2e0074727586a7a8c845ce4a15e49e707",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "bocadillos",
+      "alt": "Jamón cocido y queso · Ilustración de propuesta"
     }
   ],
   "restoID": "r_5c1a15a052cd4502ecac",
   "menuID": "m_04cf28147f5a2017d955",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

@@ -574,10 +574,21 @@
       "after_category": "entrantes",
       "after_item": null,
       "alt": "Boquerones en vinagre · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-mariscos-v1.webp",
+      "asset_id": "e4b80ced5897e18db2a958230a2309542f3a8b3d3577d5f1e0541ed98b6ce187",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "mariscos",
+      "alt": "Coquinas (250 grs) · Ilustración de propuesta"
     }
   ],
   "restoID": "r_6dfbb5867bedab7bad39",
   "menuID": "m_ea47f842e659ef9399b5",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

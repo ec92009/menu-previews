@@ -605,10 +605,21 @@
       ],
       "after_category": "sopas-entrantes",
       "alt": "Ilustración gastronómica · Los Manueles"
+    },
+    {
+      "path": "assets/section-ensaladas-v1.webp",
+      "asset_id": "e02d344bf9b4611952a607d505d949545e76fee0ee95f8844177b485029aff25",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "ensaladas",
+      "alt": "Mixta (lechuga, tomate, cebolla, maíz, remolacha, aceitunas, pepino y zanahoria) · Ilustración de propuesta"
     }
   ],
   "restoID": "r_b93f82e94bfe1f8848a7",
   "menuID": "m_efc53f878d53ad2290dd",
   "version": 1,
-  "build": "265.4"
+  "build": "267.3"
 }

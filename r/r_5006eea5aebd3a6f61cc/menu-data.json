@@ -437,10 +437,21 @@
       ],
       "after_category": "para-zarpar",
       "alt": "Ilustración gastronómica · La Caleta Beach Club"
+    },
+    {
+      "path": "assets/section-sugerencias-v1.webp",
+      "asset_id": "2cf4f80c39f8d6e9421c514d97fbc95692eb9a4549933b02e4aba6276f636147",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "sugerencias",
+      "alt": "Patatas bravas estilo Caleta · Ilustración de propuesta"
     }
   ],
   "restoID": "r_5006eea5aebd3a6f61cc",
   "menuID": "m_3c69c3d6d85a6fa3f3ba",
   "version": 1,
-  "build": "265.3"
+  "build": "267.3"
 }

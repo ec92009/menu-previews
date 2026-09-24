@@ -453,10 +453,21 @@
       "after_category": "entradas",
       "after_item": null,
       "alt": "Jamón ibérico · Ilustración de propuesta"
+    },
+    {
+      "path": "assets/section-picoteo-v1.webp",
+      "asset_id": "4d2c010f2d2a1c1fc4d2376ea1c4a179e374a14552e16802e6cb1294e743506a",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "picoteo",
+      "alt": "GAMBITAS DE HUELVA COCIDAS EN AGUA DE MAR · Ilustración de propuesta"
     }
   ],
   "restoID": "r_6b4b22ad9b602d525d97",
   "menuID": "m_981e67e5b923a425aa74",
   "version": 2,
-  "build": "267.2"
+  "build": "267.3"
 }

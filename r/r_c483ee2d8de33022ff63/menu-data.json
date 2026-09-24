@@ -611,10 +611,21 @@
       ],
       "after_category": "pescaito-marisco",
       "alt": "Ilustración gastronómica · La Cigala Playa"
+    },
+    {
+      "path": "assets/section-arroces-v1.webp",
+      "asset_id": "8f817fcb40555d98996e003af75a0c9f751c1643a0ed52e2c48cb7883ba6a925",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "arroces",
+      "alt": "Paella de mariscos · Ilustración de propuesta"
     }
   ],
   "restoID": "r_c483ee2d8de33022ff63",
   "menuID": "m_21c4d53d887d2c042574",
   "version": 1,
-  "build": "265.4"
+  "build": "267.3"
 }

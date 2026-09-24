@@ -389,10 +389,21 @@
       ],
       "after_category": "entrantes",
       "alt": "Ilustración gastronómica · Shamba"
+    },
+    {
+      "path": "assets/section-delicias-mar-v1.webp",
+      "asset_id": "bee0776a4acb6767a8b0a785ed057408dd211fbef2129beae4af642f0089813d",
+      "kind": "generated",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "after_category": "delicias-mar",
+      "alt": "Sardinas · Ilustración de propuesta"
     }
   ],
   "restoID": "r_6c5c5dd804fb66a30479",
   "menuID": "m_b538c98ac21af789a3b4",
   "version": 1,
-  "build": "265.5"
+  "build": "267.3"
 }

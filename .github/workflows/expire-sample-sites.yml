@@ -1,0 +1,36 @@
+name: Expire restaurant sample sites
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: expire-restaurant-samples
+  cancel-in-progress: false
+
+jobs:
+  expire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test cleanup safeguards
+        run: python3 -m unittest discover -s tests
+      - name: Remove expired public sample routes
+        run: python3 scripts/expire_sample_sites.py --apply
+      - name: Verify expired public URLs
+        id: verify
+        run: python3 scripts/verify_expired_sample_sites.py
+      - name: Publish cleanup receipt
+        if: always() && steps.verify.outcome != 'skipped'
+        run: |
+          git add -A r/ round-2/index.html round3/index.html sample-site-lifecycle.json cleanup-receipts/
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "marketing: expire restaurant sample routes"
+            git push
+          fi

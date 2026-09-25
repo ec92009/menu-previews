@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "retention_days": 14,
+  "samples": [
+    {
+      "campaign_id": "2026-09-22-la-paella",
+      "restoID": "r_88d28100c72003024bc7",
+      "published_at": "2026-09-22T08:48:26Z",
+      "expires_at": "2026-10-06T08:48:26Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_62a39d456e9f3cc191e1",
+      "published_at": "2026-09-22T11:35:04Z",
+      "expires_at": "2026-10-06T11:35:04Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_f6a6bcd24141472aa718",
+      "published_at": "2026-09-22T11:35:04Z",
+      "expires_at": "2026-10-06T11:35:04Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_b93f82e94bfe1f8848a7",
+      "published_at": "2026-09-22T11:08:06Z",
+      "expires_at": "2026-10-06T11:08:06Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_6c5c5dd804fb66a30479",
+      "published_at": "2026-09-22T11:35:04Z",
+      "expires_at": "2026-10-06T11:35:04Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_73f85f0ea394839235fe",
+      "published_at": "2026-09-22T10:49:31Z",
+      "expires_at": "2026-10-06T10:49:31Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_5006eea5aebd3a6f61cc",
+      "published_at": "2026-09-22T10:49:31Z",
+      "expires_at": "2026-10-06T10:49:31Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_c483ee2d8de33022ff63",
+      "published_at": "2026-09-22T11:08:06Z",
+      "expires_at": "2026-10-06T11:08:06Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_dd978574511e675c1771",
+      "published_at": "2026-09-22T10:49:31Z",
+      "expires_at": "2026-10-06T10:49:31Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-first-nine",
+      "restoID": "r_5028ff5728b1f1e21662",
+      "published_at": "2026-09-22T10:49:31Z",
+      "expires_at": "2026-10-06T10:49:31Z",
+      "overview_path": null,
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_fe522cac07c697c2c1e8",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_3a6ab5b5f70c42431857",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_95587b5a50468f30ea37",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_67c4d455d0cf63b751bd",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_859cfb58c5a4b4e5a226",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_2a44c1ace504d6dad901",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_6af04e08b4a28f38aa4d",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_6a3b71e986f63d6d4dc6",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_c41f68e27e932b663234",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-22-next-ten",
+      "restoID": "r_491eea621a83a1589e96",
+      "published_at": "2026-09-22T13:37:08Z",
+      "expires_at": "2026-10-06T13:37:08Z",
+      "overview_path": "round-2/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_e27b6200727a6f720029",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_0d2dca812905962970b4",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_02ae9a89a4e79ca0a2df",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_366863f7c8e89bda7788",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_2e5430fef5bc9ee26bc0",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_e11fa6bd3f3f2e864a22",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_eed6302ca658227551cb",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_734f9b1429b5d05cb1ae",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_5c1a15a052cd4502ecac",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_e89f9c22057e29f56af4",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_c9d2d58f2d41dc031940",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_6dfbb5867bedab7bad39",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_ba66390ea240241a54f9",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_d33c38764b5d1ad2c262",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_d2111f405c43dbac542f",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_6b4b22ad9b602d525d97",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_09fd0825912984b1af6a",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_eb5934b36829df5247cd",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_72f2c1fc6ba05663f709",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    },
+    {
+      "campaign_id": "2026-09-24-next-twenty",
+      "restoID": "r_3feec71ebb5268928c31",
+      "published_at": "2026-09-24T08:36:02.787051Z",
+      "expires_at": "2026-10-08T08:36:02.787051Z",
+      "overview_path": "round3/index.html",
+      "status": "active"
+    }
+  ]
+}

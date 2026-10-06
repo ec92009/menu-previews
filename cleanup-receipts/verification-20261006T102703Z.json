@@ -1,0 +1,11 @@
+{
+  "verification_attempted_at": "2026-10-06T10:27:03.022366Z",
+  "verified_removed": [],
+  "unresolved": [
+    {
+      "restoID": "r_88d28100c72003024bc7",
+      "error": "sample URL still responds with HTTP 206"
+    }
+  ],
+  "scope": "public GitHub Pages routes only"
+}

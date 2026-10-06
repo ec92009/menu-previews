@@ -1,0 +1,12 @@
+{
+  "cleanup_completed_at": "2026-10-06T10:27:02.939392Z",
+  "removed_sites": [
+    {
+      "restoID": "r_88d28100c72003024bc7",
+      "route_removed": true
+    }
+  ],
+  "updated_indexes": [],
+  "scope": "current GitHub Pages tree only",
+  "git_history_rewritten": false
+}

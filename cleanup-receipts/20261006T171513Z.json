@@ -1,0 +1,84 @@
+{
+  "cleanup_completed_at": "2026-10-06T17:15:13.600456Z",
+  "removed_sites": [
+    {
+      "restoID": "r_62a39d456e9f3cc191e1",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_f6a6bcd24141472aa718",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_b93f82e94bfe1f8848a7",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_6c5c5dd804fb66a30479",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_73f85f0ea394839235fe",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_5006eea5aebd3a6f61cc",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_c483ee2d8de33022ff63",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_dd978574511e675c1771",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_5028ff5728b1f1e21662",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_fe522cac07c697c2c1e8",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_3a6ab5b5f70c42431857",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_95587b5a50468f30ea37",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_67c4d455d0cf63b751bd",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_859cfb58c5a4b4e5a226",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_2a44c1ace504d6dad901",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_6af04e08b4a28f38aa4d",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_6a3b71e986f63d6d4dc6",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_c41f68e27e932b663234",
+      "route_removed": true
+    },
+    {
+      "restoID": "r_491eea621a83a1589e96",
+      "route_removed": true
+    }
+  ],
+  "updated_indexes": [],
+  "scope": "current GitHub Pages tree only",
+  "git_history_rewritten": false
+}

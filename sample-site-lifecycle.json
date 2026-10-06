@@ -9,7 +9,9 @@
       "expires_at": "2026-10-06T08:48:26Z",
       "overview_path": null,
       "status": "expired",
-      "cleanup_completed_at": "2026-10-06T10:27:02.939392Z"
+      "cleanup_completed_at": "2026-10-06T10:27:02.939392Z",
+      "public_url_verified_at": "2026-10-06T17:15:13.704927Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -17,7 +19,8 @@
       "published_at": "2026-09-22T11:35:04Z",
       "expires_at": "2026-10-06T11:35:04Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -25,7 +28,8 @@
       "published_at": "2026-09-22T11:35:04Z",
       "expires_at": "2026-10-06T11:35:04Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -33,7 +37,8 @@
       "published_at": "2026-09-22T11:08:06Z",
       "expires_at": "2026-10-06T11:08:06Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -41,7 +46,8 @@
       "published_at": "2026-09-22T11:35:04Z",
       "expires_at": "2026-10-06T11:35:04Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -49,7 +55,8 @@
       "published_at": "2026-09-22T10:49:31Z",
       "expires_at": "2026-10-06T10:49:31Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -57,7 +64,8 @@
       "published_at": "2026-09-22T10:49:31Z",
       "expires_at": "2026-10-06T10:49:31Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -65,7 +73,8 @@
       "published_at": "2026-09-22T11:08:06Z",
       "expires_at": "2026-10-06T11:08:06Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -73,7 +82,8 @@
       "published_at": "2026-09-22T10:49:31Z",
       "expires_at": "2026-10-06T10:49:31Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-first-nine",
@@ -81,7 +91,8 @@
       "published_at": "2026-09-22T10:49:31Z",
       "expires_at": "2026-10-06T10:49:31Z",
       "overview_path": null,
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -89,7 +100,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -97,7 +109,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -105,7 +118,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -113,7 +127,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -121,7 +136,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -129,7 +145,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -137,7 +154,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -145,7 +163,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -153,7 +172,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-22-next-ten",
@@ -161,7 +181,8 @@
       "published_at": "2026-09-22T13:37:08Z",
       "expires_at": "2026-10-06T13:37:08Z",
       "overview_path": "round-2/index.html",
-      "status": "active"
+      "status": "expired",
+      "cleanup_completed_at": "2026-10-06T17:15:13.600456Z"
     },
     {
       "campaign_id": "2026-09-24-next-twenty",

@@ -1,0 +1,90 @@
+{
+  "verification_attempted_at": "2026-10-06T17:15:13.704927Z",
+  "verified_removed": [
+    {
+      "restoID": "r_88d28100c72003024bc7",
+      "url": "https://ec92009.github.io/menu-previews/r/r_88d28100c72003024bc7/",
+      "http_status": 404,
+      "attempts": 1
+    }
+  ],
+  "unresolved": [
+    {
+      "restoID": "r_b93f82e94bfe1f8848a7",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_73f85f0ea394839235fe",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_6c5c5dd804fb66a30479",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_5006eea5aebd3a6f61cc",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_dd978574511e675c1771",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_c483ee2d8de33022ff63",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_62a39d456e9f3cc191e1",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_f6a6bcd24141472aa718",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_5028ff5728b1f1e21662",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_95587b5a50468f30ea37",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_3a6ab5b5f70c42431857",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_fe522cac07c697c2c1e8",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_6af04e08b4a28f38aa4d",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_67c4d455d0cf63b751bd",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_859cfb58c5a4b4e5a226",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_2a44c1ace504d6dad901",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_6a3b71e986f63d6d4dc6",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_c41f68e27e932b663234",
+      "error": "sample URL still responds with HTTP 206"
+    },
+    {
+      "restoID": "r_491eea621a83a1589e96",
+      "error": "sample URL still responds with HTTP 206"
+    }
+  ],
+  "scope": "public GitHub Pages routes only"
+}

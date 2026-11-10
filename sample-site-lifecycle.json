@@ -229,7 +229,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -238,7 +240,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -247,7 +251,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -256,7 +262,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -265,7 +273,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -274,7 +284,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -283,7 +295,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -292,7 +306,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -301,7 +317,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -310,7 +328,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -319,7 +339,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -328,7 +350,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -337,7 +361,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -346,7 +372,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -355,7 +383,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -364,7 +394,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -373,7 +405,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -382,7 +416,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -391,7 +427,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     },
     {
       "campaign_id": "2026-09-24-next-twenty",
@@ -400,7 +438,9 @@
       "expires_at": "2026-10-08T08:36:02.787051Z",
       "overview_path": "round3/index.html",
       "status": "expired",
-      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z"
+      "cleanup_completed_at": "2026-10-08T09:05:07.799979Z",
+      "public_url_verified_at": "2026-11-10T13:27:33.307103Z",
+      "public_url_http_status": 404
     }
   ]
 }

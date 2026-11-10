@@ -1,0 +1,127 @@
+{
+  "verification_attempted_at": "2026-11-10T13:27:33.307103Z",
+  "verified_removed": [
+    {
+      "restoID": "r_eed6302ca658227551cb",
+      "url": "https://ec92009.github.io/menu-previews/r/r_eed6302ca658227551cb/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_2e5430fef5bc9ee26bc0",
+      "url": "https://ec92009.github.io/menu-previews/r/r_2e5430fef5bc9ee26bc0/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_e11fa6bd3f3f2e864a22",
+      "url": "https://ec92009.github.io/menu-previews/r/r_e11fa6bd3f3f2e864a22/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_e27b6200727a6f720029",
+      "url": "https://ec92009.github.io/menu-previews/r/r_e27b6200727a6f720029/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_02ae9a89a4e79ca0a2df",
+      "url": "https://ec92009.github.io/menu-previews/r/r_02ae9a89a4e79ca0a2df/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_c9d2d58f2d41dc031940",
+      "url": "https://ec92009.github.io/menu-previews/r/r_c9d2d58f2d41dc031940/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_5c1a15a052cd4502ecac",
+      "url": "https://ec92009.github.io/menu-previews/r/r_5c1a15a052cd4502ecac/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_6dfbb5867bedab7bad39",
+      "url": "https://ec92009.github.io/menu-previews/r/r_6dfbb5867bedab7bad39/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_ba66390ea240241a54f9",
+      "url": "https://ec92009.github.io/menu-previews/r/r_ba66390ea240241a54f9/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_734f9b1429b5d05cb1ae",
+      "url": "https://ec92009.github.io/menu-previews/r/r_734f9b1429b5d05cb1ae/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_e89f9c22057e29f56af4",
+      "url": "https://ec92009.github.io/menu-previews/r/r_e89f9c22057e29f56af4/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_0d2dca812905962970b4",
+      "url": "https://ec92009.github.io/menu-previews/r/r_0d2dca812905962970b4/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_366863f7c8e89bda7788",
+      "url": "https://ec92009.github.io/menu-previews/r/r_366863f7c8e89bda7788/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_d33c38764b5d1ad2c262",
+      "url": "https://ec92009.github.io/menu-previews/r/r_d33c38764b5d1ad2c262/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_d2111f405c43dbac542f",
+      "url": "https://ec92009.github.io/menu-previews/r/r_d2111f405c43dbac542f/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_6b4b22ad9b602d525d97",
+      "url": "https://ec92009.github.io/menu-previews/r/r_6b4b22ad9b602d525d97/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_72f2c1fc6ba05663f709",
+      "url": "https://ec92009.github.io/menu-previews/r/r_72f2c1fc6ba05663f709/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_3feec71ebb5268928c31",
+      "url": "https://ec92009.github.io/menu-previews/r/r_3feec71ebb5268928c31/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_09fd0825912984b1af6a",
+      "url": "https://ec92009.github.io/menu-previews/r/r_09fd0825912984b1af6a/",
+      "http_status": 404,
+      "attempts": 1
+    },
+    {
+      "restoID": "r_eb5934b36829df5247cd",
+      "url": "https://ec92009.github.io/menu-previews/r/r_eb5934b36829df5247cd/",
+      "http_status": 404,
+      "attempts": 1
+    }
+  ],
+  "unresolved": [],
+  "scope": "public GitHub Pages routes only"
+}
